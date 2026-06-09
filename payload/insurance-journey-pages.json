@@ -1,0 +1,64 @@
+{
+  "data": {
+    "subProduct": "motor",
+    "partner": "default",
+    "quotePlanDetails": {
+      "enabled": true,
+      "content": {
+        "title": "Select Plan",
+        "policyYear": "1-yr plan",
+        "logoSrc": "${ASSETS_BASE}/dashboard/icic.webp",
+        "logoAlt": "ICICI Lombard",
+        "quotePlanDetailsIcons": {
+          "networkGarages": "${ASSETS_BASE}/motor/Icon.webp",
+          "claimRatio": "${ASSETS_BASE}/motor/check-circle.webp",
+          "roadsideAssistanceIcon": "${ASSETS_BASE}/motor/tow-truck.webp",
+          "creditScorePromoIconSrc": "${ASSETS_BASE}/motor/percent.webp",
+          "creditScorePromoIconAlt": "Credit Score",
+          "creditScoreChevronIconSrc": "${ASSETS_BASE}/motor/chevron-right-circle.webp",
+          "availabilityIcon": "${ASSETS_BASE}/vehicle-insurance/information.webp",
+          "availabilityIconAlt": "Information",
+          "unlockIcon": "${ASSETS_BASE}/motor/percentage.webp",
+          "infoIcon": "${ASSETS_BASE}/vehicle-insurance/information.webp",
+          "creditScoreUnlockIconSrc": "${ASSETS_BASE}/motor/percentage.webp",
+          "creditScoreUnlockIconAlt": "Unlock savings"
+        },
+        "upsellAddons": [
+          {
+            "addonId": "4",
+            "name": "Zero Depreciation",
+            "label": "Zero dep",
+            "checked": false,
+            "logo": "",
+            "description": "Zero depreciation cover"
+          },
+          {
+            "addonId": "1",
+            "name": "Personal Accident Cover",
+            "label": "PA cover",
+            "checked": false,
+            "logo": "",
+            "description": "Personal accident cover",
+            "minAmount": 1500000
+          }
+        ]
+      }
+    },
+    "revisedPremium": {
+      "enabled": true,
+      "content": {
+        "title": "Car insurance",
+        "submitButtonText": "Continue",
+        "heading": "Your premium has been revised",
+        "previousPremium": "₹13,102",
+        "revisedPremium": "₹14,025",
+        "vehicleIconSrc": null,
+        "vehicleModelName": "Hyundai Fluidic Verna",
+        "policyYear": "1-yr plan",
+        "vehicleRegistrationNumber": "MH01AB1234",
+        "planBadgeText": "Comprehensive plan",
+        "logoSrc": null
+      }
+    }
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "subProduct": "gold",
+    "partner": "default",
+    "sectionTitleComparison": "Compare Gold Prices",
+    "sectionSubtitleVideos": "Watch How It Works",
+    "sectionTitleReferral": "Refer a Friend",
+    "livePriceDisclaimer": "Live prices updated every 5 minutes",
+    "livePriceInfoTooltip": "Live prices are updated every 5 minutes based on market rates from MMTC-PAMP",
+    "footerReferenceHeading": "Offered by",
+    "footerReferenceName": "ABCD Bank",
+    "footerReferenceCertification": "ISO 9001 Certified",
+    "heroImagePath": "/assets/images/digimetal/hero.png",
+    "patternImagePath": "/assets/images/digimetal/pattern.png",
+    "maskImagePath": "/assets/images/digimetal/mask.png",
+    "transactionsEmptyImagePath": "/assets/images/digimetal/empty-transactions.png",
+    "mmtcLogoPath": "/assets/images/digimetal/mmtc-logo.png",
+    "footerBarsImagePath": "/assets/images/digimetal/footer-bars.png",
+    "headerLogoAlt": "ABCD DigiMetal",
+    "footerLogoAlt": "ABCD Logo",
+    "timelyBenefits": [],
+    "actionCards": {
+      "enabled": true,
+      "cards": [
+        {
+          "cardId": "buy-gold",
+          "title": "Buy Gold",
+          "description": "Start investing in 24K pure gold",
+          "iconSrc": "/assets/dashboard/buy-gold.svg",
+          "iconAlt": "Buy Gold",
+          "ctaText": "Buy Now",
+          "ctaLink": "/digimetal/buy"
+        },
+        {
+          "cardId": "sell-gold",
+          "title": "Sell Gold",
+          "description": "Redeem your gold instantly",
+          "iconSrc": "/assets/dashboard/sell-gold.svg",
+          "iconAlt": "Sell Gold",
+          "ctaText": "Sell Now",
+          "ctaLink": "/digimetal/sell"
+        },
+        {
+          "cardId": "gift-gold",
+          "title": "Gift Gold",
+          "description": "Share the gift of gold",
+          "iconSrc": "/assets/dashboard/gift-gold.svg",
+          "iconAlt": "Gift Gold",
+          "ctaText": "Gift Now",
+          "ctaLink": "/digimetal/gift"
+        }
+      ]
+    },
+    "comparisonColumns": {
+      "enabled": true,
+      "columns": [
+        {
+          "columnId": "physical-gold",
+          "title": "Physical Gold",
+          "features": ["Making charges", "Storage risk", "Purity concerns"]
+        },
+        {
+          "columnId": "digimetal-gold",
+          "title": "DigiMetal Gold",
+          "features": ["Zero making charges", "Secure vault storage", "999.9 purity assured"]
+        }
+      ]
+    },
+    "comparisonRows": {
+      "enabled": true,
+      "rows": [
+        {
+          "label": "Purity",
+          "physicalGold": "Varies",
+          "digimetalGold": "999.9 Pure"
+        },
+        {
+          "label": "Storage",
+          "physicalGold": "At home",
+          "digimetalGold": "MMTC-PAMP Vaults"
+        },
+        {
+          "label": "Liquidity",
+          "physicalGold": "Limited",
+          "digimetalGold": "Instant sell"
+        }
+      ]
+    },
+    "footerFeatures": {
+      "enabled": true,
+      "features": [
+        {
+          "featureId": "secure-storage",
+          "iconSrc": "/assets/dashboard/secure.svg",
+          "iconAlt": "Secure Storage",
+          "title": "Secure Storage",
+          "description": "Your gold stored in MMTC-PAMP vaults"
+        },
+        {
+          "featureId": "instant-liquidity",
+          "iconSrc": "/assets/dashboard/liquidity.svg",
+          "iconAlt": "Instant Liquidity",
+          "title": "Instant Liquidity",
+          "description": "Sell anytime at live market rates"
+        },
+        {
+          "featureId": "zero-charges",
+          "iconSrc": "/assets/dashboard/zero-charges.svg",
+          "iconAlt": "Zero Charges",
+          "title": "Zero Charges",
+          "description": "No storage or making charges"
+        }
+      ]
+    },
+    "sidebarFAQs": {
+      "enabled": true,
+      "faqs": [
+        {
+          "question": "Is my gold safe?",
+          "answer": "Yes, your gold is stored in secure MMTC-PAMP vaults with 100% insurance coverage."
+        },
+        {
+          "question": "Can I take physical delivery?",
+          "answer": "Yes, you can request physical delivery of gold coins starting from 1 gram."
+        },
+        {
+          "question": "How is the price determined?",
+          "answer": "Prices are determined by MMTC-PAMP based on international gold rates and updated every 5 minutes."
+        }
+      ]
+    },
+    "videos": {
+      "enabled": true,
+      "videos": [
+        {
+          "videoId": "how-it-works",
+          "title": "How DigiMetal Works",
+          "thumbnailSrc": "/assets/videos/how-it-works-thumb.png",
+          "videoUrl": "https://www.youtube.com/watch?v=demo123",
+          "duration": "2:30"
+        }
+      ]
+    },
+    "promoBanners": {
+      "enabled": true,
+      "banners": [
+        {
+          "bannerId": "referral-bonus",
+          "imageSrc": "/assets/banners/referral.png",
+          "imageAlt": "Refer and Earn",
+          "linkUrl": "/refer",
+          "isActive": true
+        }
+      ]
+    },
+    "keyHighlightsConfig": {
+      "holdingsLabel": "Gold Holdings",
+      "badgeText": "999.9 Pure",
+      "title": "Your DigiMetal Portfolio",
+      "ctaText": "View Details",
+      "holdingsInfoText": "Your total holdings include all purchased and gifted gold units stored in secure MMTC-PAMP vaults",
+      "highlights": [
+        {
+          "highlightId": "purity",
+          "iconSrc": "/assets/highlights/purity.svg",
+          "iconAlt": "Purity",
+          "title": "999.9 Pure",
+          "description": "24K gold with assured purity"
+        },
+        {
+          "highlightId": "storage",
+          "iconSrc": "/assets/highlights/storage.svg",
+          "iconAlt": "Storage",
+          "title": "Secure Storage",
+          "description": "Stored in MMTC-PAMP vaults"
+        },
+        {
+          "highlightId": "returns",
+          "iconSrc": "/assets/highlights/returns.svg",
+          "iconAlt": "Returns",
+          "title": "Great Returns",
+          "description": "Historical gold returns of 10-12% CAGR"
+        }
+      ]
+    },
+    "transactionsEmptyStateConfig": {
+      "enabled": true,
+      "title": "No Transactions Yet",
+      "description": "Start your gold investment journey today",
+      "ctaText": "Buy Gold",
+      "ctaLink": "/digimetal/buy"
+    },
+    "referralBannerAssets": {
+      "enabled": true,
+      "title": "Refer & Earn",
+      "description": "Invite friends and earn gold rewards",
+      "referralLink": "/refer",
+      "bannerImageSrc": "/assets/referral/banner.png",
+      "bannerImageAlt": "Refer and Earn"
+    },
+    "userSidebarAssets": {
+      "iconProfilePath": "/assets/sidebar/profile.png",
+      "iconInfoPath": "/assets/sidebar/info.png",
+      "iconLogoutPath": "/assets/sidebar/logout.png",
+      "logoFooterPath": "/assets/sidebar/footer-logo.png",
+      "logoutIllustrationPath": "/assets/sidebar/logout-illustration.png",
+      "otpIllustrationPath": "/assets/sidebar/otp-illustration.png",
+      "aboutUs": {
+        "title": "About Us",
+        "description": "DigiMetal is your trusted digital platform for investing in gold and silver. We provide secure, transparent, and convenient ways to buy, sell, and store precious metals with assured purity and competitive pricing.",
+        "logo": null,
+        "termsAndConditions": {
+          "title": "Terms & Conditions",
+          "content": "By accessing and using this service, you accept and agree to be bound by the terms and provision of this agreement.\n\n**Use License**\nPermission is granted to temporarily access the materials on our platform for personal, non-commercial use only.\n\n**Disclaimer**\nThe materials are provided on an 'as is' basis. We make no warranties and disclaim all liability for indirect damages."
+        },
+        "privacyPolicy": {
+          "title": "Privacy Policy",
+          "content": "This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from our platform.\n\n**Personal Information We Collect**\nWhen you visit the site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device.\n\n**How Do We Use Your Personal Information?**\nWe use the information that we collect generally to fulfill any orders placed through the site (including processing your payment information and providing you with invoices and/or order confirmations)."
+        }
+      }
+    },
+    "globalDisclaimer": {
+      "enabled": true,
+      "text": "Investment in gold is subject to market risks. Past performance is not indicative of future returns."
+    },
+    "giftReceiverPage": {
+      "enabled": true,
+      "title": "Gift Received",
+      "description": "You have received a gold gift",
+      "acceptButtonText": "Accept Gift",
+      "rejectButtonText": "Reject Gift"
+    },
+    "aiInsights": {
+      "enabled": true,
+      "header": "Insight For You",
+      "mascotImage": null,
+      "ctaLabel": "Ask AI",
+      "screenConfig": {
+        "dashboard": {
+          "enabled": true
+        },
+        "buy": {
+          "enabled": true
+        },
+        "buy-summary": {
+          "enabled": true
+        },
+        "sip-details": {
+          "enabled": true
+        },
+        "sip-summary": {
+          "enabled": true
+        },
+        "success": {
+          "enabled": true
+        }
+      }
+    }
+  }
+}

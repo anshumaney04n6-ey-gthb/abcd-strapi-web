@@ -1,0 +1,492 @@
+{
+  "data": {
+    "subProduct": "health",
+    "partner": "default",
+    "sidebarFAQs": {
+      "enabled": true,
+      "content": [
+        {
+          "faqId": "why-health-insurance",
+          "title": "Why Health Insurance?",
+          "content": "Health insurance protects you financially from medical expenses...",
+          "isExternal": false,
+          "order": 1
+        },
+        {
+          "faqId": "how-it-works",
+          "title": "How Health Insurance at ABCD works?",
+          "content": "ABCD health insurance offers comprehensive coverage...",
+          "isExternal": false,
+          "order": 2
+        },
+        {
+          "faqId": "other-questions",
+          "title": "Other questions?",
+          "content": "",
+          "isExternal": true,
+          "externalUrl": "https://help.abcd.com/health-insurance",
+          "order": 3
+        }
+      ]
+    },
+    "footerFeatures": {
+      "enabled": true,
+      "content": [
+        {
+          "text": "23M+ lives insured nationwide",
+          "order": 1
+        },
+        {
+          "text": "Easy claim assistance",
+          "order": 2
+        },
+        {
+          "text": "96% claims settled (FY 2024-25)",
+          "order": 3
+        }
+      ]
+    },
+    "footerReferenceHeading": "Powered by",
+    "footerReferenceName": "ABCD",
+    "footerReferenceCertification": "ISO 27001:2013 certified.",
+    "footerLogo": null,
+    "footerSideLogo": null,
+    "header": {
+      "logoSrc": null,
+      "logoAlt": "ABCD Logo",
+      "logoSize": "default",
+      "mobileLogoSrc": null,
+      "mobileLogoAlt": "ABCD Logo",
+      "mobileLogoSize": "default"
+    },
+    "productCards": {
+      "enabled": true,
+      "content": [
+        {
+          "cardId": "new-health-plan",
+          "title": "New health Plan",
+          "description": "Insure you and your family's health with the right cover",
+          "ctaText": "Explore",
+          "badge": "Popular",
+          "enable": true,
+          "order": 1,
+          "illustration": {
+            "iconPath": null,
+            "accentEllipsePath": null
+          }
+        }
+      ]
+    },
+    "trustMarkers": {
+      "enabled": true,
+      "content": [
+        {
+          "markerId": "lives-insured",
+          "text": "23M+ lives insured nationwide",
+          "iconPath": null,
+          "order": 1
+        }
+      ]
+    },
+    "discoverItems": {
+      "enabled": true,
+      "content": [
+        {
+          "itemId": "cashless-claims",
+          "title": "Cashless claims at 12,900+ hospitals",
+          "description": "No upfront payments. No stress. Just care.",
+          "iconPath": null,
+          "showChevron": true,
+          "destinationUrl": "https://www.abcd.com/health-insurance/cashless-hospitals",
+          "order": 1,
+          "trailingIcon": null
+        },
+        {
+          "itemId": "health-track",
+          "title": "Health Track",
+          "description": "One quick face scan. 20+ health insights",
+          "showChevron": false,
+          "highlighted": true,
+          "theme": "purple",
+          "iconSize": 32,
+          "destinationUrl": "https://google.com",
+          "order": 3,
+          "trailingIcon": null
+        }
+      ]
+    },
+    "heroSlides": {
+      "enabled": true,
+      "content": [
+        {
+          "slideId": "slide-1",
+          "title": "Health Insurance is now Tax-free!",
+          "subtitle": "Get the same coverage at a lower premium.",
+          "ctaText": "Buy now",
+          "order": 1,
+          "buyNowCtaDestination": "https://www.abcd.com/health-insurance/buy",
+          "bannerIconPath": null
+        },
+        {
+          "slideId": "slide-2",
+          "title": "Comprehensive Coverage for Your Family",
+          "subtitle": "Protect your loved ones with our best plans.",
+          "ctaText": "Get Quote",
+          "buyNowCtaDestination": "",
+          "order": 2
+        }
+      ]
+    },
+    "quickSolutionCard": {
+      "title": "Need quick solutions?",
+      "subtitle": "Buy Pocket insurance tailored for your needs!",
+      "destinationUrl": "https://google.com",
+      "icon": null,
+      "trailingIcon": null
+    },
+    "disclaimer": {
+      "content": "Disclaimer body text...",
+      "headerTitle": "Disclaimer",
+      "title": "Disclaimer",
+      "doneButtonText": "Done"
+    },
+    "manageItems": {
+      "enabled": true,
+      "content": [
+        {
+          "itemId": "ai-policy-reader",
+          "icon": null,
+          "title": "Know your existing health policy",
+          "description": "See what your policy covers in minutes",
+          "trailingIcon": null,
+          "showChevron": true,
+          "highlighted": true,
+          "iconSize": 26,
+          "destinationUrl": "https://google.com",
+          "order": 1
+        },
+        {
+          "itemId": "my-policies",
+          "icon": null,
+          "title": "My policies",
+          "description": "View your active and past policies",
+          "highlighted": false,
+          "iconSize": 26,
+          "destinationUrl": "",
+          "showChevron": true,
+          "order": 2,
+          "trailingIcon": null
+        }
+      ]
+    },
+    "contactInfo": {
+      "enabled": true,
+      "content": [
+        {
+          "itemId": "contact-number",
+          "label": "Contact number:",
+          "value": "1800 270 7000",
+          "order": 1
+        },
+        {
+          "itemId": "email",
+          "label": "E-mail:",
+          "value": "care.digital@adityabirlacapital.com",
+          "order": 2
+        }
+      ]
+    },
+    "cashlessHospitalizationBanner": {
+      "message": "Go cashless at any hospital for worry-free coverage.",
+      "actionLabel": "List of cashless network hospitals",
+      "actionUrl": "https://www.adityabirlacapital.com"
+    },
+    "cashlessHospitalizationSections": {
+      "enabled": true,
+      "content": [
+        {
+          "sectionId": "steps-to-follow",
+          "title": "Steps to follow:",
+          "icon": null,
+          "order": 1,
+          "items": [
+            {
+              "itemId": "planned",
+              "title": "For planned hospitalization -",
+              "description": "Claim intimation to be done at least 48 hours before hospitalization",
+              "order": 1
+            },
+            {
+              "itemId": "emergency",
+              "title": "For emergency hospitalization -",
+              "description": "Claim intimation to be done within 48 hours of hospitalization",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "sectionId": "points-to-know",
+          "title": "Points to know:",
+          "icon": null,
+          "order": 2,
+          "items": [
+            {
+              "itemId": "acceptance",
+              "description": "This facility will be available subject to acceptance of the hospital.",
+              "order": 1,
+              "title": ""
+            },
+            {
+              "itemId": "terms",
+              "description": "Policy benefits, exclusions and inclusions are subject to terms and conditions.",
+              "order": 2,
+              "title": ""
+            },
+            {
+              "itemId": "blacklist",
+              "description": "Service is not available at Blacklisted hospitals.",
+              "order": 3,
+              "title": ""
+            }
+          ]
+        },
+        {
+          "sectionId": "claim-intimation",
+          "title": "Claim intimation:",
+          "icon": null,
+          "order": 3,
+          "items": [
+            {
+              "itemId": "toll-free",
+              "title": "Toll-free number -",
+              "description": "1800 270 7000",
+              "order": 1
+            },
+            {
+              "itemId": "email",
+              "title": "Email -",
+              "description": "care.digital@adityabirlacapital.com",
+              "order": 2
+            }
+          ]
+        }
+      ]
+    },
+    "cashlessHospitalizationSidebar": {
+      "headerTitle": "Cashless hospitalization",
+      "doneButtonText": "Done"
+    },
+    "healthplans": [
+      {
+        "planId": "plan-1",
+        "logoUrl": null,
+        "planName": "ABHI Health Secure",
+        "planSubtitle": "",
+        "planTagText": "",
+        "specialOfferText": "",
+        "ctaText": "Buy now",
+        "benefits": [
+          "HealthReturns up to 100%",
+          "Single private AC room",
+          "Super reload",
+          "Super credit"
+        ],
+        "showDetailsLink": true,
+        "detailsLinkText": "View more details",
+        "planBenefits": {
+          "policyDocsLabel": "Policy docs",
+          "chips": [
+            {
+              "chipId": "top-benefits",
+              "label": "Top benefits",
+              "benefits": [
+                {
+                  "icon": null,
+                  "title": "HealthReturns up to 100%",
+                  "description": "Earn premium returns by maintaining healthy activity goals."
+                },
+                {
+                  "icon": null,
+                  "title": "Customize your plan",
+                  "description": "Adjust benefits with optional add-ons based on your family needs."
+                },
+                {
+                  "icon": null,
+                  "title": "Home health care",
+                  "description": "Access selected healthcare services at home under policy terms."
+                }
+              ]
+            },
+            {
+              "chipId": "covered",
+              "label": "What's Covered?",
+              "benefits": [
+                {
+                  "icon": null,
+                  "title": "In-patient hospitalization",
+                  "description": "Covers hospitalization expenses for covered illnesses and procedures."
+                },
+                {
+                  "icon": null,
+                  "title": "Day care procedures",
+                  "description": "Includes eligible same-day treatments that do not require 24-hour admission."
+                },
+                {
+                  "icon": null,
+                  "title": "Cashless treatment",
+                  "description": "Cashless access at network hospitals subject to policy terms and conditions."
+                }
+              ]
+            },
+            {
+              "chipId": "waiting-period",
+              "label": "Waiting period",
+              "timeline": [
+                {
+                  "period": "30 days after activation",
+                  "description": [
+                    "Accidental Cover"
+                  ]
+                },
+                {
+                  "period": "2 years after activation",
+                  "description": [
+                    "Accidental Cover",
+                    "Specific Illnesses Cover"
+                  ]
+                },
+                {
+                  "period": "3 years after activation",
+                  "description": [
+                    "Accidental Cover",
+                    "Specific Illnesses Cover",
+                    "Maternity and Newborn Cover"
+                  ]
+                }
+              ]
+            },
+            {
+              "chipId": "eligibility-criteria",
+              "label": "Eligibility Criteria",
+              "benefits": [
+                {
+                  "icon": null,
+                  "title": "Minimum/Maximum entry age (Adult)",
+                  "description": [
+                    "Minimum 18 years, Maximum - No capping"
+                  ]
+                },
+                {
+                  "icon": null,
+                  "title": "Minimum/Maximum entry age (Child)",
+                  "description": [
+                    "Depending Child (Floater / Multi Individual), Maximum - 91 days to 25 years",
+                    "Individual - minimum age of entry - 5 years"
+                  ]
+                }
+              ]
+            }
+          ],
+          "defaultChipId": "top-benefits"
+        },
+        "order": 0
+      },
+      {
+        "planId": "plan-2",
+        "logoUrl": null,
+        "planName": "ABHI Health Secure Plus",
+        "planSubtitle": "",
+        "planTagText": "",
+        "specialOfferText": "",
+        "ctaText": "Buy now",
+        "benefits": [
+          "HealthReturns up to 100%",
+          "Single private AC room",
+          "Super reload",
+          "Super credit"
+        ],
+        "showDetailsLink": true,
+        "detailsLinkText": "View more details",
+        "planBenefits": {
+          "policyDocsLabel": "Policy docs",
+          "chips": [
+            {
+              "chipId": "waiting-period",
+              "label": "Waiting period",
+              "timeline": [
+                {
+                  "period": "30 days after activation",
+                  "description": [
+                    "Accidental Cover"
+                  ]
+                },
+                {
+                  "period": "2 years after activation",
+                  "description": [
+                    "Accidental Cover",
+                    "Specific Illnesses Cover"
+                  ]
+                },
+                {
+                  "period": "3 years after activation",
+                  "description": [
+                    "Accidental Cover",
+                    "Specific Illnesses Cover",
+                    "Maternity and Newborn Cover"
+                  ]
+                }
+              ]
+            },
+            {
+              "chipId": "eligibility-criteria",
+              "label": "Eligibility Criteria",
+              "benefits": [
+                {
+                  "icon": null,
+                  "title": "Minimum/Maximum entry age (Adult)",
+                  "description": [
+                    "Minimum 18 years, Maximum - No capping"
+                  ]
+                },
+                {
+                  "icon": null,
+                  "title": "Minimum/Maximum entry age (Child)",
+                  "description": [
+                    "Depending Child (Floater / Multi Individual), Maximum - 91 days to 25 years",
+                    "Individual - minimum age of entry - 5 years"
+                  ]
+                }
+              ]
+            }
+          ],
+          "defaultChipId": "waiting-period"
+        },
+        "order": 0
+      }
+    ],
+    "healthPlansSidebar": {
+      "viewAllPlansSidebar": {
+        "enabled": true,
+        "pageTitle": "Home Page",
+        "doneButtonText": "Done",
+        "headerTitle": "",
+        "subTitle": "",
+        "searchPlaceholder": "Ask me anything?"
+      },
+      "planBenefitsSidebar": {
+        "enabled": true,
+        "pageTitle": "Plan details",
+        "headerTitle": "",
+        "subTitle": "",
+        "searchPlaceholder": "Ask me anything?"
+      }
+    },
+    "planBenefitsSidebar": {
+      "enabled": true,
+      "pageTitle": "Plan details",
+      "headerTitle": "",
+      "subTitle": "",
+      "searchPlaceholder": "Ask me anything?"
+    }
+  }
+}

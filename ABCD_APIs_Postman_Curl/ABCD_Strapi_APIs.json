@@ -1,0 +1,591 @@
+{
+  "info": {
+    "name": "ABCD Strapi APIs",
+    "description": "Collection of ABCD Portal Strapi API endpoints",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "https://abcduat1.abcscuat.com",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "digimetal",
+      "item": [
+        {
+          "name": "digimetal-csp-configs",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/digimetal-csp-configs?populate=*&filters[subProduct][$eq]=gold&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "digimetal-csp-configs"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "gold"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "digimetal-dashboard-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/digimetal-dashboard-pages?populate=*&filters[subProduct][$eq]=gold&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "digimetal-dashboard-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "gold"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "digimetal-journey-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/digimetal-journey-pages?populate=*&filters[subProduct][$eq]=gold&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "digimetal-journey-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "gold"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "digimetal-landing-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/digimetal-landing-pages?populate=*&filters[subProduct][$eq]=gold&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "digimetal-landing-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "gold"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "digimetal-channel-mappings",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/digimetal-channel-mappings?populate=*",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "digimetal-channel-mappings"],
+              "query": [
+                {"key": "populate", "value": "*"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "digimetal-navigations",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/digimetal-navigations?populate=*&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "digimetal-navigations"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "digimetal-partner-configs",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/digimetal-partner-configs?populate=*",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "digimetal-partner-configs"],
+              "query": [
+                {"key": "populate", "value": "*"}
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "loans",
+      "item": [
+        {
+          "name": "loans-csp-configs",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/loans-csp-configs?populate=*&filters[subProduct][$eq]=personal&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "loans-csp-configs"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "personal"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "loans-dashboard-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/loans-dashboard-pages?populate=*&filters[subProduct][$eq]=personal&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "loans-dashboard-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "personal"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "loans-journey-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/loans-journey-pages?populate=*&filters[subProduct][$eq]=personal&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "loans-journey-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "personal"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "loans-landing-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/loans-landing-pages?populate=*&filters[subProduct][$eq]=personal&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "loans-landing-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "personal"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "loans-channel-mappings",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/loans-channel-mappings?populate=*",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "loans-channel-mappings"],
+              "query": [
+                {"key": "populate", "value": "*"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "loans-navigations",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/loans-navigations?populate=*&filters[subProduct][$eq]=personal&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "loans-navigations"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "personal"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "loans-partner-configs",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/loans-partner-configs?populate=*",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "loans-partner-configs"],
+              "query": [
+                {"key": "populate", "value": "*"}
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "insurance",
+      "item": [
+        {
+          "name": "insurance-csp-configs",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/insurance-csp-configs?populate=*&filters[subProduct][$eq]=motor&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "insurance-csp-configs"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "motor"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "insurance-dashboard-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/insurance-dashboard-pages?populate=*&filters[subProduct][$eq]=motor&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "insurance-dashboard-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "motor"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "insurance-journey-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/insurance-journey-pages?populate=*&filters[subProduct][$eq]=motor&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "insurance-journey-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "motor"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "insurance-landing-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/insurance-landing-pages?populate=*&filters[subProduct][$eq]=motor&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "insurance-landing-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "motor"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "insurance-channel-mappings",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/insurance-channel-mappings?populate=*",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "insurance-channel-mappings"],
+              "query": [
+                {"key": "populate", "value": "*"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "insurance-navigations",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/insurance-navigations?populate=*&filters[subProduct][$eq]=motor&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "insurance-navigations"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "motor"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "insurance-partner-configs",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/insurance-partner-configs?populate=*",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "insurance-partner-configs"],
+              "query": [
+                {"key": "populate", "value": "*"}
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "investments",
+      "item": [
+        {
+          "name": "investments-csp-configs",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/investments-csp-configs?populate=*&filters[subProduct][$eq]=mutual-funds&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "investments-csp-configs"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "mutual-funds"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "investments-dashboard-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/investments-dashboard-pages?populate=*&filters[subProduct][$eq]=mutual-funds&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "investments-dashboard-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "mutual-funds"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "investments-journey-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/investments-journey-pages?populate=*&filters[subProduct][$eq]=mutual-funds&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "investments-journey-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "mutual-funds"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "investments-landing-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/investments-landing-pages?populate=*&filters[subProduct][$eq]=mutual-funds&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "investments-landing-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "mutual-funds"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "investments-channel-mappings",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/investments-channel-mappings?populate=*&filters[subProduct][$eq]=mutual-funds&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "investments-channel-mappings"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "mutual-funds"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "investments-navigations",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/investments-navigations?populate=*&filters[subProduct][$eq]=mutual-funds&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "investments-navigations"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "mutual-funds"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "investments-partner-configs",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/investments-partner-configs?populate=*",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "investments-partner-configs"],
+              "query": [
+                {"key": "populate", "value": "*"}
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "cards",
+      "item": [
+        {
+          "name": "cards-dashboard-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/cards-dashboard-pages?populate=*&filters[subProduct][$eq]=credit&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "cards-dashboard-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "credit"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "cards-journey-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/cards-journey-pages?populate=*&filters[subProduct][$eq]=credit&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "cards-journey-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "credit"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "cards-landing-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/cards-landing-pages?populate=*&filters[subProduct][$eq]=credit&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "cards-landing-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "credit"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "cards-channel-mappings",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/cards-channel-mappings?populate=*&filters[subProduct][$eq]=credit&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "cards-channel-mappings"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "credit"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "cards-navigations",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/cards-navigations?populate=*&filters[subProduct][$eq]=credit&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "cards-navigations"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "credit"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        },
+        {
+          "name": "cards-partner-configs",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/cards-partner-configs?populate=*&filters[subProduct][$eq]=credit&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "cards-partner-configs"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "credit"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "tracks",
+      "item": [
+        {
+          "name": "tracks-landing-pages",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{baseUrl}}/strapi/api/tracks-landing-pages?populate=*&filters[subProduct][$eq]=credit&filters[partner][$eq]=default",
+              "host": ["{{baseUrl}}"],
+              "path": ["strapi", "api", "tracks-landing-pages"],
+              "query": [
+                {"key": "populate", "value": "*"},
+                {"key": "filters[subProduct][$eq]", "value": "credit"},
+                {"key": "filters[partner][$eq]", "value": "default"}
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

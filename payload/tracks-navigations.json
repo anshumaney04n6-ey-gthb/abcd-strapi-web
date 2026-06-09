@@ -1,0 +1,77 @@
+[
+  {
+    "name": "default-tracks-navigation",
+    "partner": "Vodafone",
+    "headerLogoPath": "/assets/tracks/header-logo.png",
+    "mobileHeaderLogoPath": "/assets/tracks/mobile-header-logo.png",
+    "navTabs": [
+      {
+        "order": 1,
+        "tabId": "home",
+        "label": "Home",
+        "menuItems": [
+          {
+            "order": 1,
+            "itemId": "dashboard",
+            "title": "Dashboard",
+            "description": "View your dashboard",
+            "iconPath": "/assets/icons/dashboard.png",
+            "navigateToUrl": "/dashboard",
+            "hasDetailContent": false
+          },
+          {
+            "order": 2,
+            "itemId": "apply",
+            "title": "Apply Now",
+            "description": "Apply for a loan",
+            "iconPath": "/assets/icons/apply.png",
+            "navigateToUrl": "/apply",
+            "hasDetailContent": true,
+            "detailTitle": "Apply for Loan",
+            "detailDescription": "Get started with your loan application",
+            "detailBulletPoints": ["Quick approval", "Low interest rates", "Flexible tenure"]
+          }
+        ],
+        "promoBanners": [
+          {
+            "order": 1,
+            "backgroundColor": "#FF6B35",
+            "preTitle": "New",
+            "preTitleColor": "#FFFFFF",
+            "title": "Special Offer",
+            "ctaText": "Apply Now",
+            "ctaUrl": "/offers",
+            "imagePath": "/assets/promo/offer.png"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "tabId": "products",
+        "label": "Products",
+        "menuItems": [
+          {
+            "order": 1,
+            "itemId": "gold-loan",
+            "title": "Gold Loan",
+            "description": "Loan against gold",
+            "iconPath": "/assets/icons/gold.png",
+            "navigateToUrl": "/products/gold-loan",
+            "hasDetailContent": true,
+            "detailTitle": "Gold Loan",
+            "detailDescription": "Get loan against your gold ornaments"
+          }
+        ]
+      }
+    ],
+    "mobileFooterBanner": {
+      "text": "Download our app",
+      "appStoreIconPath": "/assets/appstore.png",
+      "appStoreLabel": "Download on App Store",
+      "appStoreUrl": "https://apps.apple.com",
+      "playStoreIconPath": "/assets/playstore.png",
+      "playStoreLabel": "Get it on Play Store",
+      "playStoreUrl": "https://play.google.com"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "subProduct": "credit",
+    "partner": "default",
+    "preBackgroundScreen": {
+      "headlineLine1": "Smart Features.",
+      "headlineLine2": "Real Impact.",
+      "subtitle": "Track how your score and credit behavior have evolved over time to stay financially aware",
+      "primaryCtaLabel": "Find out now >",
+      "secondaryCtaLabel": "Get your free score >",
+      "badge1": "835 Predicted score",
+      "badge2": "+35pts Secure",
+      "badge3": "+98% Accurate",
+      "background": "#FFF4CE",
+      "sideImage": null,
+      "sideImageAlt": "Pre-dashboard credit score illustration",
+      "loadingLabel": "Fetching your credit report..."
+    }
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "partner": "default",
+    "subProduct": "personal",
+      "header": {
+        "alt": "ABCD Logo",
+        "size": 40
+      },
+      "hero": {
+        "slides": [
+          {
+            "title": "Apply for a Instant Personal Loan Up to ₹15 Lakh, in Minutes!",
+            "subtitle": "Access a wide variety of loan offers across multiple lenders.",
+            "order": 1
+          },
+          {
+            "title": "Apply for a Personal Loan with Flexible Terms",
+            "subtitle": "Choose from a variety of loan options tailored to your needs.",
+            "order": 2
+          },
+          {
+            "title": "Join 2.5 Lakh+ borrowers",
+            "subtitle": "Trusted by thousands for personal loans",
+            "order": 3
+          }
+        ],
+        "carouselConfig": {
+          "autoPlay": true,
+          "autoPlayInterval": 5000,
+          "showArrows": true,
+          "showIndicators": true,
+          "indicatorStyle": "bars"
+        },
+        "backgroundVariant": "default",
+        "productHighlighters": [
+          {
+            "text": "Get Instant Offer",
+            "showIcon": true,
+            "order": 1
+          },
+          {
+            "text": "No Paperwork",
+            "showIcon": true,
+            "order": 2
+          },
+          {
+            "text": "Low interest rates",
+            "showIcon": true,
+            "order": 3
+          }
+        ],
+        "showSeparator": true
+      },
+      "widget": {
+        "headerTitle": "Verified partners. <strong>100% transparent</strong>. Fully secure.",
+        "headerBackgroundColor": "#7c2279",
+        "title": "Enter your mobile number to get started",
+        "mobileInputPlaceholder": "Enter 10-digit mobile number",
+        "helperText": "OTP will be sent to your mobile number",
+        "consentConfig": {
+          "label": "I agree with",
+          "termsText": "Terms & Conditions",
+          "termsUrl": "https://www.adityabirlacapital.com/abc-digital/terms-conditions",
+          "privacyText": "Privacy Policy",
+          "privacyUrl": "https://www.adityabirlacapital.com/abcd/privacy-policy"
+        },
+        "ctaConfig": {
+          "buttonText": "Apply now",
+          "trustText": "Join 1L+ investors trusting ABCD for Personal Loans",
+          "loadingText": "Processing..."
+        }
+      },
+      "smartFeatures": {
+        "title": "Smart Features. Real Impact.",
+        "autoScroll": true,
+        "autoScrollInterval": 5000,
+        "items": [
+          {
+            "variant": "gifting",
+            "number": "01",
+            "title": "Get Instant Offer",
+            "subtitle": "Personalized loan assessment",
+            "description": "Unlock your personalized loan offer in seconds with our smart AI assessment",
+            "ctaText": "Apply Now",
+            "backgroundColor": "#FFF8E7",
+            "notificationContent": {
+              "icon": "bell",
+              "headerText": "Your A/C can be credited with ₹30,000/-",
+              "title": "",
+              "bodyLines": ""
+            }
+          },
+          {
+            "variant": "gifting",
+            "number": "02",
+            "title": "100% Digital Process",
+            "subtitle": "Completely paperless",
+            "description": "Complete your loan application entirely online without any physical documentation",
+            "ctaText": "Start Application",
+            "backgroundColor": "#E8F5E9"
+          },
+          {
+            "variant": "gifting",
+            "number": "03",
+            "title": "Quick Disbursal",
+            "subtitle": "Fast fund transfer",
+            "description": "Get funds credited directly to your account within 24 hours of approval",
+            "ctaText": "Learn More",
+            "backgroundColor": "#E3F2FD"
+          }
+        ]
+      },
+      "steps": {
+        "tagline": "Personal Loan",
+        "heading": "Get Your Loan in 3 Easy Steps",
+        "items": [
+          {
+            "number": "1",
+            "title": "Provide Basic Details",
+            "description": "Share a few quick details to help us personalise your loan offer",
+            "iconAlt": "Document icon"
+          },
+          {
+            "number": "2",
+            "title": "Choose & Apply Loan Offers",
+            "description": "Pick the offer that best fits your needs and repayment plan.",
+            "iconAlt": "Filter icon"
+          },
+          {
+            "number": "3",
+            "title": "Get instant Cash in Bank",
+            "description": "Once approved, your loan is transferred directly to your bank account in minutes.",
+            "iconAlt": "Money icon"
+          }
+        ]
+      },
+      "eligibility": {
+        "title": "Personal Loan Eligibility",
+        "items": [
+          {
+            "label": "Age Limit",
+            "value": "19 to 60 years",
+            "alternateValueBackground": true
+          },
+          {
+            "label": "Income",
+            "value": "Min. ₹10,000/m",
+            "alternateValueBackground": false
+          },
+          {
+            "label": "Residency",
+            "value": "Resident of India",
+            "alternateValueBackground": true
+          }
+        ]
+      },
+      "rates": {
+        "title": "Rates & Charges",
+        "items": [
+          {
+            "title": "Loan Amount",
+            "value": "Min. ₹25,000 and Max. 5 Lakhs",
+            "description": "Min. ₹25,000 and Max. 5 Lakhs",
+            "badge": "Best Rate",
+            "rateId": "rate-1"
+          },
+          {
+            "title": "Repayment Tenure",
+            "value": "12 months to 36 months",
+            "description": "12 months to 36 months",
+            "rateId": "rate-2"
+          },
+          {
+            "title": "Rate of Interest",
+            "value": "10.99% to 30% per annum",
+            "description": "10.99% to 30% per annum",
+            "badge": "Zero Charges",
+            "rateId": "rate-3"
+          },
+          {
+            "title": "Free Insurance on Delivery",
+            "value": "1.18% - 4.13% of Loan amount incl. GST.",
+            "description": "1.18% - 4.13% of Loan amount incl. GST.",
+            "rateId": "rate-4"
+          }
+        ]
+      },
+      "simpleSection": {
+        "heading": "Personal Loans Made Simple, Fast & Transparent",
+        "highlightWord": "Simple",
+        "centerImageAlt": "Hands holding money bag with rupee symbol",
+        "circleBackgroundUrl": "",
+        "patternIconUrl": "/assets/personal-loan/icons/patternIconLending.webp",
+        "backgroundColor": "#FFFFFF",
+        "benefits": [
+          {
+            "benefitId": 1,
+            "icon": "speed",
+            "title": "Instant Approval",
+            "description": "Get loan approval in minutes with our AI-powered assessment engine"
+          },
+          {
+            "benefitId": 2,
+            "icon": "security",
+            "title": "Secure Process",
+            "description": "Your data is encrypted and protected with bank-grade security"
+          },
+          {
+            "benefitId": 3,
+            "icon": "compare",
+            "title": "Compare Offers",
+            "description": "Access multiple lender offers in one place and choose the best"
+          },
+          {
+            "benefitId": 4,
+            "icon": "support",
+            "title": "24/7 Support",
+            "description": "Our customer support team is always available to help you"
+          }
+        ]
+      },
+      "partners": {
+        "title": "Our Trusted Lending Partners",
+        "subtitle": "We are associated with India's popular lenders",
+        "items": [
+          {
+            "partnerId": "partner-1",
+            "alt": "ICICI Lombard"
+          },
+          {
+            "partnerId": "partner-2",
+            "alt": "ACKO"
+          },
+          {
+            "partnerId": "partner-3",
+            "alt": "Digit"
+          },
+          {
+            "partnerId": "partner-4",
+            "alt": "Tata AIG"
+          },
+          {
+            "partnerId": "partner-5",
+            "alt": "Bajaj Allianz General"
+          }
+        ],
+        "fallbackLogoSrc": ""
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "defaultOpenIds": ["pl-faq-1"],
+        "items": [
+          {
+            "question": "What is the maximum loan amount I can get?",
+            "answer": "You can get a personal loan up to ₹15 Lakh, depending on your eligibility, income, and credit profile. The final amount will be determined by the lender based on their assessment."
+          },
+          {
+            "question": "How quickly can I get the loan disbursed?",
+            "answer": "Once your application is approved and all documents are verified, the loan amount is typically disbursed within 24 hours directly to your bank account."
+          },
+          {
+            "question": "What documents are required for a personal loan?",
+            "answer": "You need basic KYC documents: Aadhaar card, PAN card, bank statements for the last 3-6 months, and income proof (salary slips or ITR). Additional documents may be required based on the lender's policy."
+          },
+          {
+            "question": "Can I prepay my personal loan without penalty?",
+            "answer": "Yes, most lenders allow prepayment without any penalty charges. However, it's recommended to check the specific terms with your chosen lender before proceeding."
+          },
+          {
+            "question": "What is the minimum credit score required?",
+            "answer": "While requirements vary by lender, a credit score of 650 or above generally improves your chances of approval with better interest rates. Some lenders may approve loans with lower scores based on other factors."
+          },
+          {
+            "question": "How is my loan eligibility calculated?",
+            "answer": "Loan eligibility is calculated based on multiple factors including your monthly income, existing obligations, credit score, employment stability, and repayment capacity. Our AI-powered engine instantly assesses these factors to determine your eligibility."
+          },
+          {
+            "question": "Can self-employed individuals apply for a personal loan?",
+            "answer": "Yes, both salaried and self-employed individuals can apply. Self-employed applicants need to provide business proof, ITR for the last 2-3 years, and bank statements showing regular income."
+          },
+          {
+            "question": "What happens if I miss an EMI payment?",
+            "answer": "Missing an EMI can result in late payment charges and may negatively impact your credit score. It's important to contact your lender immediately if you're facing difficulty in making payments to discuss possible solutions."
+          }
+        ]
+      },
+      "appPromo": {
+        "appLabel": "The ABCD app",
+        "title": "Everything Finance\nas simple as\nABCD",
+        "mobileTitle": "Everything Finance as simple as ABCD",
+        "subtitle": "Download the ABCD app and start doing more with your money everyday",
+        "mobileSubtitle": "Download the ABCD app today",
+        "fromLabel": "From the house of",
+        "houseLogoAlt": "ABCD Logo",
+        "qrAlt": "QR Code to download ABCD app",
+        "phoneImageAlt": "ABCD app showing personal loans",
+        "ctaButtons": [
+          {
+            "label": "App Store",
+            "link": "https://apps.apple.com/"
+          },
+          {
+            "label": "Google Play",
+            "link": "https://play.google.com/store"
+          }
+        ],
+        "ctaVisibility": "all",
+        "companyInfoLayout": "column"
+      },
+      "footer": {
+        "referenceDetails": {
+          "heading": "Powered by",
+          "name": "ABCD",
+          "certification": "A Aditya Birla Capital Company - ISO 27001:2013 certified."
+        },
+        "sideLogoDetails": {
+          "alt": "Money bag with coins"
+        },
+        "features": [
+          {
+            "footerFeatureId": "footer-feature-1",
+            "text": "Get Instant Offer"
+          },
+          {
+            "footerFeatureId": "footer-feature-2",
+            "text": "No Paperwork"
+          },
+          {
+            "footerFeatureId": "footer-feature-3",
+            "text": "Lowest interest rate"
+          }
+        ]
+      },
+      "mobileNavigation": {
+        "tabs": [],
+        "footerBanner": {
+          "text": "Download the app",
+          "appStoreButton": {
+            "icon": "apple",
+            "label": "App Store",
+            "url": "https://apps.apple.com"
+          },
+          "playStoreButton": {
+            "icon": "google",
+            "label": "Play Store",
+            "url": "https://play.google.com"
+          }
+        }
+      }
+    }
+  }

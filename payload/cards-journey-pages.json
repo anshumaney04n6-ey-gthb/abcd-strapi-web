@@ -1,0 +1,83 @@
+{
+  "data": {
+    "subProduct": "credit",
+    "partner": "default",
+    "unsecuredBasicDetails": {
+      "title": "Basic information",
+      "bannerTitle": "Get Rewarded every time you spend with your new credit card",
+      "proceedButtonText": "Proceed",
+      "learnMoreText": "How did you learn about us?",
+      "mobileNumberLabel": "Mobile Number",
+      "mobileNumberPlaceholder": "Enter mobile number",
+      "panLabel": "PAN",
+      "fullNameLabel": "Full Name",
+      "dateOfBirthLabel": "Date of Birth",
+      "employmentTypeLabel": "Employment Type",
+      "monthlySalaryLabel": "Monthly Salary",
+      "monthlySalaryPlaceholder": "Enter monthly salary",
+      "annualIncomeLabel": "Annual Income",
+      "annualIncomePlaceholder": "Enter annual income",
+      "datePickerTitle": "Select Date of Birth",
+      "pincodeLabel": "Pincode",
+      "ageRangeText": "Your age should range between 18-65 years",
+      "minMonthlySalary": 10000,
+      "maxMonthlySalary": 1000000,
+      "minAnnualIncome": 10000,
+      "maxAnnualIncome": 10000000,
+      "abcdConsentConfig": {
+        "labelPrefix": "I have read and agree to the",
+        "termsText": "Terms and Conditions",
+        "termsUrl": "/terms",
+        "connector": "and",
+        "privacyText": "Privacy policy",
+        "privacyUrl": "https://www.privacypolicyabcd.xyz",
+        "labelSuffix": "of ABCD."
+      },
+      "crediloConsentConfig": {
+        "labelPrefix": "I have read and agree to the",
+        "termsText": "Terms and Conditions",
+        "termsUrl": "/terms-credilo",
+        "connector": "and",
+        "privacyText": "Privacy policy",
+        "privacyUrl": "https://www.privacypolicycredilo.xyz",
+        "labelSuffix": "of Credilo."
+      },
+      "disclaimerFooterText": "By proceeding, you agree to receive communications from ABCD and its partners via SMS, WhatsApp, email, and other channels. Your information is secure and will not be shared with unauthorized parties."
+    },
+    "securedBasicDetails": {
+      "title": "Basic information",
+      "bannerTitle": "Start with FD-backed secured card",
+      "bannerImagePath": "/images/safe-box.svg",
+      "proceedButtonText": "Proceed",
+      "learnMoreText": "How did you learn about us?",
+      "mobileNumberLabel": "Mobile number",
+      "mobileNumberPlaceholder": "Enter mobile number",
+      "fullNameLabel": "Full name",
+      "pincodeLabel": "Pincode",
+      "abcdConsentConfig": {
+        "labelPrefix": "I have read and agree to the",
+        "termsText": "Terms and Conditions",
+        "termsUrl": "/terms",
+        "connector": "and",
+        "privacyText": "Privacy policy",
+        "privacyUrl": "https://www.privacypolicyabcd.xyz",
+        "labelSuffix": "of ABCD."
+      },
+      "crediloConsentConfig": {
+        "labelPrefix": "I have read and agree to the",
+        "termsText": "Terms and Conditions",
+        "termsUrl": "/terms-credilo",
+        "connector": "and",
+        "privacyText": "Privacy policy",
+        "privacyUrl": "https://www.privacypolicycredilo.xyz",
+        "labelSuffix": "of Credilo."
+      },
+      "disclaimerFooterText": "By proceeding, you agree to receive communications from ABCD and its partners via SMS, WhatsApp, email, and other channels. Your information is secure and will not be shared with unauthorized parties.",
+      "visibleFields": "mobileNumber,fullName,pincode"
+    },
+    "redirection": {
+      "title": "Redirecting",
+      "redirectingText": "Redirecting, please wait..."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "channelId": "default-channel",
+    "partnerCode": "VODAFONE",
+    "utmSources": {
+      "google": ["organic", "cpc", "display"],
+      "facebook": ["organic", "cpc", "story"],
+      "instagram": ["organic", "story"],
+      "twitter": ["organic", "cpc"],
+      "linkedin": ["organic", "cpc"],
+      "email": ["newsletter", "promotional"],
+      "sms": ["promotional"],
+      "referral": ["Referral"]
+    },
+    "description": "Tracks channel mapping"
+  }
+]

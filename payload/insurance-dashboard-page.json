@@ -1,0 +1,177 @@
+{
+  "data": {
+    "subProduct": "motor",
+    "partner": "default",
+    "aiPoweredBadgeJourneyEnabled": true,
+    "vehicleTrackExternalUrl": "https://abcd.adityabirlacapital.com/vehicleTrackHome/",
+    "footerReferenceHeading": "Powered by",
+    "footerReferenceName": "ABCD Insurance",
+    "footerReferenceCertification": "Trusted by millions of customers",
+    "mmtcLogoPath": "/assets/images/insurance-mmtc-logo.png",
+    "footerBarsImagePath": "/assets/images/insurance-footer-pattern.png",
+    "headerLogoAlt": "ABCD Logo",
+    "footerLogoAlt": "ABCD Logo",
+    "actionCards": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "cardId": "car",
+          "title": "Car insurance",
+          "subtitle": "Starts at just ₹1,999",
+          "type": "car",
+          "enabled": true,
+          "ctaText": "Explore"
+        },
+        {
+          "order": 2,
+          "cardId": "bike",
+          "title": "Bike insurance",
+          "subtitle": "Starts at just ₹999",
+          "type": "bike",
+          "enabled": true,
+          "ctaText": "Explore"
+        }
+      ]
+    },
+    "exploreItems": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "title": "Renew instantly - Upload your policy",
+          "icon": "${LANDING_ASSETS}/mobile-nav/icon-motor-insurance.png",
+          "isExternal": true,
+          "externalUrl": ""
+        },
+        {
+          "order": 2,
+          "title": "My Policies",
+          "icon": "${LANDING_ASSETS}/mobile-nav/icon-pocket-insurance.png",
+          "isExternal": true,
+          "externalUrl": ""
+        },
+        {
+          "order": 3,
+          "title": "Track insurance, challans, & more, all in one place.",
+          "icon": "${LANDING_ASSETS}/mobile-nav/icon-vehicle-track.png",
+          "isExternal": true,
+          "externalUrl": "https://abcd.adityabirlacapital.com/vehicleTrackHome/"
+        }
+      ]
+    },
+    "sidebarFAQs": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "faqId": "why-motor-insurance",
+          "title": "Why Motor Insurance?",
+          "content": "Motor insurance is mandatory by law and protects you financially against accidents, theft, and third-party liabilities.",
+          "isExternal": false,
+          "externalUrl": "#"
+        },
+        {
+          "order": 2,
+          "faqId": "how-it-works",
+          "title": "How Motor Insurance at ABCD works?",
+          "content": "Choose your vehicle type, compare plans, and complete your purchase online. Policy issuance is quick and support is available throughout.",
+          "isExternal": false,
+          "externalUrl": "#"
+        },
+        {
+          "order": 3,
+          "faqId": "other-questions",
+          "title": "Other questions?",
+          "content": "",
+          "isExternal": true,
+          "externalUrl": "https://help.abcd.com/motor-insurance"
+        }
+      ]
+    },
+    "partners": {
+      "enabled": true,
+      "content": [
+        { "order": 1, "partnerId": "icici", "alt": "ICICI Insurance" },
+        { "order": 2, "partnerId": "acko", "alt": "Acko Insurance" },
+        { "order": 3, "partnerId": "digit", "alt": "Digit Insurance" },
+        { "order": 4, "partnerId": "tata", "alt": "Tata Insurance" },
+        { "order": 5, "partnerId": "bajaj", "alt": "Bajaj Insurance" }
+      ]
+    },
+    "partnerTrustItems": {
+      "enabled": true,
+      "content": [
+        { "order": 1, "text": "Trusted by\n2K+ users" },
+        { "order": 2, "text": "Get instant policy\nin 3 mins" },
+        { "order": 3, "text": "Easy claim\nassistance" }
+      ]
+    },
+    "crossSell": {
+      "enabled": true,
+      "content": {
+        "title": "Checked your challans yet?",
+        "subtitle": "Stay on top of your pending challans and PUC expiry",
+        "price": "0",
+        "buttonText": "Activate now"
+      }
+    },
+    "keyHighlights": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "highlightId": "car-highlights",
+          "vehicleType": "4W",
+          "badgeText": "Join 2K+ users trusting ABCD for Motor Insurance.",
+          "title": "Get car insurance now!",
+          "ctaText": "Apply now",
+          "highlights": [
+            { "order": 1, "text": "Unlock a special price on your car insurance" }
+          ]
+        },
+        {
+          "order": 2,
+          "highlightId": "bike-highlights",
+          "vehicleType": "2W",
+          "badgeText": "Join 2K+ users trusting ABCD for Motor Insurance.",
+          "title": "Get bike insurance now!",
+          "ctaText": "Apply now",
+          "highlights": [
+            { "order": 1, "text": "Unlock a special price on your bike insurance" }
+          ]
+        }
+      ]
+    },
+    "navigation": {
+      "enabled": true,
+      "content": []
+    },
+    "footerFeatures": {
+      "enabled": true,
+      "content": [
+        { "order": 1, "text": "Compare plans from top insurers" },
+        { "order": 2, "text": "Instant policy download" },
+        { "order": 3, "text": "24/7 claim support" }
+      ]
+    },
+
+    "promoBanners": {
+      "enabled": true,
+      "content": [
+        { "order": 1, "backgroundColor": "#ff6b6b", "title": "Special Offer", "highlightedText": "50% Off", "subtitle": "Limited time offer", "ctaText": "Learn More" }
+      ]
+    },
+    "globalDisclaimer": {
+      "anchorText": "Disclaimer",
+      "content": "Insurance products are subject to terms and conditions. Please read all policy documents carefully before purchasing."
+    },
+
+    "heroSlides": {
+      "enabled": true,
+      "content": [
+        { "slideId": "slide-1", "title": "Get Insured Today", "subtitle": "Protect what matters most with our comprehensive insurance plans", "ctaText": "Buy Now", "buyNowCtaDestination": "/buy", "bannerIconPath": "/assets/icons/insurance.svg", "order": 1 }
+      ]
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "data": {
+    "subProduct": "credit",
+    "partner": "default",
+    "creditActivity": {
+      "sectionHeader": "Your activity",
+      "viewAllText": "View all",
+      "visibleCardsCount": 3,
+      "payBillCTAText": "Pay bill",
+      "viewDetailsCTAText": "View details",
+      "repaymentTipText": "Just a few payments away from improving your score",
+      "needHelp": {
+        "title": "NEED SOME HELP?",
+        "subtitle": "Tell us more about it",
+        "reasonPlaceholder": "Specify reason",
+        "continueButtonText": "Continue",
+        "reasonRequiredOptionId": "other",
+        "options": [
+          {
+            "label": "A Loan account/credit Card missing"
+          },
+          {
+            "label": "A Loan account/credit Card is not mine"
+          },
+          {
+            "label": "Details of the Loan/credit account is incorrect"
+          },
+          {
+            "label": "Other"
+          }
+        ]
+      }
+    },
+    "sidebarFAQs": [
+      {
+        "faqId": "faq-what-is-credit-score",
+        "title": "What is a credit score?",
+        "icon": "/tracks/assets/sidebar-faq/meter1.png",
+        "content": "A credit score is a 3-digit number ranging from 300 to 900 that represents your creditworthiness. Higher scores indicate better credit behavior and make it easier to get loans approved at better interest rates.",
+        "isExternal": false,
+        "externalUrl": ""
+      },
+      {
+        "faqId": "faq-how-to-improve",
+        "title": "How to improve credit score?",
+        "icon": "/tracks/assets/sidebar-faq/search.png",
+        "content": "Pay all bills on time, keep credit utilization below 30%, maintain old credit accounts, avoid too many credit inquiries, and maintain a healthy mix of credit types.",
+        "isExternal": false,
+        "externalUrl": ""
+      },
+      {
+        "faqId": "faq-credit-bureau",
+        "title": "What is a credit bureau?",
+        "icon": "/tracks/assets/sidebar-faq/bureau.png",
+        "content": "A credit bureau is a registered entity that collects and maintains credit information about consumers and provides this information to lenders, banks, and other financial institutions.",
+        "isExternal": true,
+        "externalUrl": "https://example.com/credit-bureau-info"
+      },
+      {
+        "faqId": "faq-other-questions",
+        "title": "Other questions?",
+        "icon": "/tracks/assets/sidebar-faq/other-questions.png",
+        "content": "If you have more questions about credit scores, feel free to reach out to our support team or check out our comprehensive FAQ section on our website.",
+        "isExternal": false,
+        "externalUrl": ""
+      }
+    ],
+    "scoreRanges": {
+      "sidebarTitle": "Credit Score Ranges",
+      "sectionTitle": "RANGES OF THE SCORE",
+      "actionButtonText": "Got it",
+      "ranges": [
+        {
+          "level": "excellent",
+          "label": "Excellent",
+          "rangeStart": 750,
+          "rangeEnd": 900,
+          "color": "#0A6A34"
+        },
+        {
+          "level": "veryGood",
+          "label": "Very Good",
+          "rangeStart": 700,
+          "rangeEnd": 749,
+          "color": "#7CB342"
+        },
+        {
+          "level": "good",
+          "label": "Good",
+          "rangeStart": 650,
+          "rangeEnd": 699,
+          "color": "#9ACD32"
+        },
+        {
+          "level": "fair",
+          "label": "Fair / Okay",
+          "rangeStart": 550,
+          "rangeEnd": 649,
+          "color": "#F57C00"
+        },
+        {
+          "level": "needsWork",
+          "label": "Needs Work",
+          "rangeStart": 300,
+          "rangeEnd": 549,
+          "color": "#D32F2F"
+        }
+      ]
+    },
+    "insightCard": {
+      "bannerActionText": "See what's changed",
+      "reportActionText": "Get report"
+    },
+    "aiInsights": {
+      "enabled": true,
+      "header": "Insight for you",
+      "mascotImage": null,
+      "ctaLabel": "Ask AI",
+      "screenConfig": {
+        "dashboard": true
+      }
+    }
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "subProduct": "gold",
+    "partner": "default",
+    "header": {
+      "logo": {
+        "src": "/logos/lob/abcd.svg",
+        "alt": "ABCD Logo",
+        "size": 40
+      }
+    },
+    "hero": {
+      "ctaText": "Apply Now",
+      "eligibilityCriteria": [
+        {
+          "label": "Age:",
+          "value": "21 to 65 years"
+        },
+        {
+          "label": "Gold:",
+          "value": "Min. 18 karats"
+        },
+        {
+          "label": "Residency:",
+          "value": "PAN India"
+        }
+      ],
+      "highlighterContent": {
+        "newJourney": {
+          "title": "Get instant gold loans up to ₹ 50 Lakhs",
+          "subtitle": "Instant Disbursal, 75% LTV, Low Interest Rates",
+          "ctaText": "Apply now",
+          "illustrationSrc": "/assets/gold-loan/icons/goldcoins.svg"
+        },
+        "resumeJourney": {
+          "title": "Welcome back, pick up where you left",
+          "subtitle": "Resume your gold loan application in minutes",
+          "ctaText": "Resume",
+          "illustrationSrc": "/assets/gold-loan/icons/resume-app.svg"
+        },
+        "preApprovedOffer": {
+          "title": "You have a pre-approved gold loan offer",
+          "subtitle": "Check out your pre-approved offer -",
+          "ctaText": "Check Offer",
+          "illustrationSrc": "/assets/gold-loan/icons/goldcoins.svg"
+        },
+        "exclusiveOffer": {
+          "title": "Staff exclusive gold loan offer",
+          "subtitle": "Check out your staff offer -",
+          "ctaText": "Apply Now",
+          "illustrationSrc": "/assets/gold-loan/icons/exclusive.svg"
+        },
+        "progress": {
+          "title": "Your gold evaluation is in progress",
+          "subtitle": "We are processing your gold loan application. This usually completes shortly.",
+          "ctaText": "Check Status",
+          "illustrationSrc": "/assets/gold-loan/icons/progress-app.svg"
+        },
+        "success": {
+          "title": "Loan disbursed successfully",
+          "subtitle": "Your gold loan amount has been credited to your account.",
+          "ctaText": "Download Documents",
+          "illustrationSrc": "/assets/gold-loan/icons/disb-success.svg"
+        },
+        "failed": {
+          "title": "Disbursement failed",
+          "subtitle": "We could not complete disbursement this time. Please retry or check details.",
+          "ctaText": "Check Status",
+          "illustrationSrc": "/assets/gold-loan/icons/disb-failed.svg"
+        },
+        "rejected": {
+          "title": "Application rejected",
+          "subtitle": "Your gold loan application could not be approved based on current checks.",
+          "ctaText": "Check Status",
+          "illustrationSrc": "/assets/gold-loan/icons/disb-failed.svg"
+        }
+      }
+    },
+    "referralBanner": {
+      "isVisible": true,
+      "title": "Help friends start their gold journey",
+      "subtitle": "Refer friends & earn ₹250 in ABCD Coins.",
+      "termsText": "*T&C",
+      "assets": {
+        "treasureChest": "/assets/gold-loan/referralBanner/treasure-chest.png",
+        "goldCoin": "/assets/gold-loan/referralBanner/gold-coin.png",
+        "chevron": "/assets/gold-loan/referralBanner/double-chevron.png"
+      }
+    },
+    "ratesAndCharges": {
+      "text": "Rates and charges",
+      "items": [
+        {
+          "id": "loan-amount",
+          "title": "Loan Amount",
+          "description": "Min. ₹3,000 and Max. 50 Lakhs",
+          "image": "/assets/gold-loan/icons/goldhand.webp",
+          "imageAlt": "Loan Amount"
+        },
+        {
+          "id": "ltv-ratio",
+          "title": "LTV Ratio",
+          "description": "Up to 75% of gold value",
+          "image": "/assets/gold-loan/icons/percentage.webp",
+          "imageAlt": "LTV Ratio"
+        },
+        {
+          "id": "rate-of-interest",
+          "title": "Rate of Interest",
+          "description": "Starting from 9% per annum",
+          "image": "/assets/gold-loan/icons/percentage.webp",
+          "imageAlt": "Interest Rate"
+        },
+        {
+          "id": "processing-fees",
+          "title": "Processing Fees",
+          "description": "Up to 1% of Loan amount incl. GST.",
+          "image": "/assets/gold-loan/icons/file.webp",
+          "imageAlt": "Processing Fees"
+        }
+      ],
+      "cardBackground": "linear-gradient(90deg, rgba(255, 213, 108, 0.2) 0%, rgba(124, 34, 121, 0.05) 100%), linear-gradient(90deg, #fff 0%, #fff 100%)",
+      "cardBorder": "1px solid rgba(124, 34, 121, 0.2)"
+    },
+    "inlineInfoBanner": {
+      "isVisible": true,
+      "highlightedText": "Get a free credit score!",
+      "text": "Auto track your loans & credit card reports",
+      "iconSrc": "/assets/gold-loan/icons/creditcard.svg",
+      "iconAlt": "Info",
+      "chevronSrc": "/assets/gold-loan/referralBanner/double-chevron.png",
+      "backgroundColor": "#FFF8E7",
+      "borderColor": "#FFD54F",
+      "textColor": "#333333",
+      "highlightedTextColor": "#7C2279"
+    },
+    "getStarted": {
+      "headingPrefix": "Only ",
+      "headingHighlight": "3 steps",
+      "headingSuffix": ", and you get the money!",
+      "items": [
+        {
+          "id": "gold-details",
+          "title": "Enter Gold Details",
+          "description": "Upload photos of your gold jewellery for evaluation.",
+          "image": "/assets/gold-loan/icons/document.svg",
+          "imageAlt": "Gold Details"
+        },
+        {
+          "id": "verify-offer",
+          "title": "Verify & Accept Offer",
+          "description": "Compare offers from multiple lenders and choose the best.",
+          "image": "/assets/gold-loan/icons/filter.svg",
+          "imageAlt": "Verify Offer"
+        },
+        {
+          "id": "get-cash",
+          "title": "Get instant Cash in Bank",
+          "description": "Get your loan amount credited to your bank account within 24 hours.",
+          "image": "/assets/gold-loan/icons/money.svg",
+          "imageAlt": "Get Cash"
+        }
+      ],
+      "cardBackground": "linear-gradient(90deg, rgba(255, 213, 108, 0.2) 0%, rgba(124, 34, 121, 0.05) 100%), linear-gradient(90deg, #fff 0%, #fff 100%)",
+      "cardBorder": "1px solid rgba(124, 34, 121, 0.2)"
+    },
+    "calculator": {
+      "sectionTitle": "Financial tools & calculators",
+      "title": "Gold Loan EMI Calculator",
+      "description": "Calculate your potential gold loan EMI in seconds.",
+      "ctaText": "Calculate",
+      "illustrationIcon": "/assets/gold-loan/icons/calculator.png",
+      "ctaAriaLabel": "Calculate your EMI"
+    },
+    "benefitBlock": {
+      "items": [
+        {
+          "id": "instant-disbursal",
+          "icon": "/assets/gold-loan/icons/pl-benefit-bolt.svg",
+          "text": "Instant\nDisbursal"
+        },
+        {
+          "id": "high-ltv",
+          "icon": "/assets/gold-loan/icons/pl-benefit-laptop-cloud.svg",
+          "text": "Up to 75%\nLTV"
+        },
+        {
+          "id": "low-interest",
+          "icon": "/assets/gold-loan/icons/pl-benefit-three-steps.svg",
+          "text": "Low\ninterest rate"
+        }
+      ],
+      "footerText": "1 Lakh+ people got a gold loan in just a few clicks",
+      "footerLeftIcon": "/assets/gold-loan/icons/pl-benefit-star.svg",
+      "footerRightIcon": "/assets/gold-loan/icons/pl-benefit-star.svg"
+    },
+    "trustedPartners": {
+      "title": "Our Trusted Lending Partners",
+      "subtitle": "",
+      "columns": [
+        {
+          "id": "partner-1",
+          "name": "IIFL Finance",
+          "logoUrl": "/assets/gold-loan/icons/iifl-logo.svg",
+          "highlighted": true
+        },
+        {
+          "id": "partner-2",
+          "name": "Muthoot Finance",
+          "logoUrl": "/assets/gold-loan/icons/muthoot-logo.svg",
+          "highlighted": false
+        },
+        {
+          "id": "partner-3",
+          "name": "Manappuram",
+          "logoUrl": "/assets/gold-loan/icons/manappuram-logo.svg",
+          "highlighted": false
+        },
+        {
+          "id": "partner-4",
+          "name": "ABC Capital",
+          "logoUrl": "/assets/gold-loan/icons/abc-logo.svg",
+          "highlighted": false
+        }
+      ]
+    },
+    "faq": {
+      "tabs": [
+        {
+          "id": "general",
+          "label": "General",
+          "content": "General questions about gold loans",
+          "icon": "/assets/sidebar-faq/gold-general.webp"
+        },
+        {
+          "id": "eligibility",
+          "label": "Eligibility",
+          "content": "Who is eligible for gold loan?",
+          "icon": "/assets/sidebar-faq/gold-eligibility.webp"
+        },
+        {
+          "id": "process",
+          "label": "Process",
+          "content": "How does gold loan work?",
+          "icon": "/assets/sidebar-faq/gold-process.webp"
+        },
+        {
+          "id": "other-questions",
+          "label": "Other questions?",
+          "content": "Find answers to all your questions about gold loans.",
+          "icon": "/assets/sidebar-faq/other-questions.webp"
+        }
+      ]
+    },
+    "footer": {
+      "referenceDetails": {
+        "heading": "Powered by",
+        "name": "Aditya Birla Capital Digital Ltd",
+        "logo": "/assets/gold-loan/icons/abcfooter.svg",
+        "certification": "Aditya Birla Capital Digital Ltd"
+      },
+      "sideLogoDetails": {
+        "image": "/assets/gold-loan/icons/goldbag.svg",
+        "alt": "Decorative footer waves"
+      },
+      "features": [
+        {
+          "id": "instant-offer",
+          "text": "Get Instant Offer"
+        },
+        {
+          "id": "24hr-disbursal",
+          "text": "24-Hour Disbursal"
+        },
+        {
+          "id": "secure-gold",
+          "text": "Secure Gold Storage"
+        }
+      ]
+    },
+    "exclusiveEmployeeBanner": {
+      "imageSrc": "",
+      "mobileImageSrc": "",
+      "imageAlt": "Exclusive Employee Offer"
+    },
+    "exclusiveBanner": {
+      "imageSrc": "",
+      "mobileImageSrc": "",
+      "imageAlt": "Exclusive Offer"
+    },
+    "lenderLogos": [
+      {
+        "name": "IIFL",
+        "url": "/assets/gold-loan/logos/iifl.png"
+      },
+      {
+        "name": "Muthoot",
+        "url": "/assets/gold-loan/logos/muthoot.png"
+      },
+      {
+        "name": "Manappuram",
+        "url": "/assets/gold-loan/logos/manappuram.png"
+      }
+    ],
+    "plCalculatorSidebar": {
+      "title": "Gold Loan Calculator",
+      "subtitle": "Calculate your loan",
+      "goldPurityOptions": [
+        { "label": "24 Karat", "value": 24 },
+        { "label": "22 Karat", "value": 22 },
+        { "label": "18 Karat", "value": 18 }
+      ],
+      "defaultPurity": 24,
+      "defaultWeight": 10,
+      "defaultLTV": 75,
+      "minWeight": 1,
+      "maxWeight": 500,
+      "minLTV": 50,
+      "maxLTV": 85,
+      "interestRate": 9
+    }
+  }
+}

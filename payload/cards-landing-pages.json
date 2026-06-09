@@ -1,0 +1,218 @@
+{
+  "data": {
+    "subProduct": "credit",
+    "partner": "default",
+    "headerLogoAlt": "ABCD Logo",
+    "heroCarouselAutoPlay": true,
+    "heroCarouselAutoPlayInterval": 5000,
+    "heroCarouselShowArrows": true,
+    "heroCarouselShowIndicators": true,
+    "heroCarouselIndicatorStyle": "bars",
+    "heroBackgroundVariant": "light",
+    "heroShowSeparator": true,
+    "poweredByAlt": "Credilio",
+    "poweredByShieldIcon": null,
+    "widgetHeaderBadgeText": "Join 50L+ customers",
+    "widgetTitle": "Apply for Credit Card",
+    "widgetMobileInputPlaceholder": "Enter Mobile Number",
+    "widgetConsentLabel": "I agree to the Terms & Conditions and Privacy Policy",
+    "widgetTermsText": "Terms & Conditions",
+    "widgetTermsUrl": "/terms",
+    "widgetPrivacyText": "Privacy Policy",
+    "widgetPrivacyUrl": "/privacy",
+    "widgetCtaText": "Get Started",
+    "widgetMobileHelperText": "OTP will be sent to verify your number",
+    "widgetHeaderBadgeIcon": "/icons/medal-badge.svg",
+    "smartFeaturesTitle": "Smart Features. Real Impact.",
+    "smartFeaturesAutoScroll": true,
+    "smartFeaturesAutoScrollInterval": 4000,
+    "smartFeaturesPauseOnHover": false,
+    "smartFeaturesShowDots": false,
+    "smartFeaturesCards": [
+      {
+        "stepNumber": "01",
+        "heading": "Personalised Recommendations",
+        "description": "Get card suggestions matched to your income & credit profile.",
+        "ctaLabel": "Apply now",
+        "floatingLabels": [],
+        "image": null,
+        "mobileImage": null,
+        "order": 1
+      },
+      {
+        "stepNumber": "02",
+        "heading": "100% Digital Process",
+        "description": "End-to-end online journey, no branch visits, no delays.",
+        "ctaLabel": "Apply now",
+        "floatingLabels": [],
+        "image": null,
+        "mobileImage": null,
+        "order": 2
+      },
+      {
+        "stepNumber": "03",
+        "heading": "No Paperwork",
+        "description": "Complete your application digitally, without any paperwork.",
+        "ctaLabel": "Apply now",
+        "floatingLabels": [],
+        "image": null,
+        "mobileImage": null,
+        "order": 3
+      }
+    ],
+    "offeringsTitle": "Our Offerings",
+    "offeringsItems": [
+      {
+        "heading": "Eligibility-Based Credit Card Options",
+        "description": "View cards you're most likely to get approved for.",
+        "icon": null,
+        "order": 1
+      },
+      {
+        "heading": "FD-Backed Credit Cards",
+        "description": "Hassle-free options for users building or improving their credit score.",
+        "icon": null,
+        "order": 2
+      },
+      {
+        "heading": "Wide Selection Across Categories",
+        "description": "Choose from 100+ cards covering rewards, cashback, travel, fuel, lifestyle, and premium benefits.",
+        "icon": null,
+        "order": 3
+      },
+      {
+        "heading": "Multiple Lending Partners",
+        "description": "Access cards from 9+ leading banks through a single platform.",
+        "icon": null,
+        "order": 4
+      }
+    ],
+    "ownACreditCardTitle": "Own a credit card in just",
+    "ownACreditCardHighlightedTitle": "4 steps",
+    "ownACreditCardSteps": [
+      {
+        "title": "Tell us about yourself",
+        "description": "Sign in with your existing credentials or register quickly as a new user to get started.",
+        "icon": null,
+        "order": 1
+      },
+      {
+        "title": "Choose your perfect card",
+        "description": "Fill in important details like income, employment type and preferences.",
+        "icon": null,
+        "order": 2
+      },
+      {
+        "title": "Fill in a few more details",
+        "description": "Browse through available plans, compare features and premiums, and select the right card.",
+        "icon": null,
+        "order": 3
+      },
+      {
+        "title": "Verify and finish up",
+        "description": "Complete your KYC verification and submit your application digitally.",
+        "icon": null,
+        "order": 4
+      }
+    ],
+    "faqTitle": "Frequently Asked Questions",
+    "faqAllowMultiple": false,
+    "faqItems": [
+      {
+        "question": "What is the Credit Card journey inside the ABCL App?",
+        "answer": "This journey enables you to explore, compare, and apply for credit cards from multiple banks/NBFCs directly within the ABCL App. User can choose from 100+ Credit Cards via 9+ Lenders.",
+        "order": 1
+      },
+      {
+        "question": "What types of credit cards are available?",
+        "answer": "We offer a wide range of credit cards including rewards cards, cashback cards, travel cards, fuel cards, lifestyle cards, and premium credit cards from leading banks and NBFCs.",
+        "order": 2
+      },
+      {
+        "question": "How is eligibility checked?",
+        "answer": "Our system uses advanced algorithms to check your eligibility based on your income, credit score, employment status, and other financial parameters without impacting your credit score.",
+        "order": 3
+      },
+      {
+        "question": "Will checking eligibility impact my credit score?",
+        "answer": "No, our eligibility check uses a soft inquiry which does not impact your credit score. Only hard inquiries during the final application stage may have a minimal impact.",
+        "order": 4
+      }
+    ],
+    "appPromoBannerAppLabel": "The ABCD app",
+    "appPromoBannerTitle": "Everything Finance\nas simple as\nABCD",
+    "appPromoBannerMobileTitle": "Everything Finance\nas simple as\nABCD",
+    "appPromoBannerSubtitle": "Download the ABCD app and start doing more with\nyour money everyday",
+    "appPromoBannerMobileSubtitle": "Download the ABCD app and start doing more with your money everyday",
+    "appPromoBannerFromLabel": "From the house of",
+    "appPromoBannerHouseLogoAlt": "ABCD Group Logo",
+    "appPromoBannerQrAlt": "Scan to download ABCD app",
+    "appPromoBannerPhoneImageAlt": "ABCD app preview on phone",
+    "appPromoBannerCtaVisibility": "all",
+    "appPromoBannerCompanyInfoLayout": "row",
+    "appPromoBannerCtaButtons": [
+      {
+        "label": "App Store",
+        "link": "https://apps.apple.com/",
+        "iconAlt": "Apple App Store",
+        "analyticsId": "CC_LANDING_APP_DOWNLOAD_BADGE_CLICK",
+        "analyticsCTAText": "app_store",
+        "order": 1
+      },
+      {
+        "label": "Google Play",
+        "link": "https://play.google.com/store",
+        "iconAlt": "Google Play Store",
+        "analyticsId": "CC_LANDING_APP_DOWNLOAD_BADGE_CLICK",
+        "analyticsCTAText": "google_play",
+        "order": 2
+      }
+    ],
+    "heroProductHighlighters": [
+      {
+        "text": "100% Digital Process",
+        "showIcon": true,
+        "order": 1
+      },
+      {
+        "text": "Personalised Recommendations",
+        "showIcon": true,
+        "order": 2
+      },
+      {
+        "text": "No Paperwork",
+        "showIcon": false,
+        "order": 3
+      }
+    ],
+    "heroSlides": [
+      {
+        "title": "Explore 100+ Credit Cards from Leading Banks",
+        "subtitle": "Compare features, check eligibility and apply digitally in minutes.",
+        "background": null,
+        "order": 1
+      }
+    ],
+    "footerReferenceHeading": "Powered by",
+    "footerReferenceName": "ABCD",
+    "footerSideImageAlt": "Stack of credit cards",
+    "footerFeatures": [
+      {
+        "text": "100% Digital Process",
+        "order": 1
+      },
+      {
+        "text": "No Paperwork",
+        "order": 2
+      },
+      {
+        "text": "Personalised Recommendations",
+        "order": 3
+      },
+      {
+        "text": "Trusted banks",
+        "order": 4
+      }
+    ]
+  }
+}

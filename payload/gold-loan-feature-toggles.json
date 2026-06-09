@@ -1,0 +1,10 @@
+{
+  "data": {
+    "subProduct": "gold",
+    "partner": "default",
+    "isAutoLenderSelection": false,
+    "isMultiLenderEnable": true,
+    "isEmployeeOfferAvailable": false,
+    "isExclusiveOfferAvailable": true
+  }
+}

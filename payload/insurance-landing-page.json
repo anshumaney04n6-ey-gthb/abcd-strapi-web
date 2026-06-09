@@ -1,0 +1,447 @@
+{
+  "data": {
+    "subProduct": "motor",
+    "partner": "default",
+    "motorCriticalTitle": "Why Motor Insurance is Critical in India",
+    "motorCriticalSubtitle": "These statistics show why every vehicle owner needs comprehensive insurance protection.",
+    "motorCriticalStatisticTitle": "Critical Protection Statistics",
+    "motorCriticalStatisticDescription": "View key statistics about critical protection coverage",
+    "typeOfMotorTitle": "Types of Motor Insurance",
+    "typeOfMotorDescription": "Motor insurance is essential for protecting vehicles against unforeseen risks and is broadly classified into three types based on the vehicle's nature and purpose.",
+    "typeOfMotorButtonText": "Get Started",
+    "coverageComparisonTitle": "Coverage Under Motor Insurance",
+    "coverageComparisonCoveredTitle": "Covered",
+    "coverageComparisonNotCoveredTitle": "Not Covered",
+    "coverageComparisonSubtitle": "When buying motor insurance, know what's covered and excluded to avoid surprises during claims. A comprehensive plan protects you from financial losses and vehicle damage.",
+    "ComparisonTitle": "Coverage Comparison",
+    "comparisonDescription": "Compare different coverage options",
+    "addOnsTitle": "Choose Add-Ons for Extra Protection",
+    "addOnsDescription": "Add-ons are optional covers that enhance your basic motor insurance policy and provide extra protection. Keep in mind that opting for these add-ons will increase your premium but offer valuable benefits tailored to your needs.",
+    "getStartedTitle": "Get started with motor insurance",
+    "getStartedDescription": "Buying a motor insurance policy through Aditya Birla Capital Digital is simple, secure, and completely digital.",
+    "vehicleTrackEyebrow": "The ABCD app",
+    "vehicleTrackTitleLead": "Stay on top of all your vehicle's info with",
+    "vehicleTrackTitleEmphasis": "ABCD's Vehicle Track",
+    "vehicleTrackMobileTitleLead": "Everything Finance",
+    "vehicleTrackMobileTitleEmphasis": "as simple as ABCD",
+    "vehicleTrackMobileSubtitle": "Download the ABCD app and start doing more with your money everyday",
+    "vehicleTrackFromLabel": "From the house of",
+    "howMotorInsuranceWorksTitle": "How does Motor Insurance Works?",
+    "learnMoreTitle": "Learn More",
+    "learnMoreSubtitle": "Understanding key terms and policies can make it easier to choose, buy, renew, or claim your motor vehicle insurance policy online",
+    "learnMoreBack": "Back to Learn More",
+    "learnMoreModalLabel": "Motor Insurance Details",
+    "vehicleBannerAppLabel": "The ABCD app",
+    "vehicleBannerTitle": "Stay on top of all your vehicle's info with\nABCD's Vehicle Track",
+    "vehicleBannerMobileTitle": "Everything Finance\nas simple as ABCD",
+    "vehicleBannerSubtitle": "Monitor Insurance & PUC Expiry, Track Pending Challans\nInstantly, Stay Updated on Fuel Prices & Valuation.",
+    "vehicleBannerMobileSubtitle": "Download the ABCD app and start doing more with your money everyday",
+    "vehicleBannerFromLabel": "From the house of",
+    "footerReferenceHeading": "Offered by",
+    "footerReferenceName": "MMTC-PAMP",
+    "footerReferenceCertification": "ISO 27001:2013 certified.",
+    "footerSideImageAlt": "",
+    "phoneMockupAlt": "",
+    "widgetPriceSuffix": "/gm",
+    "widgetPriceValidForSeconds": 300,
+    "widgetMinAmount": 10,
+    "widgetMaxAmount": 500000,
+    "widgetMinWeight": 0,
+    "widgetMaxWeight": 50,
+    "sipCalculatorEnabled": true,
+    "widgetMaxResendMessage": "You have reached the maximum number of resend attempts.",
+    "widgetNavigationVariant": "stepper",
+    "widgetTrustBannerText": "Your data is secure with us.",
+    "widgetMaxResendAttempts": 3,
+    "motorCriticalIconUrl": "/assets/landing/motorCriticalIcon.webp",
+    "motorCriticalIconAlt": "Critical Protection Icon",
+    "positiveIconSrc": "/assets/landing/positiveIcon.webp",
+    "positiveIconAlt": "Positive Icon",
+    "negativeIconSrc": "/assets/landing/negativeIcon.webp",
+    "negativeIconAlt": "Negative Icon",
+    "negativeIconOnlySrc": "/assets/landing/negativeIconOnly.webp",
+    "addOnsBenefitIconSrc": "/assets/landing/addOnsBenefitIcon.webp",
+    "typeOfMotorButtonIconUrl": "/assets/landing/typeOfMotorButtonIcon.webp",
+    "vehicleBannerHouseLogoSrc": "/assets/landing/houseLogo.webp",
+    "vehicleBannerHouseLogoAlt": "House Logo",
+    "vehicleBannerQrSrc": "/assets/landing/vehicleQrCode.webp",
+    "vehicleBannerQrAlt": "QR Code",
+    "vehicleBannerHeroImageSrc": "/assets/landing/vehicleBannerHero.webp",
+    "vehicleBannerHeroImageAlt": "Vehicle Banner Hero Image",
+    "smartFeatureTitle": "Smart Features",
+    "TrustedPartnerTitle": "Our Trusted Partners",
+    "TrustedPartnerDescription": "We partner with the best in the industry",
+    "FaqTitle": "Frequently Asked Questions",
+    "smartFeaturesTitle": "Smart Features",
+
+    "newsItems": {
+      "enabled": true,
+      "content": [
+        { "order": 1, "text": "News item 1" },
+        { "order": 2, "text": "News item 2" },
+        { "order": 3, "text": "News item 3" }
+      ]
+    },
+    "heroSlides": {
+      "enabled": true,
+      "content": [
+        { "order": 1, "title": "Slide Title 1", "subtitle": "Slide Subtitle 1", "background": null },
+        { "order": 2, "title": "Slide Title 2", "subtitle": "Slide Subtitle 2", "background": null },
+        { "order": 3, "title": "Slide Title 3", "subtitle": "Slide Subtitle 3", "background": null }
+      ]
+    },
+    "productHighlighters": {
+      "enabled": true,
+      "content": [
+        { "order": 1, "text": "Highlighter 1", "showIcon": true },
+        { "order": 2, "text": "Highlighter 2", "showIcon": true },
+        { "order": 3, "text": "Highlighter 3", "showIcon": true }
+      ]
+    },
+    "smartFeatures": {
+      "enabled": true,
+      "content": [
+        { "order": 1, "number": "1", "title": "Smart Feature 1", "description": "Description for smart feature 1", "ctaText": "Learn More", "backgroundImage": null },
+        { "order": 2, "number": "2", "title": "Smart Feature 2", "description": "Description for smart feature 2", "ctaText": "Learn More", "backgroundImage": null },
+        { "order": 3, "number": "3", "title": "Smart Feature 3", "description": "Description for smart feature 3", "ctaText": "Learn More", "backgroundImage": null }
+      ]
+    },
+    "trustedPartners": {
+      "enabled": true,
+      "content": [
+        { "src": null, "alt": "Partner 1", "order": 1 },
+        { "src": null, "alt": "Partner 2", "order": 2 },
+        { "src": null, "alt": "Partner 3", "order": 3 }
+      ]
+    },
+    "addOns": {
+      "enabled": true,
+      "content": [
+        {
+          "label": "Add-on Label",
+          "title": "Add-on Title",
+          "description": "Add-on description",
+          "benefits": ["Benefit 1", "Benefit 2", "Benefit 3"],
+          "image": null
+        }
+      ]
+    },
+    "workTabs": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "tabId": "tab-1",
+          "label": "Tab 1",
+          "ctaText": "Get Started",
+          "image": null,
+          "steps": [
+            { "order": 1, "number": 1, "text": "Step 1" },
+            { "order": 2, "number": 2, "text": "Step 2" },
+            { "order": 3, "number": 3, "text": "Step 3" },
+            { "order": 4, "number": 4, "text": "Step 4" }
+          ]
+        },
+        {
+          "order": 2,
+          "tabId": "tab-2",
+          "label": "Tab 2",
+          "ctaText": "Get Started",
+          "image": null,
+          "steps": [
+            { "order": 1, "number": 1, "text": "Step 1" },
+            { "order": 2, "number": 2, "text": "Step 2" }
+          ]
+        }
+      ]
+    },
+    "comparisonColumns": {
+      "enabled": true,
+      "content": [
+        { "order": 1, "columnId": "col-1", "title": "Column 1", "isHighlighted": false },
+        { "order": 2, "columnId": "col-2", "title": "Column 2", "isHighlighted": true },
+        { "order": 3, "columnId": "col-3", "title": "Column 3", "isHighlighted": false }
+      ]
+    },
+    "comparisonRows": {
+      "enabled": true,
+      "content": [
+        { "order": 1, "rowId": "row-1", "label": "Feature 1", "values": ["Yes", "No", "Yes"] },
+        { "order": 2, "rowId": "row-2", "label": "Feature 2", "values": ["No", "Yes", "Yes"] },
+        { "order": 3, "rowId": "row-3", "label": "Feature 3", "values": ["Yes", "Yes", "No"] },
+        { "order": 4, "rowId": "row-4", "label": "Feature 4", "values": ["Yes", "Yes", "Yes"] },
+        { "order": 5, "rowId": "row-5", "label": "Feature 5", "values": ["No", "No", "Yes"] },
+        { "order": 6, "rowId": "row-6", "label": "Feature 6", "values": ["Yes", "No", "No"] },
+        { "order": 7, "rowId": "row-7", "label": "Feature 7", "values": ["No", "Yes", "No"] }
+      ]
+    },
+    "benefits": {
+      "enabled": true,
+      "content": [
+        { "order": 1, "title": "Benefit 1", "description": "Description for benefit 1", "icon": null },
+        { "order": 2, "title": "Benefit 2", "description": "Description for benefit 2", "icon": null },
+        { "order": 3, "title": "Benefit 3", "description": "Description for benefit 3", "icon": null }
+      ]
+    },
+    "videos": {
+      "enabled": true,
+      "content": [
+        { "order": 1, "title": "Video 1", "videoUrl": "https://example.com/video1", "duration": "2:30", "thumbnail": null },
+        { "order": 2, "title": "Video 2", "videoUrl": "https://example.com/video2", "duration": "3:45", "thumbnail": null },
+        { "order": 3, "title": "Video 3", "videoUrl": "https://example.com/video3", "duration": "1:20", "thumbnail": null }
+      ]
+    },
+    "getStarted": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "tabId": "buy-online",
+          "label": "How to Buy Insurance Online?",
+          "description": "Buying a motor insurance policy through Aditya Birla Capital Digital is simple, secure, and completely digital.",
+          "tipMessage": "",
+          "steps": [
+            { "order": 1, "stepId": "login", "number": 1, "title": "Log in to the ABCD App or Website", "description": "Sign in with your existing credentials or register quickly as a new user to get started.", "icon": "motor-login-icon" },
+            { "order": 2, "stepId": "vehicle-details", "number": 2, "title": "Enter Vehicle Details", "description": "Fill in important details like your vehicle's model, registration number, fuel type, and manufacturing year.", "icon": "motor-vehicle-details-icon" },
+            { "order": 3, "stepId": "compare-plans", "number": 3, "title": "Compare Plans and Customise Add-Ons", "description": "Browse through available plans, compare features and premiums, and select relevant add-ons. Adjust the IDV (Insured Declared Value) to suit your needs.", "icon": "motor-compare-plans-icon" },
+            { "order": 4, "stepId": "payment", "number": 4, "title": "Make Secure Online Payment", "description": "Use your preferred payment mode—debit/credit card, UPI, or net banking—for a fast and safe vehicle insurance online payment.", "icon": "motor-payment-icon" },
+            { "order": 5, "stepId": "policy", "number": 5, "title": "Get Instant Policy Issuance", "description": "Once the payment is completed, your vehicle insurance policy is instantly generated and sent to your registered email and app inbox.", "icon": "motor-policy-icon" }
+          ]
+        },
+        {
+          "order": 2,
+          "tabId": "renew",
+          "label": "How to Renew Insurance?",
+          "description": "Renewing your motor insurance policy with Aditya Birla Capital Digital is a smooth, paperless process.",
+          "tipMessage": "Tip: Renew before expiry to retain your No Claim Bonus (NCB) and avoid vehicle inspection delays.",
+          "steps": [
+            { "order": 1, "stepId": "login-renew", "number": 1, "title": "Log In", "description": "Access your account on the ABCD app or website using your login credentials. New users can register in minutes", "icon": "motor-renew-login-icon" },
+            { "order": 2, "stepId": "navigate", "number": 2, "title": "Navigate to Motor Insurance Section", "description": "Go to the Motor Insurance tab under the Insurance category and choose your existing policy or browse new options.", "icon": "motor-renew-navigate-icon" },
+            { "order": 3, "stepId": "policy-details", "number": 3, "title": "Enter Previous Policy Details", "description": "Provide your old vehicle insurance policy number and vehicle details to fetch and compare the best renewal options available.", "icon": "motor-renew-policy-icon" },
+            { "order": 4, "stepId": "customize", "number": 4, "title": "Compare and Customise Your Plan", "description": "Modify your IDV, select suitable add-ons like NCB Protection, and finalise your preferred motor vehicle insurance coverage.", "icon": "motor-claim-vehicle-icon" },
+            { "order": 5, "stepId": "payment-renew", "number": 5, "title": "Make Secure Payment", "description": "Proceed with your vehicle insurance online payment using UPI, debit/credit card, or net banking. Once done, your renewed policy will be instantly shared with your email and app.", "icon": "motor-renew-payment-icon" }
+          ]
+        },
+        {
+          "order": 3,
+          "tabId": "claim",
+          "label": "How to Claim Insurance?",
+          "description": "Filing a motor insurance claim today is simple and stress-free.",
+          "tipMessage": "",
+          "steps": [
+            { "order": 1, "stepId": "notify", "number": 1, "title": "Notify the Insurer", "description": "Intimate your insurer about the incident at the earliest through their toll-free number or email. Early notification helps in quicker processing of your claim.", "icon": "motor-claim-notify-icon" },
+            { "order": 2, "stepId": "vehicle-details-claim", "number": 2, "title": "Enter Vehicle Details", "description": "Fill in important details like your vehicle's model, registration number, fuel type, and manufacturing year.", "icon": "motor-claim-vehicle-icon" },
+            { "order": 3, "stepId": "repair", "number": 3, "title": "Vehicle Repair & Final Submission", "description": "You can get your vehicle repaired at a network garage for cashless service, or at a garage of your choice and later submit the final bill for reimbursement.", "icon": "motor-claim-repair-icon" },
+            { "order": 4, "stepId": "settlement", "number": 4, "title": "Claim Settlement", "description": "Cashless Claims: The insurer directly settles the bill with the garage. Reimbursement Claims: You pay the repair costs upfront and the insurer reimburses you after verification.", "icon": "motor-claim-settlement-icon" }
+          ]
+        }
+      ]
+    },
+    "learnMoreCards": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "cardId": "why-insurance-mandatory",
+          "background": "linear-gradient(90deg, #FFE7E5 0%, #FFFFFF 100%)",
+          "heading": "Why is Vehicle Insurance Mandatory in India?",
+          "iconSrc": "motor-insurance-mandatory-icon",
+          "iconAlt": "Vehicle insurance",
+          "body": {
+            "type": "paragraph",
+            "paragraphContent": "[\n  \"In India, having a valid motor vehicle insurance policy is not just a safety measure—it is a legal requirement under the Motor Vehicles Act, 1988.\",\n  \"Every vehicle operating on public roads must be covered by at least a Third-Party Liability insurance policy, which ensures that if your vehicle causes injury, death, or property damage to another person, the financial responsibility is covered by your motor insurance provider.\",\n  \"This law protects not only the victim of the accident but also the vehicle owner by absorbing hefty legal or compensation costs. Without valid vehicle insurance, any accident can lead to substantial out-of-pocket expenses and even legal trouble.\",\n  \"Failure to carry a valid vehicle insurance policy can result in penalties, suspension of your driving licence, or even imprisonment.\",\n  \"Whether you are buying a new vehicle or continuing with your current one, timely vehicle insurance renewal is a must.\",\n  \"In short, motor insurance isn't just about protection—it's a legal necessity designed to keep all road users financially and legally secure.\"\n]",
+            "tableHeaders": "[]",
+            "tableRows": "[]"
+          }
+        },
+        {
+          "order": 2,
+          "cardId": "common-terminologies",
+          "background": "linear-gradient(90deg, #FFF4D9 0%, #FFFFFF 100%)",
+          "heading": "Common Motor Insurance Terminologies",
+          "iconSrc": "motor-terminologies-icon",
+          "iconAlt": "Common Terms",
+          "body": {
+            "type": "table",
+            "paragraphContent": "[]",
+            "tableHeaders": "[\"Term\", \"Meaning\"]",
+            "tableRows": "[\n  [\"IDV (Insured Declared Value)\", \"The current market value of your vehicle. This is the maximum amount you can claim if your vehicle is lost or stolen. Choosing the right IDV directly impacts your premium and payout.\"],\n  [\"Third-Party Liability\", \"A mandatory component of every motor insurance policy, it covers legal and financial liabilities if your vehicle causes injury, death, or property damage to others.\"],\n  [\"Add-ons\", \"Optional features like Zero Depreciation, Engine Protection, and Roadside Assistance that increase your premium but improve coverage.\"],\n  [\"Comprehensive Policy\", \"A policy that provides dual protection—own damage cover and third-party liability—making it the most inclusive form of vehicle insurance.\"],\n  [\"Deductibles\", \"The portion of the claim amount you agree to pay from your pocket. Compulsory or Voluntary.\"],\n  [\"No Claim Bonus (NCB)\", \"A discount of up to 50% on the renewal premium for every claim-free year.\"]\n]"
+          }
+        }
+      ]
+    },
+    "motorStatisticsItems": {
+      "enabled": true,
+      "content": [
+        { "itemId": "0", "title": "Legal Requirements Changed in 2025", "description": "New motor vehicle regulations introduced in 2025 have strengthened insurance mandates, increased coverage limits, and imposed stricter penalties for non-compliance.", "iconUrl": "/assets/landing/motorLegalRequirementLogo.webp", "order": 0, "value": null },
+        { "itemId": "1", "title": null, "value": "5.8 Lakh", "description": "Motor vehicle accidents in India annually", "iconUrl": "/assets/landing/statistic1.webp", "order": 1 },
+        { "itemId": "2", "title": null, "value": "₹2.5 Lakh", "description": "Average motor accident claim amount", "iconUrl": "/assets/landing/statistic2.webp", "order": 2 },
+        { "itemId": "3", "title": null, "value": "72%", "description": "Vehicles in India are under-insured with only basic third-party cover", "iconUrl": "/assets/landing/statistic3.webp", "order": 3 },
+        { "itemId": "4", "title": null, "value": "₹2,500", "description": "Fine for driving without a valid insurance", "iconUrl": "/assets/landing/statistic4.webp", "order": 4 }
+      ]
+    },
+    "widgetTabs": {
+      "enabled": true,
+      "content": [
+        {
+          "label": "Comprehensive",
+          "order": 1,
+          "tabImage": null,
+          "icon": "star",
+          "startingPrice": "999",
+          "widgetInsuranceTitle": "Comprehensive Insurance",
+          "widgetBInsuranceTitle": "Basic Coverage"
+        },
+        {
+          "label": "Third Party",
+          "order": 2,
+          "tabImage": null,
+          "icon": "shield",
+          "startingPrice": "499",
+          "widgetInsuranceTitle": "Third Party Insurance",
+          "widgetBInsuranceTitle": "Basic Liability"
+        }
+      ]
+    },
+    "insuranceTypes": {
+      "items": [
+        {
+          "title": "Comprehensive",
+          "description": "Comprehensive coverage for your vehicle",
+          "image": null,
+          "buttonText": "Get Quote",
+          "order": 1
+        },
+        {
+          "title": "Third Party",
+          "description": "Basic coverage as per legal requirements",
+          "image": null,
+          "buttonText": "Get Quote",
+          "order": 2
+        }
+      ]
+    },
+    "coverageComparison": {
+      "enabled": true,
+      "content": {
+        "coveredItems": [
+          { "title": "5.8 Lakh", "description": "Motor vehicle accidents in India annually", "iconUrl": "${LANDING_ASSETS}/motorAccidentLogo.png" },
+          { "title": "₹2.5 Lakh", "description": "India's most trusted refinery ensures purity and reliability.", "iconUrl": "${LANDING_ASSETS}/motorClaimLogo.png" },
+          { "title": "Legal Requirements Changed in 2025", "description": "New motor vehicle regulations introduced in 2025 have strengthened insurance mandates, increased coverage limits, and imposed stricter penalties for non-compliance.", "iconUrl": "${LANDING_ASSETS}/motorLegalRequirementLogo.png" },
+          { "title": "72%", "description": "Vehicles in India are under-insured with only basic third-party cover", "iconUrl": "${LANDING_ASSETS}/motorThirdPartyCoverLogo.png" },
+          { "title": "₹2,500", "description": "Fine for driving without a valid insurance", "iconUrl": "${LANDING_ASSETS}/motorFineLogo.png" }
+        ],
+        "notCoveredItems": [
+          { "verdict": "negative", "title": "Accidents:", "description": "Repairs or replacement if your vehicle is damaged due to a collision with another vehicle or object." },
+          { "verdict": "negative", "title": "Invalid Licence or Policy:", "description": "Driving with an expired licence or insurance voids coverage." },
+          { "verdict": "negative", "title": "Mechanical Wear and Tear:", "description": "Routine wear, mechanical or electrical breakdowns are excluded." },
+          { "verdict": "negative", "title": "Geographical Limits:", "description": "Damages outside India or during illegal usage are not covered." },
+          { "verdict": "negative" },
+          { "verdict": "negative" }
+        ]
+      }
+    },
+    "faqItems": {
+      "enabled": true,
+      "content": [
+        { "order": 1, "question": "Question 1?", "answer": "Answer to question 1" },
+        { "order": 2, "question": "Question 2?", "answer": "Answer to question 2" },
+        { "order": 3, "question": "Question 3?", "answer": "Answer to question 3" },
+        { "order": 4, "question": "Question 4?", "answer": "Answer to question 4" }
+      ]
+    },
+    "footerFeatures": {
+      "enabled": true,
+      "content": [
+        { "text": "Footer Feature 1" },
+        { "text": "Footer Feature 2" },
+        { "text": "Footer Feature 3" },
+        { "text": "Footer Feature 4" }
+      ]
+    },
+    "promoBanner": {
+      "imageSrc": null,
+      "imageAlt": "Promo Banner",
+      "title": "Introducing ActivOne MAX Economy!",
+      "subtitle": "Check out the latest App Exclusive plan and other health plans.",
+      "subtitleColor": "#FFFFFF",
+      "ctaLabel": "Shop Now",
+      "background": "linear-gradient(90deg, #f9c921 0%, #fbc525 100%)"
+    },
+    "promoBannerHealth": {
+      "imageSrc": null,
+      "imageAlt": "Health insurance shield",
+      "title": "Introducing ActivOne MAX Economy!",
+      "subtitle": "Check out the latest App Exclusive plan and other health plans.",
+      "subtitleColor": "#FFFFFF",
+      "ctaLabel": "Insure now",
+      "background": "linear-gradient(90deg, #7C2279 14.822%, #FCCA67 72.785%)"
+    },
+    "widgetConsent": {
+      "enabled": true,
+      "content": {
+        "label": "I agree with the",
+        "termsText": "Terms & Conditions",
+        "termsUrl": "https://www.adityabirlacapital.com/abcd/terms-conditions",
+        "privacyText": "Privacy Policy",
+        "privacyUrl": "https://www.adityabirlacapital.com/abcd/privacy-policy"
+      }
+    },
+    "appPromo": {
+      "enabled": true,
+      "content": {
+        "title": "Everything Finance\nas simple as\nABCD",
+        "subtitle": "Download the ABCD app and start doing more with your money everyday",
+        "houseLogoSrc": "abcd-logo",
+        "qrSrc": "qr-code",
+        "phoneImageSrc": "gl-finance",
+        "ctaButtons": [
+          { "order": 1, "label": "App Store", "link": "https://apps.apple.com/", "iconSrc": "apple-app-store", "iconAlt": "Apple App Store" },
+          { "order": 2, "label": "Google Play", "link": "https://play.google.com/store", "iconSrc": "google-play-store", "iconAlt": "Google Play Store" }
+        ]
+      }
+    },
+    "insurersList": {
+      "enabled": true,
+      "content": [
+        {
+          "insurerId": 1,
+          "insurerName": "Insurance Company 1",
+          "insurerLogo": "/uploads/insurer-placeholder.png",
+          "badge": "Popular",
+          "networkGarages": 5000,
+          "claimRatio": "98%",
+          "overview": "Leading insurance provider with comprehensive coverage.",
+          "promoBanner": {},
+          "whatsCovered": [],
+          "whatsNotCovered": []
+        },
+        {
+          "insurerId": 2,
+          "insurerName": "Insurance Company 2",
+          "insurerLogo": "/uploads/insurer-placeholder.png",
+          "badge": "",
+          "networkGarages": 3000,
+          "claimRatio": "95%",
+          "overview": "Trusted insurance partner with excellent claim settlement.",
+          "promoBanner": {},
+          "whatsCovered": [],
+          "whatsNotCovered": []
+        }
+      ]
+    },
+    "header": {
+      "logo": {
+        "alt": "ABCD Logo",
+        "size": "default",
+        "src": null
+      },
+      "mobileHeaderLogo": {
+        "alt": "ABCD Logo",
+        "size": "default",
+        "src": null
+      }
+    },
+
+  }
+}

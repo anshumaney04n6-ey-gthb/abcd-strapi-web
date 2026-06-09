@@ -1,0 +1,162 @@
+{
+  "data": {
+    "subProduct": "gold",
+    "partner": "default",
+    "panVerification": {
+      "title": "Gold Loan",
+      "subtitle": "Apply for instant gold loan",
+      "introText": "Enter following details",
+      "ctaText": "Apply Now",
+      "secondaryLinkText": "How did you learn about us?",
+      "panLabel": "PAN",
+      "panPlaceholder": "Enter PAN",
+      "fullNameLabel": "Full name as per PAN",
+      "fullNamePlaceholder": "Enter your full name",
+      "termsShortText": "I agree to the ",
+      "termsFullText": "I agree to the Terms and Conditions and Privacy Policy of Aditya Birla Capital Digital and its lending partners (Lenders/LSPs). I hereby, authorize them to collect, store, verify, process, and access my credit information from credit bureaus to process my loan application. I confirm that I am eligible to apply and that my household's annual income is above ₹3 lakh.",
+      "termsAndConditionsLink": "https://www.adityabirlacapital.com/abc-digital/terms-conditions",
+      "privacyPolicyLink": "https://www.adityabirlacapital.com/abcd/privacy-policy",
+      "lendingPartnersLink": "https://www.adityabirlacapital.com/abcd/lending-partners",
+      "invalidPanError": "Please enter a valid PAN in uppercase (e.g., ABCDE1234F)",
+      "invalidNameError": "Characters should be minimum 3 letters",
+      "termsNotAcceptedError": "Please accept terms & conditions",
+      "panNotFoundError": "PAN details not found. Please recheck and try again",
+      "softRejectError": "We are unable to proceed with your application",
+      "technicalError": "Something went wrong. Please retry"
+    },
+    "basicDetails": {
+      "title": "Gold Loan",
+      "subtitle": "Complete your application",
+      "stepLabel": "Basic details",
+      "stepNumber": "Step 1/4",
+      "formTitle": "Verify your personal details",
+      "formSubtitle": "For your gold loan application please enter accurate information that matches your KYC document.",
+      "emailLabel": "Email (Required)",
+      "emailPlaceholder": "Enter email address",
+      "dobLabel": "Date of birth (Required)",
+      "dobPlaceholder": "DD/MM/YYYY",
+      "genderLabel": "Gender",
+      "employmentTitle": "Select employment type",
+      "monthlyIncomeLabel": "Monthly income",
+      "monthlyIncomePlaceholder": "Enter monthly income",
+      "incomeMin": 10000,
+      "incomeMax": 500000,
+      "addressTitle": "Residential address",
+      "pincodeLabel": "Pincode (Required)",
+      "pincodePlaceholder": "Enter pincode",
+      "addressLine1Placeholder": "House no., Building name (Required)",
+      "addressLine2Placeholder": "Road name, area, colony (Required)",
+      "cityPlaceholder": "City (Required)",
+      "statePlaceholder": "State (Required)",
+      "ctaText": "Continue",
+      "invalidEmailError": "Please enter a valid Email Address",
+      "genderNotSelectedError": "Please select your gender",
+      "employmentNotSelectedError": "Please select employment type",
+      "incomeMinError": "Minimum monthly income should be ₹10,000",
+      "incomeMaxError": "Maximum monthly income should be ₹5,00,000",
+      "invalidPincodeError": "Please enter a valid 6-digit pincode",
+      "technicalError": "Something went wrong. Please retry"
+    },
+    "loader": {
+      "title": "Evaluating Your Gold",
+      "subtitleLine1": "Please wait,",
+      "subtitleLine2": "we are evaluating your gold jewellery",
+      "waitPrefixText": "Please wait as this may take",
+      "waitHighlightSeconds": 30,
+      "waitSuffixText": "to complete",
+      "safeVisualPath": "/assets/error-pages/pl-loader-safe.webp",
+      "waitIconPath": "/assets/error-pages/brewaitIcon.svg",
+      "sheetVisualPath": "/assets/error-pages/brefile1.svg"
+    },
+    "breOfferScreen": {
+      "pageTitle": "Gold Loan",
+      "continueCtaText": "Continue",
+      "loaderTitle": "Evaluating Your Gold",
+      "loaderSubtitleTop": "Please wait,",
+      "loaderSubtitleBottom": "we are evaluating your gold jewellery",
+      "loaderIconAlt": "loading",
+      "offerCardCongratsText": "Congratulations",
+      "offerCardCongratsIconLeft": "🎉",
+      "offerCardCongratsIconRight": "🎉",
+      "offerCardDescription": "we have a Gold Loan Offer up to",
+      "offerCardEmiLabelText": "Monthly EMI starts from",
+      "offerCardImagealt": "Offer image",
+      "infoBannerText": "Get loan amount in your bank in a few minutes",
+      "disclaimerText": "This offer is indicative*",
+      "footerInfoText": "Get loan amount in your bank in a few minutes",
+      "footerClockIconAlt": "Clock",
+      "loaderIconPath": "/assets/gold-loan/icons/offerloading.png",
+      "offerCardImagesrc": "/assets/gold-loan/icons/offergold.svg",
+      "clockIconPath": "/assets/gold-loan/icons/clock.png"
+    },
+    "lreMarketplaceScreen": {
+      "pageTitle": "Gold Loan",
+      "sectionTitle": "Loan offers for you",
+      "rankingText": "Ranking based on loan amount provided by lenders",
+      "viewAllText": "View all",
+      "sidebarOfferLimit": 2,
+      "applyNowText": "Apply now",
+      "viewKfsText": "View KFS",
+      "amountDisclaimerText": "Amount is indicative*",
+      "loanAmountLabel": "Loan amount",
+      "monthlyEmiLabel": "Monthly EMI",
+      "tenureLabel": "Tenure",
+      "aprLabel": "APR",
+      "infoRowText": "What is KFS & APR?",
+      "definitionsTitle": "Important definitions",
+      "definitionsCloseTextMobile": "Close",
+      "definitionsCloseTextDesktop": "Got it",
+      "ineligibleLendersTitle": "Lenders checked",
+      "noOfferTitle": "No offers available",
+      "noOfferDescription": "These lenders were unable to provide an offer at this time.",
+      "noOfferCloseText": "Close",
+      "definitions": [
+        {
+          "id": "kfs",
+          "label": "KFS",
+          "highlightedTerm": "Key Facts Statement (KFS)",
+          "description": "is a summary of important loan terms like interest rate, fees, and repayment details."
+        },
+        {
+          "id": "apr",
+          "label": "APR",
+          "highlightedTerm": "Annual Percentage Rate (APR)",
+          "description": "for loans is the inclusive annualized rate that reflects the total cost of borrowing, including interest, fees, and operational expenses."
+        }
+      ],
+      "noOfferLenderIcons": [],
+      "lenderLogos": {
+        "IIFL": "/assets/gold-loan/icons/iifl-logo.png",
+        "Muthoot": "/assets/gold-loan/icons/muthoot-logo.png",
+        "Manappuram": "/assets/gold-loan/icons/manappuram-logo.png",
+        "ABCL": "/assets/gold-loan/icons/abc.png"
+      },
+      "lenderLogosListView": {
+        "IIFL": "/assets/gold-loan/icons/iifl-logo.png",
+        "Muthoot": "/assets/gold-loan/icons/muthoot-logo.png",
+        "Manappuram": "/assets/gold-loan/icons/manappuram-logo.png",
+        "ABCL": "/assets/gold-loan/icons/abc.png"
+      }
+    },
+    "permissionScreen": {
+      "title": "Gold Loan Application",
+      "subtitle": "We need your permission to proceed",
+      "permissions": [
+        {
+          "id": "camera",
+          "label": "Camera Access",
+          "description": "To capture gold jewellery images for evaluation",
+          "icon": "/assets/gold-loan/icons/camera.svg"
+        },
+        {
+          "id": "location",
+          "label": "Location Access",
+          "description": "To verify your address for KYC",
+          "icon": "/assets/gold-loan/icons/location.svg"
+        }
+      ],
+      "ctaText": "Allow Permissions",
+      "skipText": "Skip for now"
+    }
+  }
+}

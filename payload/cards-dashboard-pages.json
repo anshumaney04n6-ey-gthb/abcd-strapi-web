@@ -1,0 +1,640 @@
+{
+  "data": {
+    "subProduct": "credit",
+    "partner": "default",
+    "sectionTitleComparison": "Compare Cards",
+    "sectionSubtitleVideos": "Watch how it works",
+    "sectionTitleReferral": "Refer & Earn",
+    "livePriceDisclaimer": "Prices are live and updated in real-time",
+    "footerReferenceHeading": "Offered by",
+    "footerReferenceName": "ABCD",
+    "footerReferenceCertification": "ISO 27001:2013 certified",
+    "heroImagePath": "/images/dashboard/hero-bg.svg",
+    "patternImagePath": "/images/dashboard/pattern.svg",
+    "maskImagePath": "/images/dashboard/mask.png",
+    "transactionsEmptyImagePath": "/images/dashboard/empty-transactions.svg",
+    "mmtcLogoPath": "/images/dashboard/mmtc-logo.png",
+    "footerBarsImagePath": "/images/dashboard/footer-bars.svg",
+    "headerLogoAlt": "ABCD Logo",
+    "footerLogoAlt": "ABCD Logo",
+    "benefitsSectionTitle": "One platform, many benefits",
+    "factsSectionTitle": "Some random facts",
+    "disclaimerText": "To refer to the Terms & Conditions",
+    "disclaimerLinkText": "Tap here",
+    "disclaimerLinkHref": "https://www.adityabirlacapital.com/abcd/terms-conditions",
+    "carouselPanelCycleInterval": 60000,
+    "carouselAnimationDuration": 1500,
+    "navigationTabsEnabled": true,
+    "navigationTabs": [
+      {
+        "label": "Unsecured Cards",
+        "menuItemsEnabled": true,
+        "promoBannersEnabled": true,
+        "menuItems": [
+          {
+            "title": "Credit Cards",
+            "description": "Apply for the best credit cards",
+            "navigateToUrl": "/cards",
+            "enabled": true,
+            "order": 1
+          },
+          {
+            "title": "Fuel Cards",
+            "description": "Best fuel reward cards",
+            "navigateToUrl": "/cards/fuel",
+            "enabled": true,
+            "order": 2
+          },
+          {
+            "title": "Travel Cards",
+            "description": "Best travel cards with lounge access",
+            "navigateToUrl": "/cards/travel",
+            "enabled": true,
+            "order": 3
+          },
+          {
+            "title": "Shopping Cards",
+            "description": "Max rewards on shopping",
+            "navigateToUrl": "/cards/shopping",
+            "enabled": true,
+            "order": 4
+          }
+        ],
+        "promoBanners": [
+          {
+            "title": "Apply for Credit Card",
+            "ctaText": "Get Started",
+            "ctaUrl": "/apply",
+            "enabled": true,
+            "order": 1
+          }
+        ],
+        "footerBannerText": "Download ABCD app for exclusive offers",
+        "footerBannerAppStoreButtonsAlt": "App Store buttons",
+        "order": 1
+      },
+      {
+        "label": "Secured Cards",
+        "menuItemsEnabled": true,
+        "promoBannersEnabled": true,
+        "menuItems": [
+          {
+            "title": "FD Backed Cards",
+            "description": "Get a card against your fixed deposit",
+            "navigateToUrl": "/cards/secured",
+            "enabled": true,
+            "order": 1
+          }
+        ],
+        "promoBanners": [
+          {
+            "title": "Start with Security",
+            "ctaText": "Explore Secured Cards",
+            "ctaUrl": "/cards/secured",
+            "enabled": true,
+            "order": 1
+          }
+        ],
+        "footerBannerText": "Secured cards - Perfect for building credit",
+        "footerBannerAppStoreButtonsAlt": "App Store buttons",
+        "order": 2
+      }
+    ],
+    "offeringsEnabled": true,
+    "offeringsTitle": "Our offerings",
+    "offerings": [
+      {
+        "title": "Cashback Cards",
+        "description": "Get instant cashback on all your purchases",
+        "cardType": "unsecured",
+        "order": 1
+      },
+      {
+        "title": "Rewards Cards",
+        "description": "Earn reward points on every spend",
+        "cardType": "unsecured",
+        "order": 2
+      },
+      {
+        "title": "Travel Cards",
+        "description": "Complimentary airport lounge access worldwide",
+        "cardType": "unsecured",
+        "order": 3
+      },
+      {
+        "title": "Fuel Cards",
+        "description": "Max fuel savings with surcharge waiver",
+        "cardType": "unsecured",
+        "order": 4
+      },
+      {
+        "title": "Secured Cards",
+        "description": "Build credit with FD-backed cards",
+        "cardType": "secured",
+        "order": 5
+      },
+      {
+        "title": "Business Cards",
+        "description": "Best credit cards for business expenses",
+        "cardType": "unsecured",
+        "order": 6
+      }
+    ],
+    "stillExploringTitle": "Still Exploring?",
+    "stillExploringSubtitle": "Apply for a credit card with our partner banks",
+    "stillExploringCards": [
+      {
+        "bankName": "HDFC Bank",
+        "bankId": "hdfc",
+        "logoAlt": "HDFC Bank",
+        "redirectUrl": "https://www.hdfcbank.com",
+        "utmParams": {},
+        "redirectErrorText": "Unable to open. Please try again.",
+        "buttonText": "Apply Now",
+        "variant": "red",
+        "cardType": "bank",
+        "benefits": [
+          {
+            "label": "5% cashback on dining",
+            "order": 1
+          },
+          {
+            "label": "Airport lounge access",
+            "order": 2
+          }
+        ],
+        "order": 1
+      },
+      {
+        "bankName": "ICICI Bank",
+        "bankId": "icici",
+        "logoAlt": "ICICI Bank",
+        "redirectUrl": "https://www.icicibank.com",
+        "utmParams": {},
+        "redirectErrorText": "Unable to open. Please try again.",
+        "buttonText": "Apply Now",
+        "variant": "blue",
+        "cardType": "bank",
+        "benefits": [
+          {
+            "label": "3X reward points",
+            "order": 1
+          }
+        ],
+        "order": 2
+      },
+      {
+        "bankName": "Axis Bank",
+        "bankId": "axis",
+        "logoAlt": "Axis Bank",
+        "redirectUrl": "https://www.axisbank.com",
+        "utmParams": {},
+        "redirectErrorText": "Unable to open. Please try again.",
+        "buttonText": "Apply Now",
+        "variant": "orange",
+        "cardType": "bank",
+        "benefits": [
+          {
+            "label": "Buy 1 Get 1 movie tickets",
+            "order": 1
+          }
+        ],
+        "order": 3
+      }
+    ],
+    "ownStepEnabled": true,
+    "ownStepTitlePrefix": "Own a credit card in just",
+    "ownStepSteps": [
+      {
+        "stepNumber": 1,
+        "text": "Enter your mobile number",
+        "iconAlt": "Mobile icon",
+        "order": 1
+      },
+      {
+        "stepNumber": 2,
+        "text": "Verify with OTP",
+        "iconAlt": "OTP icon",
+        "order": 2
+      },
+      {
+        "stepNumber": 3,
+        "text": "Select your card",
+        "iconAlt": "Card icon",
+        "order": 3
+      },
+      {
+        "stepNumber": 4,
+        "text": "Get approved instantly",
+        "iconAlt": "Check icon",
+        "order": 4
+      }
+    ],
+    "learnAboutUsText": "How did you learn about us?",
+    "learnAboutUsArrowIconAlt": "Arrow",
+    "manyBenefitsEnabled": true,
+    "manyBenefits": [
+      {
+        "heading": "Choose your card",
+        "description": "From the list of recommended cards based on your profile",
+        "borderColor": "#E6E6E6",
+        "order": 1
+      },
+      {
+        "heading": "Quick verification",
+        "description": "Minimal documentation with instant verification",
+        "borderColor": "#E6E6E6",
+        "order": 2
+      },
+      {
+        "heading": "Digital experience",
+        "description": "100% paperless application process",
+        "borderColor": "#E6E6E6",
+        "order": 3
+      }
+    ],
+    "randomFactsIconAlt": "Credit fact icon",
+    "randomFactsEnabled": true,
+    "randomFacts": [
+      {
+        "heading": "Credit cards would circle the Earth",
+        "description": "If you lined up all the credit cards issued in India, they would circle the Earth multiple times",
+        "order": 1
+      },
+      {
+        "heading": "₹15,000+ crores",
+        "description": "The total credit card spends in India annually",
+        "order": 2
+      },
+      {
+        "heading": "5 Crore+ cards",
+        "description": "Credit cards issued in India till date",
+        "order": 3
+      }
+    ],
+    "poweredByBannerText": "Powered by",
+    "poweredByBannerPartnerLogoAlt": "ABCD Logo",
+    "carouselPanelsEnabled": true,
+    "carouselPanels": [
+      {
+        "type": "unsecured",
+        "tabLabel": "Unsecured Cards",
+        "sectionLabel": "Best Unsecured Cards",
+        "title": "Unsecured Credit Cards",
+        "heading": "Apply without any security deposit",
+        "subheading": "Get instant approval with no collateral required",
+        "ctaLabel": "Apply now",
+        "allBenefitsLabel": "All benefits",
+        "cardCycleInterval": 1500,
+        "carouselCardsEnabled": true,
+        "featureBadgesEnabled": true,
+        "benefitsEnabled": true,
+        "carouselCards": [
+          {
+            "imageAlt": "Credit Card",
+            "order": 1
+          }
+        ],
+        "featureBadges": [
+          {
+            "label": "Cashback",
+            "order": 1
+          },
+          {
+            "label": "Rewards",
+            "order": 2
+          },
+          {
+            "label": "Lounge",
+            "order": 3
+          }
+        ],
+        "benefits": [
+          {
+            "label": "5% cashback on dining",
+            "order": 1
+          },
+          {
+            "label": "Complimentary lounge access",
+            "order": 2
+          }
+        ],
+        "order": 1
+      },
+      {
+        "type": "secured",
+        "tabLabel": "Secured Cards",
+        "sectionLabel": "Best Secured Cards",
+        "title": "Secured Credit Cards",
+        "heading": "Get a card against your FD",
+        "subheading": "Perfect for building or improving your credit score",
+        "ctaLabel": "Apply now",
+        "allBenefitsLabel": "All benefits",
+        "cardCycleInterval": 1500,
+        "carouselCardsEnabled": true,
+        "featureBadgesEnabled": true,
+        "benefitsEnabled": true,
+        "carouselCards": [
+          {
+            "imageAlt": "Credit Card",
+            "order": 1
+          }
+        ],
+        "featureBadges": [
+          {
+            "label": "FD Backed",
+            "order": 1
+          },
+          {
+            "label": "Low Deposit",
+            "order": 2
+          }
+        ],
+        "benefits": [
+          {
+            "label": "No credit history required",
+            "order": 1
+          },
+          {
+            "label": "Build credit score",
+            "order": 2
+          }
+        ],
+        "order": 2
+      }
+    ],
+    "securedBenefitsEnabled": true,
+    "securedBenefits": [
+      {
+        "title": "Instant Issue",
+        "subtitle": "Get card immediately",
+        "description": "Get your virtual card instantly upon FD confirmation",
+        "borderColorVariant": "purple",
+        "backgroundColorVariant": "purple",
+        "order": 1
+      },
+      {
+        "title": "Credit Building",
+        "subtitle": "Build your credit score",
+        "description": "Use your secured card responsibly to build a strong credit history",
+        "borderColorVariant": "blue",
+        "backgroundColorVariant": "blue",
+        "order": 2
+      },
+      {
+        "title": "Easy Upgrade",
+        "subtitle": "Upgrade to unsecured",
+        "description": "After 6 months of responsible usage, upgrade to an unsecured card",
+        "borderColorVariant": "green",
+        "backgroundColorVariant": "green",
+        "order": 3
+      }
+    ],
+    "unsecuredBenefitsEnabled": true,
+    "unsecuredBenefits": [
+      {
+        "title": "Rewards",
+        "subtitle": "Earn points on eligible spends",
+        "description": "Collect reward points on everyday spends and redeem for exciting gifts",
+        "order": 1
+      },
+      {
+        "title": "Cashback",
+        "subtitle": "Get money back",
+        "description": "Earn instant cashback on dining, groceries, and fuel transactions",
+        "order": 2
+      },
+      {
+        "title": "Travel",
+        "subtitle": "Airport lounge access",
+        "description": "Complimentary airport lounge access across domestic and international airports",
+        "order": 3
+      },
+      {
+        "title": "Fuel",
+        "subtitle": "Fuel surcharge waiver",
+        "description": "Save on fuel expenses with unlimited surcharge waiver at fuel stations",
+        "order": 4
+      },
+      {
+        "title": "EMI",
+        "subtitle": "Easy EMIs",
+        "description": "Convert big purchases to EMIs with low interest rates and flexible tenure",
+        "order": 5
+      },
+      {
+        "title": "Insurance",
+        "subtitle": "Complimentary insurance",
+        "description": "Enjoy air accidental insurance and other travel benefits",
+        "order": 6
+      }
+    ],
+    "actionCards": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "cardId": "compare-cards",
+          "title": "Compare Cards",
+          "subtitle": "Find the best card for your needs"
+        },
+        {
+          "order": 2,
+          "cardId": "eligibility-check",
+          "title": "Check Eligibility",
+          "subtitle": "See cards you're likely to get"
+        },
+        {
+          "order": 3,
+          "cardId": "track-application",
+          "title": "Track Application",
+          "subtitle": "Check your application status"
+        }
+      ]
+    },
+    "comparisonColumns": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "columnId": "annual-fee",
+          "title": "Annual Fee",
+          "isHighlighted": false
+        },
+        {
+          "order": 2,
+          "columnId": "reward-rate",
+          "title": "Reward Rate",
+          "isHighlighted": true
+        },
+        {
+          "order": 3,
+          "columnId": "fuel-surcharge",
+          "title": "Fuel Surcharge",
+          "isHighlighted": false
+        },
+        {
+          "order": 4,
+          "columnId": "lounge-access",
+          "title": "Lounge Access",
+          "isHighlighted": false
+        }
+      ]
+    },
+    "comparisonRows": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "rowId": "rew-rate",
+          "label": "Reward Rate",
+          "values": ["1%", "2%", "1%", "2%"]
+        },
+        {
+          "order": 2,
+          "rowId": "annual-fee",
+          "label": "Annual Fee",
+          "values": ["₹500", "₹1000", "₹750", "₹1500"]
+        },
+        {
+          "order": 3,
+          "rowId": "fuel-waiver",
+          "label": "Fuel Surcharge Waiver",
+          "values": ["1%", "2%", "1%", "2%"]
+        }
+      ]
+    },
+    "footerFeatures": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "text": "100% Digital Process"
+        },
+        {
+          "order": 2,
+          "text": "Secure & Encrypted"
+        },
+        {
+          "order": 3,
+          "text": "24/7 Customer Support"
+        },
+        {
+          "order": 4,
+          "text": "EMI Options Available"
+        },
+        {
+          "order": 5,
+          "text": "No Hidden Charges"
+        }
+      ]
+    },
+    "sidebarFAQs": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "faqId": "documents-required",
+          "title": "What documents are required?",
+          "content": "PAN card and Aadhaar-linked mobile number",
+          "isExternal": false
+        },
+        {
+          "order": 2,
+          "faqId": "approval-time",
+          "title": "How long does approval take?",
+          "content": "Most applications are approved instantly",
+          "isExternal": false
+        },
+        {
+          "order": 3,
+          "faqId": "income-requirement",
+          "title": "What is the minimum income?",
+          "content": "Varies by card - starts from ₹10,000/month",
+          "isExternal": false
+        }
+      ]
+    },
+    "videos": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "videoId": "how-to-apply",
+          "title": "How to apply for a credit card",
+          "videoUrl": "https://youtube.com/watch?v=example1"
+        },
+        {
+          "order": 2,
+          "videoId": "documents-needed",
+          "title": "Documents needed",
+          "videoUrl": "https://youtube.com/watch?v=example2"
+        }
+      ]
+    },
+    "promoBanners": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "backgroundColor": "#FF6B35",
+          "title": "Apply Now",
+          "highlightedText": "Get 500 bonus points",
+          "subtitle": "On first transaction"
+        }
+      ]
+    },
+    "keyHighlightsConfig": {
+      "holdingsLabel": "Your Holdings",
+      "badgeText": "Active",
+      "title": "Application Status",
+      "ctaText": "View Details",
+      "highlights": [
+        {
+          "order": 1,
+          "text": "Application submitted"
+        },
+        {
+          "order": 2,
+          "text": "Under review"
+        },
+        {
+          "order": 3,
+          "text": "_card approved"
+        }
+      ]
+    },
+    "transactionsEmptyStateConfig": {
+      "ctaText": "Apply for Card",
+      "bannerHighlight": "No transactions yet",
+      "bannerDescription": "Start using your credit card to see transactions here"
+    },
+    "referralBannerAssets": {
+      "treasureChestPath": "/images/referral/treasure.svg",
+      "goldCoinPath": "/images/referral/coin.svg",
+      "chevronPath": "/images/referral/chevron.svg"
+    },
+    "userSidebarAssets": {
+      "iconProfilePath": "/images/sidebar/profile.svg",
+      "iconInfoPath": "/images/sidebar/info.svg",
+      "iconLogoutPath": "/images/sidebar/logout.svg",
+      "logoFooterPath": "/images/sidebar/logo-footer.svg",
+      "logoutIllustrationPath": "/images/sidebar/logout-illustration.svg",
+      "otpIllustrationPath": "/images/sidebar/otp-illustration.svg",
+      "aboutUs": {
+        "termsAndConditions": {
+          "title": "Terms & Conditions",
+          "content": "By using this service, you agree to our terms and conditions."
+        },
+        "privacyPolicy": {
+          "title": "Privacy Policy",
+          "content": "We respect your privacy and protect your data."
+        }
+      }
+    },
+    "globalDisclaimer": {
+      "anchorText": "Disclaimer",
+      "content": "All information is subject to change. Please verify with the bank before applying."
+    }
+  }
+}

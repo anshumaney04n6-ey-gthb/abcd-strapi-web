@@ -1,0 +1,669 @@
+{
+  "data": {
+    "subProduct": "fixed-deposits",
+    "partner": "default",
+    "header": {
+      "logo": {
+        "src": null,
+        "alt": "ABCD"
+      },
+      "mobileHeaderLogo": null
+    },
+    "userSidebarAssets": {
+      "iconProfile": null,
+      "iconInfo": null,
+      "iconLogout": null,
+      "logoFooter": null,
+      "logoutIllustration": null,
+      "otpIllustration": null
+    },
+    "bannerFD": {
+      "amount": "8.05",
+      "unit": "p.a",
+      "prefix": "Earn up to ",
+      "heading": "Suryoday Small Finance Bank",
+      "badge": "Popular Choice",
+      "buttonLabel": "Book now",
+      "logoImagePath": null,
+      "bannerImagePath": null,
+      "backgroundImagePath": null,
+      "badgeIconPath": null,
+      "chevronIconPath": null,
+      "decorativeIconPath": null,
+      "gradientColor1": "rgba(255, 200, 0, 0.8)",
+      "gradientColor2": "rgba(255, 150, 0, 0.6)",
+      "items": [
+        {
+          "bannerItemId": "item-1",
+          "order": 1,
+          "iconPath": null,
+          "label": "Instant withdrawal",
+          "description": "available"
+        }
+      ],
+      "cards": [
+        {
+          "bannerCardId": "card-1",
+          "order": 1,
+          "iconPath": null,
+          "title": "RBI",
+          "subtitle": "Regulated"
+        }
+      ],
+      "banners": [
+        {
+          "bannerFDId": "shivalik",
+          "order": 1,
+          "bankCode": "SHIV001",
+          "amount": "8.75",
+          "unit": "p.a",
+          "prefix": "Earn up to ",
+          "heading": "Shivalik Small Finance Bank",
+          "badge": "Highest Interest Rate",
+          "buttonLabel": "Book now",
+          "logoImagePath": null,
+          "bannerImagePath": null,
+          "backgroundImagePath": null,
+          "badgeIconPath": null,
+          "chevronIconPath": null,
+          "decorativeIconPath": null,
+          "gradientColor1": "rgba(255, 200, 0, 0.8)",
+          "gradientColor2": "rgba(255, 150, 0, 0.6)",
+          "items": [],
+          "cards": []
+        }
+      ]
+    },
+    "resumeKYC": {
+      "heading": "Almost there! Complete your KYC.",
+      "supportingText": "Just add your PAN details to get started.",
+      "resumeButtonText": "Resume",
+      "progressClockSrc": null,
+      "closeIconSrc": null
+    },
+    "calculator": {
+      "heading": "Find the FD that fits you",
+      "depositLabel": "Deposit amount (in ₹)",
+      "depositPlaceholder": "Enter amount",
+      "tenureLabel": "Investment Tenure",
+      "checkboxLabel": "I am a senior citizen",
+      "buttonLabel": "Search Banks",
+      "currencySymbol": "₹",
+      "depositMin": 0,
+      "depositMax": 10000000,
+      "depositStep": 1000,
+      "defaultDeposit": 100000,
+      "defaultTenure": "1y-2y",
+      "tenureOptions": [
+        {
+          "tenureOptionId": "7d-14d",
+          "label": "7D to 14D",
+          "value": "7d-14d"
+        },
+        {
+          "tenureOptionId": "1m-2m",
+          "label": "1M to 2M",
+          "value": "1m-2m"
+        },
+        {
+          "tenureOptionId": "3m-5m",
+          "label": "3M to 5M",
+          "value": "3m-5m"
+        },
+        {
+          "tenureOptionId": "6m-11m",
+          "label": "6M to 11M",
+          "value": "6m-11m"
+        },
+        {
+          "tenureOptionId": "1y-2y",
+          "label": "1Y to 2Y",
+          "value": "1y-2y"
+        },
+        {
+          "tenureOptionId": "2y-3y",
+          "label": "2Y to 3Y",
+          "value": "2y-3y"
+        },
+        {
+          "tenureOptionId": "3y-5y",
+          "label": "3Y to 5Y",
+          "value": "3y-5y"
+        },
+        {
+          "tenureOptionId": "5y-10y",
+          "label": "5Y to 10Y",
+          "value": "5y-10y"
+        }
+      ],
+      "sliderLabels": ["1K", "1L", "10L", "50L", "1Cr"],
+      "sliderMarkerValues": [1000, 100000, 1000000, 5000000, 10000000],
+      "banksHeading": "Banks that fit you well",
+      "selectedPlanHeading": "Your Selected Plan",
+      "recommendedPlanHeading": "✨ Recommended Plan",
+      "recalculateLabel": "Recalculate",
+      "bookFDLabel": "Book FD",
+      "banksPerSlide": 3
+    },
+    "fdGenie": {
+      "tenureChips": [
+        {
+          "tenureChipId": "chip-1",
+          "label": "7D to 14D",
+          "minMonths": 7,
+          "maxMonths": 14
+        },
+        {
+          "tenureChipId": "chip-2",
+          "label": "1M to 2M",
+          "minMonths": 30,
+          "maxMonths": 60
+        },
+        {
+          "tenureChipId": "chip-3",
+          "label": "3M to 6M",
+          "minMonths": 90,
+          "maxMonths": 180
+        },
+        {
+          "tenureChipId": "chip-4",
+          "label": "1Y to 2Y",
+          "minMonths": 12,
+          "maxMonths": 24
+        },
+        {
+          "tenureChipId": "chip-5",
+          "label": "2Y to 3Y",
+          "minMonths": 24,
+          "maxMonths": 36
+        },
+        {
+          "tenureChipId": "chip-6",
+          "label": "3Y to 5Y",
+          "minMonths": 36,
+          "maxMonths": 60
+        }
+      ]
+    },
+    "fdGenieRates": [
+      {
+        "providerName": "Shivalik SF Bank",
+        "bankLogo": null,
+        "tenureMonths": 12,
+        "regularRate": 8.75,
+        "seniorCitizenRate": 9.0,
+        "womanRate": 8.85,
+        "compoundingType": "Quarterly",
+        "compoundingValue": 4,
+        "rbiRegulated": true
+      },
+      {
+        "providerName": "Suryoday SF Bank",
+        "bankLogo": null,
+        "tenureMonths": 24,
+        "regularRate": 8.05,
+        "seniorCitizenRate": 8.55,
+        "womanRate": 8.20,
+        "compoundingType": "Quarterly",
+        "compoundingValue": 4,
+        "rbiRegulated": true
+      }
+    ],
+    "rd": {
+      "title": "Build Savings with Recurring Deposits",
+      "banks": [
+        {
+          "rdBankId": "shivalik",
+          "name": "Shivalik SF Bank",
+          "logoUrl": null,
+          "description": "High Returns 🚀"
+        },
+        {
+          "rdBankId": "suryoday",
+          "name": "Suryoday SF Bank",
+          "logoUrl": null,
+          "description": "Trusted Bank"
+        }
+      ],
+      "selectedBankId": "shivalik",
+      "depositOptions": [
+        {
+          "depositOptionId": "1k",
+          "amount": 1000,
+          "label": "₹1,000"
+        },
+        {
+          "depositOptionId": "2k",
+          "amount": 2000,
+          "label": "₹2,000"
+        },
+        {
+          "depositOptionId": "5k",
+          "amount": 5000,
+          "label": "₹5,000"
+        },
+        {
+          "depositOptionId": "10k",
+          "amount": 10000,
+          "label": "₹10,000"
+        }
+      ],
+      "selectedDepositAmount": 5000,
+      "tenureOptions": [
+        {
+          "tenureOptionId": "1y",
+          "label": "1 Year",
+          "value": "1y"
+        },
+        {
+          "tenureOptionId": "2y",
+          "label": "2 Years",
+          "value": "2y"
+        },
+        {
+          "tenureOptionId": "3y",
+          "label": "3 Years",
+          "value": "3y"
+        },
+        {
+          "tenureOptionId": "5y",
+          "label": "5 Years",
+          "value": "5y"
+        }
+      ],
+      "selectedTenureYears": 5,
+      "interestRate": 8.0,
+      "maturityAmount": 365000,
+      "interestEarned": 15000,
+      "interestRateOptions": [
+        {
+          "interestRateOptionId": "rate-7.5",
+          "value": "7.50",
+          "label": "7.50%"
+        },
+        {
+          "interestRateOptionId": "rate-8.0",
+          "value": "8.00",
+          "label": "8.00%"
+        },
+        {
+          "interestRateOptionId": "rate-8.5",
+          "value": "8.50",
+          "label": "8.50%"
+        }
+      ],
+      "chevronIconUrl": null,
+      "bookRDButtonText": "Book RD"
+    },
+    "explore": {
+      "heading": "Explore FDs",
+      "filters": {
+        "selected": "all",
+        "options": [
+          {
+            "filterOptionId": "all",
+            "label": "All"
+          },
+          {
+            "filterOptionId": "banks",
+            "label": "Banks"
+          },
+          {
+            "filterOptionId": "nbfcs",
+            "label": "NBFCs"
+          },
+          {
+            "filterOptionId": "tax-saver",
+            "label": "Tax Saver"
+          }
+        ]
+      },
+      "filterInfoBanners": [
+        {
+          "filterInfoBannerId": "banner-nbfc",
+          "filterId": "nbfcs",
+          "variant": "warning",
+          "noteLabel": "NBFCs",
+          "description": "Non-Banking Financial Companies are regulated by RBI",
+          "iconSrc": null,
+          "iconAlt": ""
+        }
+      ],
+      "fdMasterTable": [
+        {
+          "fdMasterTableItemId": "suryoday",
+          "bankCode": "SMCBIN",
+          "bankName": "Suryoday SF Bank",
+          "logo": null,
+          "isBank": true,
+          "isNBFC": false,
+          "isTaxSaver": false,
+          "highlightBadge": {
+            "label": "High Returns",
+            "theme": "yellow"
+          },
+          "subBadge": null,
+          "features": ["Flexible tenure", "Digital account opening"],
+          "interestRate": {
+            "prefix": "up to",
+            "value": 8.05,
+            "unit": "p.a"
+          },
+          "cta": {
+            "label": "Book FD",
+            "action": "BOOK_FD"
+          }
+        },
+        {
+          "fdMasterTableItemId": "shivalik",
+          "bankCode": "SHIV001",
+          "bankName": "Shivalik SF Bank",
+          "logo": null,
+          "isBank": true,
+          "isNBFC": false,
+          "isTaxSaver": false,
+          "highlightBadge": {
+            "label": "Best Rate",
+            "theme": "green"
+          },
+          "subBadge": null,
+          "features": ["Highest interest rate", "Easy online process"],
+          "interestRate": {
+            "prefix": "up to",
+            "value": 8.75,
+            "unit": "p.a"
+          },
+          "cta": {
+            "label": "Book FD",
+            "action": "BOOK_FD"
+          }
+        }
+      ]
+    },
+    "highlights": {
+      "title": "Special highlights",
+      "showNavigation": true,
+      "items": [
+        {
+          "highlightItemId": "highlight-1",
+          "title": "Higher Interest Rates",
+          "description": "Get better returns compared to savings accounts",
+          "ctaText": "Learn More",
+          "badgeText": "Best Value",
+          "imageSrc": null,
+          "imageAlt": "Higher rates",
+          "patternImageSrc": null,
+          "background": "linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 213, 108, 0.2) 100%), #ffffff"
+        },
+        {
+          "highlightItemId": "highlight-2",
+          "title": "Flexible Tenure",
+          "description": "Choose tenure from 7 days to 10 years",
+          "ctaText": "View Options",
+          "badgeText": null,
+          "imageSrc": null,
+          "imageAlt": "Flexible tenure",
+          "patternImageSrc": null,
+          "background": "linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(227, 242, 253, 0.2) 100%), #ffffff"
+        },
+        {
+          "highlightItemId": "highlight-3",
+          "title": "Digital Process",
+          "description": "Open FD from home in simple steps",
+          "ctaText": "Get Started",
+          "badgeText": null,
+          "imageSrc": null,
+          "imageAlt": "Digital process",
+          "patternImageSrc": null,
+          "background": "linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(232, 245, 233, 0.2) 100%), #ffffff"
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why choose us?",
+      "headerIconPath": null,
+      "headerIconAlt": "Why choose us",
+      "isOpenByDefault": true,
+      "columns": 2,
+      "features": [
+        {
+          "featureId": "feature-1",
+          "iconPath": null,
+          "label": "Higher interest rate"
+        },
+        {
+          "featureId": "feature-2",
+          "iconPath": null,
+          "label": "Instant disbursal"
+        },
+        {
+          "featureId": "feature-3",
+          "iconPath": null,
+          "label": "100% Digital Journey"
+        },
+        {
+          "featureId": "feature-4",
+          "iconPath": null,
+          "label": "Secure & Trusted"
+        }
+      ]
+    },
+    "bookFD": {
+      "title": "Book an FD in 5 easy steps",
+      "highlightedText": "5 easy steps",
+      "rectangleLineIconSrc": null,
+      "steps": [
+        {
+          "stepId": "step-kyc",
+          "label": "Complete KYC",
+          "iconSrc": null,
+          "iconAlt": "KYC"
+        },
+        {
+          "stepId": "step-select",
+          "label": "Select Amount & Tenure",
+          "iconSrc": null,
+          "iconAlt": "Select"
+        },
+        {
+          "stepId": "step-bank",
+          "label": "Choose Bank & Plan",
+          "iconSrc": null,
+          "iconAlt": "Bank"
+        },
+        {
+          "stepId": "step-payment",
+          "label": "Complete Payment",
+          "iconSrc": null,
+          "iconAlt": "Payment"
+        },
+        {
+          "stepId": "step-confirm",
+          "label": "Confirmation",
+          "iconSrc": null,
+          "iconAlt": "Confirm"
+        }
+      ],
+      "requiredDocuments": [
+        {
+          "documentId": 1,
+          "label": "Aadhaar card"
+        },
+        {
+          "documentId": 2,
+          "label": "PAN card"
+        },
+        {
+          "documentId": 3,
+          "label": "Passport size photo"
+        }
+      ],
+      "checkmarkIconSrc": null,
+      "checkmarkIconAlt": "Document required"
+    },
+    "learnMore": {
+      "title": "Learn more about FDs",
+      "showPagination": true,
+      "items": [
+        {
+          "learnMoreItemId": "learn-1",
+          "title": "What is a Fixed Deposit?",
+          "thumbnailSrc": null,
+          "thumbnailAlt": "FD Basics",
+          "ctaLabel": "Watch",
+          "ctaTone": "warm",
+          "showPlayIcon": true,
+          "url": "https://example.com/what-is-fd"
+        },
+        {
+          "learnMoreItemId": "learn-2",
+          "title": "How to Choose the Best FD",
+          "thumbnailSrc": null,
+          "thumbnailAlt": "Choose FD",
+          "ctaLabel": "Watch",
+          "ctaTone": "warm",
+          "showPlayIcon": true,
+          "url": "https://example.com/choose-best-fd"
+        },
+        {
+          "learnMoreItemId": "learn-3",
+          "title": "Senior Citizen FD Benefits",
+          "thumbnailSrc": null,
+          "thumbnailAlt": "Senior FD",
+          "ctaLabel": "Read",
+          "ctaTone": "primary",
+          "showPlayIcon": false,
+          "url": "https://example.com/senior-citizen-fd"
+        }
+      ]
+    },
+    "faq": {
+      "items": [
+        {
+          "faqItemId": "faq-1",
+          "title": "What is the minimum FD amount?",
+          "icon": null,
+          "content": "The minimum FD amount is ₹1,000.",
+          "isExternal": false,
+          "externalUrl": null
+        },
+        {
+          "faqItemId": "faq-2",
+          "title": "What is the tenure options available?",
+          "icon": null,
+          "content": "FD tenure ranges from 7 days to 10 years.",
+          "isExternal": false,
+          "externalUrl": null
+        },
+        {
+          "faqItemId": "faq-3",
+          "title": "How is interest paid?",
+          "icon": null,
+          "content": "Interest can be paid monthly, quarterly, or on maturity.",
+          "isExternal": false,
+          "externalUrl": null
+        },
+        {
+          "faqItemId": "faqitem-1",
+          "title": "Can I withdraw my FD early?",
+          "icon": null,
+          "content": "Yes, you can withdraw your FD before maturity. However, a penalty may be charged as per the bank's terms.",
+          "isExternal": false,
+          "externalUrl": null
+        },
+        {
+          "faqItemId": "faqitem-2",
+          "title": "What happens on FD maturity?",
+          "icon": null,
+          "content": "On maturity, the principal amount along with accrued interest will be credited to your linked bank account.",
+          "isExternal": false,
+          "externalUrl": null
+        },
+        {
+          "faqItemId": "faqitem-3",
+          "title": "Are FD deposits insured?",
+          "icon": null,
+          "content": "Yes, FD deposits are insured up to ₹5 lakh per depositor per bank by DICGC.",
+          "isExternal": false,
+          "externalUrl": null
+        }
+      ],
+      "defaultExpandedIds": ["faqitem-1"]
+    },
+    "glFaq": {
+      "title": "Frequently Asked Questions",
+      "tabs": [
+        {
+          "faqTabId": "general",
+          "label": "General",
+          "defaultOpenIds": [],
+          "items": [
+            {
+              "glFaqItemId": "general-1",
+              "question": "What is a Fixed Deposit?",
+              "answer": "A Fixed Deposit (FD) is a financial instrument provided by banks and NBFCs that offers a higher rate of interest than a regular savings account."
+            },
+            {
+              "glFaqItemId": "general-2",
+              "question": "What is the minimum tenure for FD?",
+              "answer": "The minimum tenure for FD can be as low as 7 days, depending on the bank."
+            }
+          ]
+        },
+        {
+          "faqTabId": "rates",
+          "label": "Interest Rates",
+          "defaultOpenIds": [],
+          "items": [
+            {
+              "glFaqItemId": "rates-1",
+              "question": "What is the current FD interest rate?",
+              "answer": "FD interest rates vary from 4% to 9% depending on the bank and tenure."
+            }
+          ]
+        },
+        {
+          "faqTabId": "tax",
+          "label": "Tax & Savings",
+          "defaultOpenIds": [],
+          "items": [
+            {
+              "glFaqItemId": "tax-1",
+              "question": "Is FD interest taxable?",
+              "answer": "Yes, FD interest is taxable as per income tax rules. TDS is deducted if interest exceeds ₹40,000 per annum."
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "referenceDetails": {
+        "heading": "Powered by",
+        "name": "ABCD"
+      },
+      "features": [
+        {
+          "featureId": "footer-feature-1",
+          "text": "100% Digital Journey"
+        },
+        {
+          "featureId": "footer-feature-2",
+          "text": "Secure & Trusted"
+        },
+        {
+          "featureId": "footer-feature-3",
+          "text": "24/7 Support"
+        },
+        {
+          "featureId": "footer-feature-4",
+          "text": "Best Rates"
+        }
+      ],
+      "sideLogoDetails": {
+        "image": null,
+        "alt": "FD Footer"
+      },
+      "waveLineUrl": null
+    }
+  }
+}

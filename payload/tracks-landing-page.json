@@ -1,0 +1,541 @@
+{
+  "data": {
+    "subProduct": "credit",
+    "partner": "default",
+    "sectionsEnabled": {
+      "productHighlighters": true,
+      "smartFeatures": true,
+      "workTabs": true,
+      "creditFactors": true,
+      "benefits": true,
+      "comparison": true,
+      "creditScoreRanges": true,
+      "trustFeatures": true,
+      "securityFeatures": true,
+      "faq": true,
+      "footerFeatures": true
+    },
+    "sectionLabels": {
+      "featuresTitle": "Smart Features. Real Impact.",
+      "factorsTitle": "What Affects Your Credit Score",
+      "advantagesTitle": "Why You Should Have a Good Credit Score",
+      "benefitsTitle": "Benefits of Good Credit",
+      "rangesTitle": "Understanding Credit Score Ranges",
+      "trustTitle": "Built on Trust and Transparency",
+      "howItWorksTitle": "Factors that Impact Your Credit Score",
+      "howItWorksCtaText": "Get your free Credit Score"
+    },
+    "header": {
+      "logo": {
+        "desktop": {
+          "url": "/api/media/desktop-logo",
+          "width": 200,
+          "height": 50
+        },
+        "alt": "ABCD Credit Track"
+      },
+      "mobileHeaderLogo": null
+    },
+    "heroTitle": "Check Your Credit Score for Free in Seconds",
+    "heroDescription": "Stay on top of your credit health with easy tracking",
+    "heroDescriptionHighlight": "Credit Score",
+    "heroImage": null,
+    "heroImageAlt": "Credit Track Hero",
+    "showHeroSeparator": true,
+    "carouselAutoScroll": true,
+    "carouselInterval": 5000,
+    "carouselPauseOnHover": true,
+    "heroSlides": [
+      {
+        "title": "Check Your Credit Score for Free in Seconds",
+        "subtitle": "Get instant access to your credit score with competitive rates",
+        "background": null,
+        "order": 1
+      },
+      {
+        "title": "Track Your Credit Journey",
+        "subtitle": "Monitor changes and understand what impacts your score",
+        "background": null,
+        "order": 2
+      },
+      {
+        "title": "Improve Your Financial Health",
+        "subtitle": "Get personalized insights and tips to boost your credit score",
+        "background": null,
+        "order": 3
+      }
+    ],
+    "heroBackgroundColor": "#ffffff",
+    "heroBackgroundGradient": "linear-gradient(180deg, #ffffff 0%, #f5f5f5 100%)",
+    "heroPartnerLogos": [
+      {
+        "src": null,
+        "alt": "Partner Logo",
+        "order": 1
+      }
+    ],
+    "productHighlighters": {
+      "enabled": true,
+      "content": [
+        {
+          "text": "No Negative Impact on Score",
+          "showIcon": true,
+          "order": 1
+        },
+        {
+          "text": "Get Instant Credit Score",
+          "showIcon": true,
+          "order": 2
+        },
+        {
+          "text": "Safe & Secure",
+          "showIcon": false,
+          "order": 3
+        }
+      ]
+    },
+    "smartFeatures": {
+      "enabled": true,
+      "content": [
+        {
+          "variant": "standard",
+          "number": "1",
+          "title": "Track Your Score",
+          "description": "Monitor your credit score changes over time",
+          "ctaText": "Check Your Score Now",
+          "backgroundImage": null,
+          "order": 1
+        },
+        {
+          "variant": "standard",
+          "number": "2",
+          "title": "Get Alerts",
+          "description": "Receive notifications about significant changes",
+          "ctaText": "Learn More",
+          "backgroundImage": null,
+          "order": 2
+        },
+        {
+          "variant": "standard",
+          "number": "3",
+          "title": "Improve Tips",
+          "description": "Get personalized suggestions to improve your score",
+          "ctaText": "Get Tips",
+          "backgroundImage": null,
+          "order": 3
+        }
+      ],
+      "carouselConfig": {
+        "autoScroll": true,
+        "interval": 5000,
+        "pauseOnHover": true
+      }
+    },
+    "workTabs": {
+      "enabled": true,
+      "content": [
+        {
+          "label": "Payment History",
+          "steps": [
+            {
+              "number": 1,
+              "text": "Make your credit card and loan payments on time",
+              "order": 1
+            },
+            {
+              "number": 2,
+              "text": "Late payments can negatively impact your score",
+              "order": 2
+            }
+          ],
+          "image": null,
+          "ctaText": "Get your free Credit Score",
+          "isDefaultActive": true,
+          "order": 1
+        },
+        {
+          "label": "Credit Utilization",
+          "steps": [
+            {
+              "number": 1,
+              "text": "Keep your credit utilization below 30%",
+              "order": 1
+            },
+            {
+              "number": 2,
+              "text": "High utilization can lower your score",
+              "order": 2
+            }
+          ],
+          "image": null,
+          "ctaText": "Get your free Credit Score",
+          "isDefaultActive": false,
+          "order": 2
+        },
+        {
+          "label": "Credit Mix",
+          "steps": [
+            {
+              "number": 1,
+              "text": "Having a mix of credit types is beneficial",
+              "order": 1
+            },
+            {
+              "number": 2,
+              "text": "Include both secured and unsecured loans",
+              "order": 2
+            }
+          ],
+          "image": null,
+          "ctaText": "Get your free Credit Score",
+          "isDefaultActive": false,
+          "order": 3
+        }
+      ]
+    },
+    "creditFactors": {
+      "enabled": true,
+      "content": [
+        {
+          "title": "Payment History",
+          "description": "Your track record of paying bills on time",
+          "weight": "35%",
+          "order": 1
+        },
+        {
+          "title": "Credit Utilization",
+          "description": "The amount of credit used vs available",
+          "weight": "30%",
+          "order": 2
+        },
+        {
+          "title": "Length of Credit History",
+          "description": "How long you've had credit accounts",
+          "weight": "15%",
+          "order": 3
+        },
+        {
+          "title": "New Credit",
+          "description": "Recent applications for credit",
+          "weight": "10%",
+          "order": 4
+        },
+        {
+          "title": "Credit Mix",
+          "description": "Types of credit accounts you have",
+          "weight": "10%",
+          "order": 5
+        }
+      ]
+    },
+    "benefits": {
+      "enabled": true,
+      "content": [
+        {
+          "title": "Easy Loan Approvals",
+          "description": "A good credit score increases your chances of getting approved for loans",
+          "icon": null,
+          "order": 1
+        },
+        {
+          "title": "Lower Interest Rates",
+          "description": "Better scores often mean lower interest rates on credit products",
+          "icon": null,
+          "order": 2
+        },
+        {
+          "title": "Higher Credit Limits",
+          "description": "Lenders offer higher limits to those with good credit",
+          "icon": null,
+          "order": 3
+        },
+        {
+          "title": "Quick Approvals",
+          "description": "Get faster approval for financial products",
+          "icon": null,
+          "order": 4
+        }
+      ],
+      "phoneMockup": {
+        "imageUrl": null,
+        "alt": "ABCD Credit Score Meter"
+      }
+    },
+    "comparison": {
+      "title": "Understanding Credit Score Ranges",
+      "featureHeaderText": "Grade",
+      "columns": [
+        {
+          "title": "Excellent",
+          "borderColor": "#034c22",
+          "headerBackground": "#034c22",
+          "headerColor": "#ffffff",
+          "width": "150px",
+          "order": 1
+        },
+        {
+          "title": "Good",
+          "borderColor": "#2e7d32",
+          "headerBackground": "#2e7d32",
+          "headerColor": "#ffffff",
+          "width": "150px",
+          "order": 2
+        },
+        {
+          "title": "Fair",
+          "borderColor": "#f57c00",
+          "headerBackground": "#f57c00",
+          "headerColor": "#ffffff",
+          "width": "150px",
+          "order": 3
+        },
+        {
+          "title": "Poor",
+          "borderColor": "#d32f2f",
+          "headerBackground": "#d32f2f",
+          "headerColor": "#ffffff",
+          "width": "150px",
+          "order": 4
+        }
+      ],
+      "rows": [
+        {
+          "label": "Score Range",
+          "values": [
+            {
+              "text": "750-900",
+              "color": "#034c22",
+              "weight": "bold"
+            },
+            {
+              "text": "700-749",
+              "color": "#2e7d32",
+              "weight": "bold"
+            },
+            {
+              "text": "650-699",
+              "color": "#f57c00",
+              "weight": "bold"
+            },
+            {
+              "text": "300-649",
+              "color": "#d32f2f",
+              "weight": "bold"
+            }
+          ],
+          "order": 1
+        }
+      ],
+      "ctaText": "Check Your Free Score",
+      "disclaimerText": "Disclaimer: Above mentioned score ranges are provided by credit bureaus. While all credit bureaus have the same score range of 300-900, an individual will likely have different scores in each bureau."
+    },
+    "creditScoreRanges": {
+      "enabled": true,
+      "content": [
+        {
+          "grade": "Excellent",
+          "range": "750-900",
+          "color": "#034c22",
+          "description": "Best chances for approval with lowest interest rates",
+          "order": 1
+        },
+        {
+          "grade": "Good",
+          "range": "700-749",
+          "color": "#2e7d32",
+          "description": "Good chances for approval with competitive rates",
+          "order": 2
+        },
+        {
+          "grade": "Fair",
+          "range": "650-699",
+          "color": "#f57c00",
+          "description": "Moderate chances, may have higher rates",
+          "order": 3
+        },
+        {
+          "grade": "Poor",
+          "range": "300-649",
+          "color": "#d32f2f",
+          "description": "May need to work on improving score",
+          "order": 4
+        }
+      ]
+    },
+    "trustFeatures": {
+      "enabled": true,
+      "content": [
+        {
+          "title": "RBI Authorized",
+          "description": "Authorized by Reserve Bank of India",
+          "iconUrl": null,
+          "iconAlt": "RBI Authorized",
+          "order": 1
+        },
+        {
+          "title": "Secure & Private",
+          "description": "Your data is encrypted and secure",
+          "iconUrl": null,
+          "iconAlt": "Secure",
+          "order": 2
+        },
+        {
+          "title": "Free Daily Updates",
+          "description": "Check your score as often as you want",
+          "iconUrl": null,
+          "iconAlt": "Free Updates",
+          "order": 3
+        }
+      ]
+    },
+    "securityFeatures": {
+      "enabled": true,
+      "content": [
+        {
+          "title": "Bank-Level Security",
+          "description": "Your data is protected with industry-standard encryption",
+          "iconUrl": null,
+          "iconAlt": "Security Icon",
+          "order": 1
+        },
+        {
+          "title": "Privacy First",
+          "description": "We never share your personal information",
+          "iconUrl": null,
+          "iconAlt": "Privacy Icon",
+          "order": 2
+        }
+      ]
+    },
+    "securityDesktopBackground": null,
+    "securityMobileBackground": null,
+    "appSectionTitle": "Smarter Credit Tracking Starts in the ABCD App",
+    "appSectionSubtitle": "Download the app for real-time monitoring, personalised credit tips, and early alerts",
+    "appSectionDescription": "Experience the convenience of tracking your credit score on the go",
+    "appDownloadConfig": {
+      "appStoreUrl": "https://apps.apple.com/app/abcd-credit-track",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.abcd.credittrack",
+      "qrCodeUrl": null,
+      "phoneImageSrc": null,
+      "phoneImageAlt": "ABCD Credit Track app preview on phone",
+      "houseLogoSrc": null,
+      "houseLogoAlt": "ABCD Group Logo"
+    },
+    "faq": {
+      "enabled": true,
+      "content": [
+        {
+          "question": "What is a credit score?",
+          "answer": "A credit score is a three-digit number that represents your creditworthiness based on your credit history.",
+          "order": 1
+        },
+        {
+          "question": "How often should I check my credit score?",
+          "answer": "You can check your credit score as often as you like - checking your own score does not impact your credit rating.",
+          "order": 2
+        },
+        {
+          "question": "What is a good credit score?",
+          "answer": "A credit score of 700 or above is generally considered good. Scores above 750 are considered excellent.",
+          "order": 3
+        },
+        {
+          "question": "How can I improve my credit score?",
+          "answer": "Pay your bills on time, keep credit utilization low, and maintain a healthy mix of credit types.",
+          "order": 4
+        },
+        {
+          "question": "Does checking my credit score affect it?",
+          "answer": "No, checking your own credit score is considered a soft inquiry and does not impact your credit rating.",
+          "order": 5
+        }
+      ],
+      "defaultOpenIds": [],
+      "viewMoreButtonText": "View More FAQs",
+      "disclaimerText": "Disclaimer: Credit score checking does not impact your credit rating"
+    },
+    "footerFeatures": {
+      "enabled": true,
+      "content": [
+        {
+          "text": "Free Credit Score Check",
+          "icon": null
+        },
+        {
+          "text": "Real-time Monitoring",
+          "icon": null
+        },
+        {
+          "text": "Instant Alerts",
+          "icon": null
+        }
+      ]
+    },
+    "footerReferenceDetails": {
+      "heading": "Powered by",
+      "name": "ABCD Credit Services",
+      "logo": null,
+      "certification": "RBI Approved"
+    },
+    "footerSideLogoDetails": {
+      "image": null,
+      "alt": "ABCD Logo"
+    },
+    "footerWaveLineUrl": null,
+    "widgetConfig": {
+      "headerTitle": "Join 10L+ users tracking their Credit Score with ABCD",
+      "title": "Take the first step to better credit",
+      "fullNamePlaceholder": "Full Name",
+      "mobileInputPlaceholder": "Mobile Number",
+      "mobileHelperText": "OTP will be sent to verify your number",
+      "panPlaceholder": "PAN",
+      "panHelperText": "Increases the accuracy of your score",
+      "consentSeparatorText": " and ",
+      "viewReportTitle": "View report",
+      "viewReportMobileTitle": "View your credit report",
+      "continueButtonText": "Continue",
+      "newUserPromptText": "New to credit Track? ",
+      "newUserLinkText": "Get your credit score",
+      "consentConfig": {
+        "label": "I agree with",
+        "termsText": "Terms and Conditions",
+        "termsUrl": "/terms",
+        "privacyText": "Privacy Policy",
+        "privacyUrl": "/privacy"
+      },
+      "ctaConfig": {
+        "buttonText": "Get my Free Credit Score",
+        "secondaryLinkText": "Already tracked?",
+        "secondaryLinkHref": "/credit/customer"
+      },
+      "alreadyUserConfig": {
+        "text": "Already a Credit Track user?",
+        "linkText": "View Report",
+        "linkHref": "/credit/customer"
+      },
+      "securityFooterConfig": {
+        "text": "YOUR INFORMATION IS SECURE WITH US",
+        "partnerLogoUrl": "/icons/Experian-logo.svg",
+        "partnerLogoAlt": "Experian",
+        "partnerLogoHeight": 24
+      },
+      "otpConfig": {
+        "title": "OTP Verification",
+        "subtitle": "Enter the 6 digit code sent to ",
+        "imageAlt": "OTP Verification",
+        "errorMessage": "OTP incorrect. Please try again.",
+        "actionButtonText": "Verify"
+      }
+    },
+    "seoMeta": {
+      "enabled": false,
+      "content": {
+        "metaTitle": "Check Your Free Credit Score | ABCD Credit Track",
+        "metaDescription": "Check your free credit score instantly. Monitor your credit health, get alerts, and improve your score with ABCD Credit Track.",
+        "metaKeywords": "credit score, free credit score, credit check, credit monitoring",
+        "canonicalUrl": "https://abcd.com/credit-track",
+        "ogImage": null
+      }
+    }
+  }
+}

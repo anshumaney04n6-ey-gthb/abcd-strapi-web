@@ -1,0 +1,219 @@
+{
+  "data": {
+    "partner": "default",
+    "subProduct": "personal",
+    "header": {
+      "alt": "ABCD Logo",
+      "size": 40
+    },
+    "hero": {
+      "ctaText": "Apply Now",
+      "eligibilityCriteria": [
+        { "label": "Age:", "value": "21 to 65 years" },
+        { "label": "Income:", "value": "Min. ₹30,000/m" },
+        { "label": "Residency:", "value": "PAN India" }
+      ],
+      "highlighterContent": {
+        "pqOffer": {
+          "title": "Congratulations!",
+          "subtitleTemplate": "is Pre-approved, just for you by {lenderName}",
+          "ctaText": "Apply Now",
+          "autoRotateMs": 60000
+        }
+      }
+    },
+    "referralBanner": {
+      "isVisible": true,
+      "title": "Help friends start their gold journey",
+      "subtitle": "Refer friends & earn ₹250 in ABCD Coins.",
+      "termsText": "*T&C",
+      "assets": {}
+    },
+    "ratesAndCharges": {
+      "text": "Rates and charges",
+      "items": [
+        {
+          "ratesAndChargesId": "loan-amount",
+          "title": "Loan Amount",
+          "description": "Min. ₹25,000 and Max. 5 Lakhs"
+        },
+        {
+          "ratesAndChargesId": "repayment-tenure",
+          "title": "Repayment Tenure",
+          "description": "12 months to 36 months"
+        },
+        {
+          "ratesAndChargesId": "rate-of-interest",
+          "title": "Rate of Interest",
+          "description": "10.99% to 30% per annum"
+        },
+        {
+          "ratesAndChargesId": "processing-fees",
+          "title": "Processing Fees",
+          "description": "1.18% - 4.13% of Loan amount incl. GST."
+        }
+      ],
+      "cardBackground": "linear-gradient(90deg, rgba(255, 213, 108, 0.2) 0%, rgba(124, 34, 121, 0.05) 100%), linear-gradient(90deg, #fff 0%, #fff 100%)",
+      "cardBorder": "1px solid rgba(124, 34, 121, 0.2)"
+    },
+    "inlineInfoBanner": {
+      "isVisible": true,
+      "highlightedText": "Get a free credit score!",
+      "text": " Auto track your loans & credit card reports",
+      "iconAlt": "Info"
+    },
+    "getStarted": {
+      "headingPrefix": "Only ",
+      "headingHighlight": "3 steps",
+      "headingSuffix": ", and you get the money!",
+      "items": [
+        {
+          "title": "Provide Basic Details",
+          "description": "Choose your amount, pay online, and instantly own certified digital gold backed by real assets."
+        },
+        {
+          "title": "Choose & Apply Loan Offers",
+          "description": "Choose your amount, pay online, and instantly own certified digital gold backed by real assets."
+        },
+        {
+          "title": "Get instant Cash in Bank",
+          "description": "Choose your amount, pay online, and instantly own certified digital gold backed by real assets."
+        }
+      ],
+      "cardBackground": "linear-gradient(90deg, rgba(255, 213, 108, 0.2) 0%, rgba(124, 34, 121, 0.05) 100%), linear-gradient(90deg, #fff 0%, #fff 100%)",
+      "cardBorder": "1px solid rgba(124, 34, 121, 0.2)"
+    },
+    "calculator": {
+      "sectionTitle": "Financial tools & calculators",
+      "title": "EMI for your Personal Loan",
+      "description": "Calculate your potential EMI in seconds.",
+      "ctaText": "Calculate",
+      "ctaAriaLabel": "Calculate your EMI"
+    },
+    "plCalculatorSidebar": {
+      "ranges": {
+        "tenureMin": 12,
+        "tenureMax": 60,
+        "tenureDefault": 36,
+        "loanAmountMin": 50000,
+        "loanAmountMax": 1000000,
+        "loanAmountDefault": 800000,
+        "emiAmountMin": 1000,
+        "emiAmountMax": 25000,
+        "emiAmountDefault": 9500,
+        "roiMin": 10,
+        "roiMax": 30,
+        "roiDefault": 10.99
+      },
+      "labels": {
+        "headerTitle": "Personal Loan",
+        "emiCalculatorHeaderTitle": "Personal loan EMI calculator",
+        "loanAmountCalculatorHeaderTitle": "Personal loan amount calculator",
+        "helperBannerText": "Use this calculator to plan your instalments better",
+        "homeTitle": "Our Calculators",
+        "homeSubtitle": "Select a calculator you would like to proceed with",
+        "emiCalculatorOptionTitle": "EMI Calculator",
+        "loanAmountCalculatorOptionTitle": "Loan Amount Calculator",
+        "tenureLabel": "Tenure",
+        "tenureSuffix": "in months",
+        "loanAmountLabel": "Loan Amount",
+        "emiAmountLabel": "EMI Amount",
+        "roiLabel": "Rate of interest",
+        "roiSuffix": "%*",
+        "currencySymbol": "₹",
+        "totalPayableLabel": "Total payable amount",
+        "estimatedEmiLabel": "Your estimated EMI amount",
+        "estimatedLoanAmountLabel": "Your estimated loan amount",
+        "principalAmountLabel": "Principal Amount",
+        "interestAmountLabel": "Interest Amount",
+        "calculateButtonText": "Calculate",
+        "applyNowButtonText": "Apply Now",
+        "disclaimerText": "Disclaimer : The aforementioned values, calculations and results are for illustrative and informational purposes only, and may vary basis various parameters laid down by Aditya Birla Capital Limited.",
+        "tenureValidationMessage": "Loan tenure needs to be in the range of {min} to {max} months",
+        "loanAmountValidationMessage": "Loan amount needs to be in the range of {min} to {max}",
+        "emiAmountValidationMessage": "EMI amount needs to be in the range of {min} to {max}",
+        "roiValidationMessage": "ROI should be in the range of {min}-{max}%"
+      },
+      "icons": {}
+    },
+    "benefitBlock": {
+      "items": [
+        {
+          "text": "Get\nInstant Offer"
+        },
+        {
+          "text": "No Paperwork\nRequired"
+        },
+        {
+          "text": "Lowest\ninterest rate"
+        }
+      ],
+      "footerText": "1 Lakh+ people got a personal loan in just a few clicks"
+    },
+    "trustedPartners": {
+      "title": "Our Trusted Lending Partners",
+      "subtitle": "",
+      "columns": [
+        {
+          "trustedPartnersId": "partner-1",
+          "name": "ICICI Lombard"
+        },
+        {
+          "trustedPartnersId": "partner-2",
+          "name": "ACKO"
+        },
+        {
+          "trustedPartnersId": "partner-3",
+          "name": "Digit"
+        },
+        {
+          "trustedPartnersId": "partner-4",
+          "name": "Tata AIG"
+        },
+        {
+          "trustedPartnersId": "partner-5",
+          "name": "Bajaj Allianz General"
+        }
+      ]
+    },
+    "faq": {
+      "tabs": [
+        {
+          "label": "Why Digital Gold?",
+          "content": "Digital gold offers secure investment with instant buying and selling."
+        },
+        {
+          "label": "How Digital gold works?",
+          "content": "Start investing in gold digitally with just a few clicks."
+        },
+        {
+          "label": "Other questions?",
+          "content": "Find answers to all your questions about digital gold.",
+          "isExternal": true,
+          "externalUrl": "https://help.abcd.com/personal-loan"
+        }
+      ]
+    },
+    "footer": {
+      "referenceDetails": {
+        "heading": "Powered by",
+        "name": "Aditya Birla Capital Digital Ltd",
+        "certification": "Aditya Birla Capital Digital Ltd"
+      },
+      "sideLogoDetails": {
+        "alt": "Decorative footer waves"
+      },
+      "features": [
+        { "text": "Get Instant Offer" },
+        { "text": "No Paperwork" },
+        { "text": "Lowest interest rate" }
+      ]
+    },
+    "exclusiveEmployeeBanner": {
+      "imageAlt": "Exclusive Employee Offer"
+    },
+    "exclusiveBanner": {
+      "imageAlt": "Exclusive Offer"
+    }
+  }
+}

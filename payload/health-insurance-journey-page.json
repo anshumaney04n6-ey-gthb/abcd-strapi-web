@@ -1,0 +1,363 @@
+{
+  "data": {
+    "partner": "default",
+    "apply": {
+      "preQuote": {
+        "collectMembers": {
+          "whySeparatePlans": {
+            "title": "Why separate plans",
+            "highlightText": "This way, your parents and family get the coverage that suits their needs best.",
+            "switchContext": {
+              "titleForParents": "Why parents are better covered separately",
+              "titleForFamily": "Why family is better covered separately",
+              "primaryCtaForParents": "Get a parents plan",
+              "primaryCtaForFamily": "Get a family plan",
+              "secondaryCtaForParents": "Continue with family plan",
+              "secondaryCtaForFamily": "Continue with parents plan"
+            },
+            "items": [
+              {
+                "itemId": "premium-depends-on-eldest-member",
+                "title": "Premium depends on eldest member",
+                "description": "When parents are included, the overall premium may increase for the family.",
+                "icon": null
+              }
+            ]
+          }
+        },
+        "capturePincode": {
+          "disclaimerContent": "Aditya Birla Capital Digital Ltd (ABCDL) is a wholly owned subsidiary of Aditya Birla Capital Ltd. (ABCL). ABCD is a digital platform for financial services. Insurance is facilitated by ABCD and offered by the concerned insurer. For more details on risk factors, terms and conditions, please read the sales brochure and policy documents carefully before concluding a sale."
+        }
+      },
+      "selectQuotePlanDetails": {
+        "filterDropdowns": [
+          {
+            "filterId": "sum_insured",
+            "title": "Sum Insured",
+            "subtitle": "A higher sum insured offers stronger protection when you need it most",
+            "defaultValue": "1000000",
+            "options": [
+              { "label": "₹5 L", "value": "500000", "order": 1 },
+              { "label": "₹7 L", "value": "700000", "order": 2 },
+              { "label": "₹10 L", "value": "1000000", "badge": "Popular", "order": 3 },
+              { "label": "₹15 L", "value": "1500000", "order": 4 },
+              { "label": "₹20 L", "value": "2000000", "order": 5 },
+              { "label": "₹50 L", "value": "5000000", "order": 6 }
+            ]
+          },
+          {
+            "filterId": "plan_tenure",
+            "title": "Plan tenure",
+            "subtitle": "This helps us understand your current health insurance status",
+            "defaultValue": "1",
+            "options": [
+              { "label": "1 year", "value": "1", "order": 1 },
+              { "label": "2 years", "value": "2", "discount": "7.5%", "order": 2 },
+              { "label": "3 years", "value": "3", "discount": "10%", "order": 3 }
+            ]
+          }
+        ],
+        "hiPlansFilterOptions": [
+          {
+            "icon": "noCopayIcon",
+            "title": "No Co-pay",
+            "description": "No out-of-pocket share during claims",
+            "checked": false,
+            "order": 1
+          },
+          {
+            "icon": "noRoomRentIcon",
+            "title": "No room rent limit",
+            "description": "No cap on hospital room charges",
+            "checked": false,
+            "order": 2
+          },
+          {
+            "icon": "maternityIcon",
+            "title": "Maternity plans",
+            "description": "Includes maternity-related expenses",
+            "checked": false,
+            "order": 3
+          }
+        ],
+        "sortOptions": [
+          {
+            "sortId": "relevance-sort",
+            "label": "Relevance",
+            "sortBy": "relevance",
+            "sortByLabel": "Relevance",
+            "default": true,
+            "value": [
+              { "planId": "1", "order": 1 },
+              { "planId": "4", "order": 2 },
+              { "planId": "3", "order": 3 },
+              { "planId": "20", "order": 4 },
+              { "planId": "19", "order": 5 },
+              { "planId": "15", "order": 6 }
+            ]
+          },
+          {
+            "sortId": "premium-desc-sort",
+            "label": "Premium (Highest to Lowest)",
+            "sortBy": "premium",
+            "sortByLabel": "Premium",
+            "default": false,
+            "value": "desc"
+          },
+          {
+            "sortId": "premium-asc-sort",
+            "label": "Premium (Lowest to Highest)",
+            "sortBy": "premium",
+            "sortByLabel": "Premium",
+            "default": false,
+            "value": "asc"
+          }
+        ],
+        "promoBannerCards": [
+          {
+            "promoId": "offer-1",
+            "title": "Go Long. Get up to 19% OFF!",
+            "subtitle": "Select a 3-year plan and get an extra 10% discount.",
+            "iconSrc": null,
+            "iconAlt": "Discount offer",
+            "order": 1
+          },
+          {
+            "promoId": "offer-2",
+            "title": "Save more with annual premium payment",
+            "subtitle": "Pay once and get additional savings on your selected plan.",
+            "iconSrc": null,
+            "iconAlt": "Savings offer",
+            "order": 2
+          }
+        ],
+        "educationDrawer": {
+          "title": "Key Considerations for Choosing Your Health Plan",
+          "description": [
+            {
+              "type": "positive",
+              "title": "Good for you plan",
+              "points": [
+                "Zero or low co-payment",
+                "Low waiting period for pre-existing diseases",
+                "No limit on room rent or room types"
+              ],
+              "order": 1
+            },
+            {
+              "type": "negative",
+              "title": "Not good for your plan",
+              "points": [
+                "Low claim settlement % of insurer",
+                "High waiting period"
+              ],
+              "order": 2
+            }
+          ]
+        },
+        "disclaimer": {
+          "title": "Disclaimer",
+          "content": "Aditya Birla Capital Digital Ltd (ABCDL) is a Corporate Agent (IRDAI Reg No. CA0871) of Aditya Birla Health Insurance Co. Limited and does not underwrite the risk or act as an insurer. All health insurance products are underwritten by the Aditya Birla Health Insurance company and are subject to the terms and conditions of the relevant policy. For more details on risk factors, terms and conditions please read terms and conditions and prospectus carefully before concluding a sale. Aditya Birla Capital Digital Ltd (ABCDL) having its Registered office at Aditya Birla Capital Digital Limited, 18th Floor, One World Center, Tower 1, Jupiter Mills Compound, 841 Senapati Bapat Marg, Elphinstone Road, Mumbai 400013. ABCDL is a Corporate Agent of Aditya Birla Health Insurance Co. Ltd (IRDAI Reg No:153)",
+          "ctaLabel": "Got it"
+        },
+        "termsAndConditions": {
+          "label": "Terms and Conditions",
+          "content": ""
+        }
+      },
+      "addons": {
+        "addonsData": [
+          {
+            "addonId": "30",
+            "name": "Preferred Provider Network",
+            "type": "SINGLE_SELECT",
+            "order": 1,
+            "description": "Get access to preferred provider network benefits as defined in the policy terms.",
+            "icon": null,
+            "formValues": {
+              "memberSiValues": [],
+              "natureOfDutyValues": [],
+              "roomTypeValues": []
+            }
+          },
+          {
+            "addonId": "34",
+            "name": "Room Rent Type",
+            "type": "ROOM_RENT_SELECT",
+            "order": 2,
+            "description": "Choose the room type for in-patient hospitalization.",
+            "icon": null,
+            "formValues": {
+              "memberSiValues": [],
+              "natureOfDutyValues": [],
+              "roomTypeValues": ["Single", "Shared", "Any"]
+            }
+          },
+          {
+            "addonId": "23",
+            "name": "Tele OPD consultation",
+            "type": "SINGLE_SELECT",
+            "order": 3,
+            "description": "Offers cover for tele-consultation from medical practitioners within ABHI network.",
+            "icon": null,
+            "formValues": {
+              "memberSiValues": [],
+              "natureOfDutyValues": [],
+              "roomTypeValues": []
+            }
+          },
+          {
+            "addonId": "10",
+            "name": "Vaccine Cover",
+            "type": "SINGLE_SELECT",
+            "order": 4,
+            "description": "Covers expenses for selected preventive vaccines.",
+            "icon": null,
+            "formValues": {
+              "memberSiValues": [],
+              "natureOfDutyValues": [],
+              "roomTypeValues": []
+            }
+          },
+          {
+            "addonId": "12",
+            "name": "Critical Illness Cover",
+            "type": "MEMBER_SUM_INSURED",
+            "order": 5,
+            "description": "Get lump sum payout as defined in the policy document if diagnosed with a listed critical illness.",
+            "icon": null,
+            "formValues": {
+              "memberSiValues": ["INR 500000", "INR 1000000", "INR 1500000"],
+              "natureOfDutyValues": [],
+              "roomTypeValues": []
+            }
+          },
+          {
+            "addonId": "11",
+            "name": "Personal Accident Cover",
+            "type": "MEMBER_SUM_INSURED_DUTY",
+            "order": 6,
+            "description": "Get financial protection against accidental death, permanent total disablement and permanent partial disability.",
+            "icon": null,
+            "formValues": {
+              "memberSiValues": ["INR 500000", "INR 1000000", "INR 1500000"],
+              "natureOfDutyValues": [
+                "Accountant",
+                "Administrative Worker",
+                "Business Owner",
+                "Salaried",
+                "Self-employed"
+              ],
+              "roomTypeValues": []
+            }
+          },
+          {
+            "addonId": "24",
+            "name": "Durable Equipment Cover",
+            "type": "SINGLE_SELECT",
+            "order": 7,
+            "description": "Covers eligible durable medical equipment expenses as per policy terms.",
+            "icon": null,
+            "formValues": {
+              "memberSiValues": [],
+              "natureOfDutyValues": [],
+              "roomTypeValues": []
+            }
+          },
+          {
+            "addonId": "25",
+            "name": "Second Medical Opinion for listed Major Illness per person",
+            "type": "SINGLE_SELECT",
+            "order": 8,
+            "description": "Provides a second medical opinion for listed major illnesses.",
+            "icon": null,
+            "formValues": {
+              "memberSiValues": [],
+              "natureOfDutyValues": [],
+              "roomTypeValues": []
+            }
+          },
+          {
+            "addonId": "26",
+            "name": "Annual Screening Package for Cancer Diagnosed Patients",
+            "type": "SINGLE_SELECT",
+            "order": 9,
+            "description": "Adds an annual screening package for eligible cancer diagnosed patients.",
+            "icon": null,
+            "formValues": {
+              "memberSiValues": [],
+              "natureOfDutyValues": [],
+              "roomTypeValues": []
+            }
+          },
+          {
+            "addonId": "27",
+            "name": "Compassionate Visit",
+            "type": "SINGLE_SELECT",
+            "order": 10,
+            "description": "Covers eligible compassionate visit benefits as defined in the policy terms.",
+            "icon": null,
+            "formValues": {
+              "memberSiValues": [],
+              "natureOfDutyValues": [],
+              "roomTypeValues": []
+            }
+          },
+          {
+            "addonId": "28",
+            "name": "Cancer Booster",
+            "type": "SINGLE_SELECT",
+            "order": 11,
+            "description": "Adds extra protection for listed cancer-related benefits as per policy terms.",
+            "icon": null,
+            "formValues": {
+              "memberSiValues": [],
+              "natureOfDutyValues": [],
+              "roomTypeValues": []
+            }
+          },
+          {
+            "addonId": "29",
+            "name": "Per Claim Deductible",
+            "type": "SINGLE_SELECT",
+            "order": 12,
+            "description": "Applies the selected deductible at claim level as per policy terms.",
+            "icon": null,
+            "formValues": {
+              "memberSiValues": [],
+              "natureOfDutyValues": [],
+              "roomTypeValues": []
+            }
+          },
+          {
+            "addonId": "31",
+            "name": "Chronic Care",
+            "type": "SINGLE_SELECT",
+            "order": 13,
+            "description": "Get protection against listed chronic conditions from day one.",
+            "icon": null,
+            "formValues": {
+              "memberSiValues": [],
+              "natureOfDutyValues": [],
+              "roomTypeValues": []
+            }
+          },
+          {
+            "addonId": "32",
+            "name": "Chronic Management Program (OPD)",
+            "type": "MEMBER_SELECT",
+            "order": 14,
+            "description": "Adds OPD-based chronic condition management benefits for selected insured members.",
+            "icon": null,
+            "formValues": {
+              "memberSiValues": [],
+              "natureOfDutyValues": [],
+              "roomTypeValues": []
+            }
+          }
+        ],
+        "ChronicDataList": [31, 32]
+      }
+    }
+  }
+}

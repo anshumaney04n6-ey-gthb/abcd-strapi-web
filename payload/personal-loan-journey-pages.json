@@ -1,0 +1,313 @@
+{
+  "data": {
+    "partner": "default",
+    "breOfferScreen": {
+      "pageTitle": "Personal loans",
+      "continueCtaText": "Continue",
+      "loaderTitle": "Curating Loan Offer for you",
+      "loaderSubtitleTop": "",
+      "loaderSubtitleBottom": "",
+      "loaderIconAlt": "Loading",
+      "offerCardCongratsText": "Congratulations!",
+      "offerCardCongratsIconLeft": "🎉",
+      "offerCardCongratsIconRight": "🎉",
+      "offerCardDescription": "You are eligible for a personal loan offer",
+      "offerCardEmiLabelText": "Estimated EMI",
+      "infoBannerText": "Your offer is ready",
+      "disclaimerText": "Terms and conditions apply",
+      "footerInfoText": "For support, contact us",
+      "footerClockIconAlt": "Clock"
+    },
+    "panVerification": {
+      "title": "Personal loan",
+      "subtitle": null,
+      "introText": "Enter following details",
+      "ctaText": "Continue",
+      "secondaryLinkText": "Need help?",
+      "panLabel": "PAN",
+      "panPlaceholder": "Enter your PAN number",
+      "fullNameLabel": "Full Name",
+      "fullNamePlaceholder": "Enter your full name",
+      "termsShortText": "I agree to the",
+      "termsFullText": "I agree to the Terms & Conditions and Privacy Policy",
+      "termsAndConditionsLink": "https://www.adityabirlacapital.com/abc-digital/terms-conditions",
+      "privacyPolicyLink": "https://www.adityabirlacapital.com/abcd/privacy-policy",
+      "lendingPartnersLink": "https://www.adityabirlacapital.com/lending-partners",
+      "invalidPanError": "Invalid PAN number. Please enter a valid PAN.",
+      "invalidNameError": "Please enter a valid name",
+      "termsNotAcceptedError": "Please accept the terms and conditions",
+      "panNotFoundError": "PAN not found in our records",
+      "softRejectError": "We could not process your request at this time",
+      "technicalError": "A technical error occurred. Please try again later."
+    },
+    "basicDetails": {
+      "title": "Personal Loan Application",
+      "subtitle": null,
+      "stepLabel": "Step 1 of 4",
+      "stepNumber": "1",
+      "formTitle": "Tell us about yourself",
+      "formSubtitle": "Help us personalize your loan offer",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "Enter your email",
+      "dobLabel": "Date of Birth",
+      "dobPlaceholder": "DD/MM/YYYY",
+      "genderLabel": "Gender",
+      "employmentTitle": "Employment Details",
+      "monthlyIncomeLabel": "Monthly Income",
+      "monthlyIncomePlaceholder": "Enter your monthly income",
+      "incomeMin": 25000,
+      "incomeMax": 500000,
+      "addressTitle": "Address Details",
+      "pincodeLabel": "PIN Code",
+      "pincodePlaceholder": "Enter your PIN code",
+      "addressLine1Placeholder": "Street address",
+      "addressLine2Placeholder": "Apartment, suite, etc.",
+      "cityPlaceholder": "City",
+      "statePlaceholder": "State",
+      "ctaText": "Continue",
+      "invalidEmailError": "Please enter a valid email address",
+      "genderNotSelectedError": "Please select your gender",
+      "employmentNotSelectedError": "Please select your employment type",
+      "incomeMinError": "Monthly income must be at least 25000",
+      "incomeMaxError": "Monthly income cannot exceed 500000",
+      "invalidPincodeError": "Please enter a valid 6-digit PIN code",
+      "technicalError": "A technical error occurred. Please try again later.",
+      "addressFieldVisible": true
+    },
+    "loader": {
+      "title": "Please wait",
+      "subtitleLine1": "We are processing your request",
+      "subtitleLine2": "",
+      "waitPrefixText": "",
+      "waitHighlightSeconds": 45,
+      "waitSuffixText": ""
+    },
+    "lreMarketplaceScreen": {
+      "pageTitle": "Loan Offers",
+      "sectionTitle": "Choose Your Loan Offer",
+      "rankingText": "Ranked by best match",
+      "viewAllText": "View All",
+      "sidebarOfferLimit": 2,
+      "applyNowText": "Apply Now",
+      "viewKfsText": "View Key Facts Sheet",
+      "amountDisclaimerText": "Loan amount subject to eligibility",
+      "loanAmountLabel": "Loan Amount",
+      "monthlyEmiLabel": "Monthly EMI",
+      "tenureLabel": "Tenure",
+      "aprLabel": "APR",
+      "infoRowText": "Representative example",
+      "definitionsTitle": "Definitions",
+      "definitionsCloseTextMobile": "Close",
+      "definitionsCloseTextDesktop": "Close",
+      "ineligibleLendersTitle": "Ineligible Lenders",
+      "noOfferTitle": "No Offers Available",
+      "noOfferDescription": "We could not find any offers matching your profile",
+      "noOfferCloseText": "Try Again",
+      "viewMoreText": "View More",
+      "viewMoreLeftIconAlt": "Arrow Left",
+      "viewMoreRightIconAlt": "Arrow Right",
+      "definitions": [
+        {
+          "definitionId": "apr",
+          "label": "APR",
+          "highlightedTerm": "Annual Percentage Rate",
+          "description": "The annual rate charged for borrowing or earned through an investment"
+        },
+        {
+          "definitionId": "emi",
+          "label": "EMI",
+          "highlightedTerm": "Equated Monthly Installment",
+          "description": "A fixed payment amount made by a borrower to a lender at a specified date each calendar month"
+        }
+      ],
+      "lenderLogos": [
+        {
+          "lenderId": 1,
+          "Lendername": "HDFC Bank",
+          "alt": "HDFC Bank Logo"
+        },
+        {
+          "lenderId": 2,
+          "Lendername": "ICICI Bank",
+          "alt": "ICICI Bank Logo"
+        }
+      ],
+      "lenderLogosListView": [
+        {
+          "lenderId": 1,
+          "Lendername": "HDFC Bank",
+          "alt": "HDFC Bank Logo"
+        },
+        {
+          "lenderId": 2,
+          "Lendername": "ICICI Bank",
+          "alt": "ICICI Bank Logo"
+        }
+      ]
+    },
+    "permissionScreen": {
+      "pageTitle": "Permissions",
+      "title": "Allow permissions",
+      "subtitle": "We need these permissions to serve you better",
+      "ctaText": "Allow",
+      "poweredByText": "Powered by ABCD",
+      "redirectUrl": "",
+      "items": [
+        {
+          "permissionId": "location",
+          "title": "Location Access",
+          "description": "To find lenders near you",
+          "checked": false
+        },
+        {
+          "permissionId": "contacts",
+          "title": "Contacts Access",
+          "description": "For reference purposes",
+          "checked": false
+        }
+      ]
+    },
+    "cooldownScreen": {
+      "title": "Please wait before reapplying",
+      "cooldownIconAlt": "Cooldown",
+      "cooldownDays": 30,
+      "cooldownHeadline": "You can reapply in {days} days",
+      "cooldownMessage": "Please wait {days} days before submitting a new application",
+      "primaryCtaText": "Try Again Later",
+      "connectExecutiveText": "Talk to an Executive"
+    },
+    "softRejectScreen": {
+      "title": "We could not process your application",
+      "iconAlt": "Rejected",
+      "messageText": "We are unable to process your application at this time. Please check your details and try again.",
+      "supportingText": "For assistance, contact our customer support",
+      "primaryCtaText": "Try Again"
+    },
+    "reviewDetailsLoader": {
+      "title": "We are reviewing your details",
+      "subtitleLine1": "Please wait while we review",
+      "subtitleLine2": "your details",
+      "waitPrefixText": "This process may take upto",
+      "waitHighlightSeconds": 45,
+      "waitSuffixText": "to complete, please stay on the screen",
+      "safeVisualPath": null,
+      "waitIconPath": null,
+      "sheetVisualPath": null
+    },
+    "offerLoaderLRE": {
+      "title": "Fetching loan offers",
+      "subtitleLine1": "Please wait while we look for the best loan",
+      "subtitleLine2": "offers for you",
+      "waitPrefixText": "This process may take upto",
+      "waitHighlightSeconds": 45,
+      "waitSuffixText": "to complete, please stay on the screen",
+      "safeVisualPath": null,
+      "waitIconPath": null,
+      "sheetVisualPath": null
+    },
+    "redirectionLoader": {
+      "title": "Setting things up for your loan disbursal",
+      "subtitleLine1": "Confirm your details with our trusted lending partner,",
+      "subtitleLine2": "",
+      "waitPrefixText": "This process will take just",
+      "waitHighlightSeconds": 45,
+      "waitSuffixText": "seconds, please stay on this screen.",
+      "waitIconPath": null,
+      "leftLogoPath": null,
+      "leftLogoAlt": "ABCD",
+      "middleSlotPath": null,
+      "middleSlotAlt": "Redirecting",
+      "middleSlotRotationDeg": 90,
+      "highlights": [
+        {
+          "iconPath": null,
+          "iconAlt": "Instant offer",
+          "label": "Get\nInstant Offer"
+        },
+        {
+          "iconPath": null,
+          "iconAlt": "No paperwork",
+          "label": "No Paperwork\nRequired"
+        },
+        {
+          "iconPath": null,
+          "iconAlt": "Lowest interest rate",
+          "label": "Lowest\ninterest rate"
+        }
+      ]
+    },
+    "milestones": {
+      "title": "Complete your personal loan application",
+      "description": "Here's what to expect on your way to disbursal.",
+      "headerIconPath": null,
+      "headerIconAlt": "Personal loan",
+      "ctaText": "Got it",
+      "steps": [
+        {
+          "title": "Check your eligibility",
+          "description": "Share basic details so we can check loan options for you.",
+          "tag": {
+            "text": "About 3 mins",
+            "variant": "duration",
+            "iconPath": null
+          }
+        },
+        {
+          "title": "Build your application",
+          "description": "Add a few more details to complete your loan application.",
+          "tag": {
+            "text": "About 3 mins",
+            "variant": "duration",
+            "iconPath": null
+          }
+        },
+        {
+          "title": "Lender assessment",
+          "description": "Lenders review your profile to confirm the final offer.",
+          "tag": {
+            "text": "About 3 mins",
+            "variant": "duration",
+            "iconPath": null
+          }
+        },
+        {
+          "title": "Lender offer generated",
+          "description": "Pick the lender offer that works best for you.",
+          "tag": {
+            "text": "About 3 mins",
+            "variant": "duration",
+            "iconPath": null
+          }
+        },
+        {
+          "title": "Agreement and disbursal",
+          "description": "Sign the agreement and get the amount in your bank account.",
+          "tag": {
+            "text": "About 3 mins",
+            "variant": "duration",
+            "iconPath": null
+          }
+        }
+      ]
+    },
+    "incomeThankuScreen": {
+      "pageTitle": "Personal loan",
+      "illustrationSrc": null,
+      "illustrationAlt": "Monthly income",
+      "title": "Please enter your details",
+      "subtitle": "Updating your PAN number may lead to a revision of your current offer.",
+      "inputLabel": "Enter monthly income",
+      "inputPlaceholder": "Enter amount",
+      "ctaText": "Submit",
+      "thankuPrimaryCtaText": "Go to homepage",
+      "thankuSecondaryCtaText": "Continue with Digital journey",
+      "thankuPageTitle": "Personal loan",
+      "incomeMin": 10000,
+      "incomeMax": 100000,
+      "rangeErrorMessage": "Monthly income must be between {min} and {max}",
+      "thankuIconSrc": null,
+      "thankuIconAlt": "Submitted",
+      "thankuMessage": "Thank you our representative will call you shortly"
+    }
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "subProduct": "gold",
+    "partner": "default",
+    "header": {
+      "logo": {
+        "alt": "ABCD Logo",
+        "size": 40
+      },
+      "mobileHeaderLogo": null
+    },
+    "hero": {
+      "title": "Easy and Hassle-Free\nGold Loans",
+      "titleAuthenticated": "Easy and Hassle-Free Gold Loans",
+      "priceLabel": "starting at just",
+      "priceValue": "₹ 3,000 +",
+      "description": "Multiple Trusted Lenders, 24-Hour Disbursal, 13,000+ Pincodes servicability.",
+      "descriptionHighlight": "24-Hour",
+      "ctaText": "Apply Now",
+      "image": null,
+      "imageAuthenticated": null,
+      "partnerLogos": [
+        { "alt": "Muthoot Finance" },
+        { "alt": "Rupeek" },
+        { "alt": "IIFL Finance" }
+      ],
+      "partnerLogosAuthenticated": [
+        { "alt": "Muthoot Finance" },
+        { "alt": "Rupeek" },
+        { "alt": "IIFL Finance" }
+      ],
+      "productHighlighters": [
+        { "text": "Instant disbursal", "showIcon": true, "order": 1 },
+        { "text": "Affordable interest rates", "showIcon": true, "order": 2 },
+        { "text": "No credit check required", "showIcon": false, "order": 3 }
+      ],
+      "backgroundGradient": "linear-gradient(135deg, #FFF8E1 0%, #FFE082 100%)",
+      "showSeparator": true
+    },
+    "widget": {
+      "headerTitle": "Avail Gold Loan",
+      "headerBackgroundColor": "#7c2279",
+      "title": "Enter your details to get started",
+      "mobileInputPlaceholder": "Enter mobile number",
+      "helperText": "OTP will be sent to your mobile number",
+      "consentLabel": "I agree with",
+      "termsText": "Terms & Conditions",
+      "termsUrl": "https://www.adityabirlacapital.com/abc-digital/terms-conditions",
+      "privacyText": "Privacy Policy",
+      "privacyUrl": "https://www.adityabirlacapital.com/abcd/privacy-policy",
+      "buttonText": "Apply for Gold Loan",
+      "trustText": "Join 1L+ investors trusting ABCD for Gold Loans",
+      "loadingText": "Processing..."
+    },
+    "calculator": {
+      "title": "Gold Loan Calculator",
+      "subtitle": "Calculate your gold loan amount instantly",
+      "ctaText": "Apply Now",
+      "goldRateKarat": 24,
+      "interestRatePerMonth": 0.74,
+      "ltvRatio": 0.75,
+      "noteLabel": "Note:",
+      "noteText": "This is a tentative offer calculated on basis of LTV ratio of 75%. Final offer is subjective to lender's policy norms."
+    },
+    "smartFeatures": {
+      "title": "Smart Features. Real Impact.",
+      "autoScroll": true,
+      "autoScrollInterval": 5000,
+      "items": []
+    },
+    "process": {
+      "title": "Gold Loan Process",
+      "titleAuthenticated": "How Gold Loan Works?",
+      "imageSrc": null,
+      "decorativeImageSrc": null,
+      "eyebrowText": "Gold loan",
+      "subtitle": "in 5 easy steps",
+      "firstRowCount": 3,
+      "tabs": [
+        {
+          "label": "Apply Online",
+          "steps": [
+            { "processStepId": "apply1", "number": 1, "text": "Download the ABCD App and register yourself" },
+            { "processStepId": "apply2", "number": 2, "text": "Go to Gold Loan section and select your preferred lender" },
+            { "processStepId": "apply3", "number": 3, "text": "Enter gold details and get instant loan eligibility" },
+            { "processStepId": "apply4", "number": 4, "text": "Complete KYC and documentation online" }
+          ],
+          "image": null,
+          "ctaText": "Apply Now"
+        },
+        {
+          "label": "Gold Evaluation",
+          "steps": [
+            { "processStepId": "eval1", "number": 1, "text": "Schedule doorstep gold evaluation or visit nearest branch" },
+            { "processStepId": "eval2", "number": 2, "text": "Expert appraiser evaluates your gold for purity and weight" },
+            { "processStepId": "eval3", "number": 3, "text": "Get instant loan amount based on gold value" },
+            { "processStepId": "eval4", "number": 4, "text": "Accept the loan offer and proceed" }
+          ],
+          "image": null,
+          "ctaText": "Schedule Evaluation"
+        },
+        {
+          "label": "Get Disbursement",
+          "steps": [
+            { "processStepId": "disb1", "number": 1, "text": "Complete e-sign on loan documents" },
+            { "processStepId": "disb2", "number": 2, "text": "Gold is securely stored in insured vault" },
+            { "processStepId": "disb3", "number": 3, "text": "Loan amount credited to your bank account" },
+            { "processStepId": "disb4", "number": 4, "text": "Track your loan and repay easily via app" }
+          ],
+          "image": null,
+          "ctaText": "Get Loan"
+        },
+        {
+          "label": "Repay & Redeem",
+          "steps": [
+            { "processStepId": "repay1", "number": 1, "text": "Make flexible EMI payments or pay interest only" },
+            { "processStepId": "repay2", "number": 2, "text": "Prepay anytime without penalty" },
+            { "processStepId": "repay3", "number": 3, "text": "Complete repayment and request gold release" },
+            { "processStepId": "repay4", "number": 4, "text": "Collect your gold from branch or get doorstep delivery" }
+          ],
+          "image": null,
+          "ctaText": "Repay Now"
+        }
+      ],
+      "ctaText": "Apply Now"
+    },
+    "eligibility": {
+      "title": "Gold Loan Eligibility",
+      "items": [
+        {
+          "label": "Nationality",
+          "value": "Must be an Indian Citizen",
+          "alternateValueBackground": false
+        },
+        {
+          "label": "Age Limit",
+          "value": "18 years and above",
+          "alternateValueBackground": true
+        },
+        {
+          "label": "Type",
+          "value": "Gold jewellery",
+          "alternateValueBackground": false
+        },
+        {
+          "label": "Quality",
+          "value": "Min. 18 karat gold",
+          "alternateValueBackground": true
+        }
+      ]
+    },
+    "rates": {
+      "title": "Rates and Charges",
+      "items": [
+        { "rateId": "interest-rate", "title": "Interest Rate", "value": "Starts from 9% p.a.", "description": "Interest rates vary by lender", "badge": "" },
+        { "rateId": "processing-fee", "title": "Processing Fee", "value": "Up to 1% of loan amount", "description": "Processing fee varies", "badge": "" },
+        { "rateId": "tenure", "title": "Tenure", "value": "Up to 12 months", "description": "Loan tenure options", "badge": "" }
+      ]
+    },
+    "simpleSection": {
+      "heading": "",
+      "highlightWord": "",
+      "centerImageUrl": null,
+      "centerImageAlt": "",
+      "circleBackgroundUrl": "",
+      "backgroundColor": "#FFFFFF",
+      "benefits": []
+    },
+    "trustedPartners": {
+      "title": "Trusted Lending Partners",
+      "subtitle": "Quick approvals. Secure gold loans made simple.",
+      "columns": [
+        { "name": "IIFL Finance", "logoUrl": null, "highlighted": true },
+        { "name": "Muthoot Fincorp", "logoUrl": null, "highlighted": false },
+        { "name": "Rupeek", "logoUrl": null, "highlighted": false }
+      ],
+      "rows": [
+        { "label": "Minimum Loan Amount", "values": ["₹3,000 onwards", "₹3,000 onwards", "₹3,000 onwards"] },
+        { "label": "Minimum Gold Weight", "values": [">1g", ">2g", ">10g"] },
+        { "label": "Interest Rate (per month)", "values": ["Starting @0.99% p.m.", "Starting @ 0.97% p.m.", "Starting @ 0.79% p.m."] },
+        { "label": "Serviceability", "values": ["Across 8,000+ Pincodes", "Across 11,000+ Pincodes", "Across 1,300+ Pincodes"] },
+        { "label": "Key Highlights", "values": ["Transparent pricing; quick disbursal", "Low processing fee; wider lender network", "Part Release & Full Release of gold at your fingertips, Hassle Free Online Repayments"] }
+      ],
+      "ctaText": "Apply Now"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "tabs": [
+        {
+          "label": "General",
+          "defaultOpenIds": ["1"],
+          "items": [
+            { "question": "What is the minimum gold purity required?", "answer": "Most lenders accept gold with a minimum purity of 18 karats..." },
+            { "question": "How is the loan amount calculated?", "answer": "The loan amount is calculated based on the weight and purity..." },
+            { "question": "What documents are required for a gold loan?", "answer": "You need basic KYC documents: Aadhaar card, PAN card..." },
+            { "question": "How long does it take to get the loan disbursed?", "answer": "Gold loans are typically disbursed within 30 minutes to 24 hours..." },
+            { "question": "Is my gold safe with the lender?", "answer": "Yes, your gold is stored in highly secure, insured vaults..." },
+            { "question": "Can I prepay my gold loan?", "answer": "Yes, most gold loans can be prepaid partially or fully without penalty..." }
+          ]
+        },
+        {
+          "label": "Interest Rate",
+          "defaultOpenIds": [],
+          "items": [
+            { "question": "What is the interest rate for gold loans?", "answer": "Interest rates vary by lender, tenure, and profile..." },
+            { "question": "Can I choose different repayment plans?", "answer": "Yes, many lenders offer options such as monthly interest..." }
+          ]
+        },
+        {
+          "label": "Loan Amount",
+          "defaultOpenIds": [],
+          "items": [
+            { "question": "What is the maximum loan amount I can get?", "answer": "The final amount depends on your gold purity, weight..." },
+            { "question": "Is there a minimum loan amount?", "answer": "Yes, minimum loan amount varies by lender..." }
+          ]
+        },
+        {
+          "label": "Eligibility",
+          "defaultOpenIds": [],
+          "items": [
+            { "question": "What are the age and nationality criteria?", "answer": "Applicants must be Indian citizens and at least 18 years old." },
+            { "question": "What kind of gold is accepted?", "answer": "Most lenders accept gold jewellery with minimum 18 karats." }
+          ]
+        },
+        {
+          "label": "Repayment",
+          "defaultOpenIds": [],
+          "items": [
+            { "question": "Can I make part-prepayment on my gold loan?", "answer": "Yes, part-prepayment is allowed by most lenders..." },
+            { "question": "How do I close my loan and redeem my gold?", "answer": "Complete repayment through app/branch, then place redemption request..." }
+          ]
+        },
+        {
+          "label": "Documents",
+          "defaultOpenIds": [],
+          "items": [
+            { "question": "Which KYC documents are mandatory?", "answer": "Typically Aadhaar and PAN are mandatory..." },
+            { "question": "Do I need income proof for a gold loan?", "answer": "In most cases no, because gold loans are secured..." }
+          ]
+        },
+        {
+          "label": "Security",
+          "defaultOpenIds": [],
+          "items": [
+            { "question": "How is my pledged gold stored?", "answer": "Lenders store pledged gold in secured vaults..." },
+            { "question": "Is my gold insured during loan tenure?", "answer": "Yes, reputed lenders insure pledged gold..." }
+          ]
+        }
+      ],
+      "defaultOpenIds": ["1"],
+      "viewMoreButtonText": "View More",
+      "viewLessButtonText": "View Less",
+      "disclaimerLabel": "Disclaimer :",
+      "disclaimerText": "The answers provided here are for informative purposes..."
+    },
+    "securityFeatures": {
+      "title": "Discover the Benefits of Gold Loan on ABCD",
+      "items": [
+        { "title": "High Loan to Value (per gram rate)*", "description": "Gold loans are secured against your gold, ensuring a higher LTV ratio up-to 85%", "iconUrl": null },
+        { "title": "Flexible Repayment Options", "description": "During the initial repayment period, you can opt to pay only the interest on the loan, reducing your monthly expenses.", "iconUrl": null },
+        { "title": "Quick Processing", "description": "The loan application process is streamlined, requiring minimal documentation", "iconUrl": null },
+        { "title": "Multiple Trusted Lending Partners", "description": "Compare and choose from a range of gold loan offers in one place.", "iconUrl": null },
+        { "title": "No Credit History Required", "description": "Your gold is all the security you need.", "iconUrl": null }
+      ],
+      "desktopBackgroundUrl": null,
+      "mobileBackgroundUrl": null
+    },
+    "appPromo": {
+      "appLabel": "The ABCD app",
+      "title": "Everything Finance\nas simple as\nABCD",
+      "mobileTitle": "Everything Finance as simple as ABCD",
+      "subtitle": "Download the ABCD app and start doing more with your money everyday",
+      "mobileSubtitle": "Download the ABCD app today",
+      "fromLabel": "From the house of",
+      "houseLogoAlt": "ABCD Logo",
+      "qrAlt": "QR Code to download ABCD app",
+      "phoneImageAlt": "ABCD app showing personal loans",
+      "ctaButtons": [
+        { "label": "App Store", "link": "https://apps.apple.com/", "iconSrc": null, "iconAlt": "Apple App Store" },
+        { "label": "Google Play", "link": "https://play.google.com/store", "iconSrc": null, "iconAlt": "Google Play Store" }
+      ],
+      "ctaVisibility": "all",
+      "companyInfoLayout": "column"
+    },
+    "footer": {
+      "referenceHeading": "Powered by",
+      "referenceName": "ABCD",
+      "referenceLogo": null,
+      "referenceCertification": "",
+      "sideImage": null,
+      "sideImageAlt": "Gold bars",
+      "features": [
+        { "text": "Get Instant Offer" },
+        { "text": "No Paperwork" },
+        { "text": "Lowest interest rate" },
+        { "text": "Gold Stored in Insured Vaults" }
+      ]
+    },
+    "mobileNavigation": {
+      "tabs": [],
+      "footerBannerText": "Download the app",
+      "appStoreButton": {
+        "icon": "apple",
+        "label": "App Store",
+        "url": "https://apps.apple.com"
+      },
+      "playStoreButton": {
+        "icon": "google",
+        "label": "Google Play",
+        "url": "https://play.google.com"
+      }
+    },
+    "sectionLabels": {
+      "eligibilityTitle": "Gold Loan Eligibility",
+      "trustedPartnersTitle": "Trusted Lending Partners",
+      "trustedPartnersSubtitle": "Quick approvals. Secure gold loans made simple.",
+      "benefitsTitle": "Benefits of Gold Loan"
+    },
+    "seoMeta": {
+      "enabled": false,
+      "content": {
+        "metaTitle": "Gold Loan - Apply for Instant Gold Loan Online | ABCD",
+        "metaDescription": "Get instant gold loan up to ₹50 Lakhs. 24-hour disbursal, lowest interest rates. Apply now for secure gold loan against your jewellery.",
+        "metaKeywords": "gold loan, gold loan online, loan against gold, instant gold loan",
+        "canonicalUrl": "https://abcd.com/gold-loan",
+        "ogImage": null
+      }
+    }
+  }
+}

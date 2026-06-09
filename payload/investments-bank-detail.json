@@ -1,0 +1,87 @@
+{
+  "data": {
+    "fsiCode": "CANAR",
+    "bankCode": "CANAR",
+    "bankName": "Canara Bank",
+    "bankLogo": null,
+    "bankLogoUrl": "https://cdn.example.com/logos/canara-bank.svg",
+    "interestRate": "7.50",
+    "interestRateUnit": "%",
+    "interestLabel": "Interest now",
+    "fdDeepLink": "https://adityabirlaapp.blostem.com/purchase/80f5547d-9238-4006-8e67-4dee91f64642",
+    "rdDeepLink": "https://adityabirlaapp.blostem.com/purchase/80f5547d-9238-4006-8e67-4dee91f64642",
+    "providerAlias": ["Shivalik", "Shivalik SF Bank"],
+    "actionSheetProps": {
+      "enableRdAction": true,
+      "enableFdAction": true,
+      "openRdLabel": "Open RD",
+      "openFdLabel": "Open FD",
+      "discoveryLabel": "How did you learn about us?"
+    },
+    "featureListProps": {
+      "heading": "Why choose this bank?",
+      "items": [
+        {
+          "iconSrc": "https://cdn.example.com/icons/secure.svg",
+          "iconAlt": "Secure",
+          "title": "Safe and regulated",
+          "description": "RBI regulated partner"
+        },
+        {
+          "iconSrc": "https://cdn.example.com/icons/instant.svg",
+          "iconAlt": "Instant",
+          "title": "Instant account opening",
+          "description": "Complete KYC in minutes"
+        },
+        {
+          "iconSrc": "https://cdn.example.com/icons/support.svg",
+          "iconAlt": "Support",
+          "title": "24/7 customer support",
+          "description": "Dedicated relationship manager"
+        },
+        {
+          "iconSrc": "https://cdn.example.com/icons/returns.svg",
+          "iconAlt": "Returns",
+          "title": "Competitive interest rates",
+          "description": "Higher returns on your investment"
+        }
+      ]
+    },
+    "infoItems": [
+      {
+        "label": "Minimum deposit",
+        "value": "₹1,000",
+        "description": "Start your FD with just ₹1,000",
+        "showChevron": false
+      },
+      {
+        "label": "Maximum deposit",
+        "value": "₹2 Crore",
+        "description": "Per depositor per bank",
+        "showChevron": false
+      },
+      {
+        "label": "Interest payout",
+        "value": "Monthly/Quarterly/Annually",
+        "description": "Choose your payout frequency",
+        "showChevron": false
+      },
+      {
+        "label": "Loan against FD",
+        "value": "Available",
+        "description": "Up to 90% of FD value",
+        "showChevron": true
+      }
+    ],
+    "highlightCardProps": {
+      "headerLabel": "Earn Guaranteed Returns",
+      "productName": "FD SIP",
+      "description": "Monthly FD for stable growth",
+      "startingAmount": "Starting from ₹1000",
+      "securityBadge": "100% secured",
+      "backgroundColor": "#fff4ce",
+      "imageUrl": "https://cdn.example.com/images/fd-sip.png",
+      "imageAlt": "FD SIP product"
+    }
+  }
+}

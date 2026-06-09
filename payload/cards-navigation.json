@@ -1,0 +1,198 @@
+{
+    "data": {
+        "name": "default-cards-navigation",
+        "partner": "Vodafone",
+        "headerLogoPath": "/assets/cards/header-logo.png",
+        "mobileHeaderLogoPath": "/assets/cards/mobile-header-logo.png",
+        "navTabs": [
+            {
+                "order": 1,
+                "label": "Home",
+                "menuItemsEnabled": true,
+                "menuItems": [
+                    {
+                        "order": 1,
+                        "title": "Dashboard",
+                        "description": "View your cards dashboard",
+                        "icon": null,
+                        "navigateToUrl": "/cards/dashboard",
+                        "enabled": true
+                    },
+                    {
+                        "order": 2,
+                        "title": "My Cards",
+                        "description": "View all your cards",
+                        "icon": null,
+                        "navigateToUrl": "/cards/my-cards",
+                        "enabled": true
+                    },
+                    {
+                        "order": 3,
+                        "title": "Transactions",
+                        "description": "View transaction history",
+                        "icon": null,
+                        "navigateToUrl": "/cards/transactions",
+                        "enabled": true
+                    },
+                    {
+                        "order": 4,
+                        "title": "Statements",
+                        "description": "Download account statements",
+                        "icon": null,
+                        "navigateToUrl": "/cards/statements",
+                        "enabled": true
+                    }
+                ],
+                "promoBannersEnabled": true,
+                "promoBanners": [
+                    {
+                        "order": 1,
+                        "title": "Get 5% Cashback",
+                        "preTitle": "New",
+                        "preTitleColor": "#FFFFFF",
+                        "backgroundColor": "#FF6B35",
+                        "ctaText": "Apply Now",
+                        "ctaUrl": "/cards/apply",
+                        "image": null,
+                        "imageAlt": "Cashback offer",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "order": 2,
+                "label": "Products",
+                "menuItemsEnabled": true,
+                "menuItems": [
+                    {
+                        "order": 1,
+                        "title": "Credit Cards",
+                        "description": "Explore our credit card range",
+                        "icon": null,
+                        "navigateToUrl": "/cards/credit-cards",
+                        "enabled": true
+                    },
+                    {
+                        "order": 2,
+                        "title": "Debit Cards",
+                        "description": "Choose your debit card",
+                        "icon": null,
+                        "navigateToUrl": "/cards/debit-cards",
+                        "enabled": true
+                    },
+                    {
+                        "order": 3,
+                        "title": "Add-on Cards",
+                        "description": "Get additional cards for family",
+                        "icon": null,
+                        "navigateToUrl": "/cards/addon-cards",
+                        "enabled": true
+                    }
+                ],
+                "promoBannersEnabled": true,
+                "promoBanners": [
+                    {
+                        "order": 1,
+                        "title": "Premium Cards",
+                        "preTitle": "Exclusive",
+                        "preTitleColor": "#FFD700",
+                        "backgroundColor": "#1A1A2E",
+                        "ctaText": "Learn More",
+                        "ctaUrl": "/cards/premium",
+                        "image": null,
+                        "imageAlt": "Premium cards",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "order": 3,
+                "label": "Rewards",
+                "menuItemsEnabled": true,
+                "menuItems": [
+                    {
+                        "order": 1,
+                        "title": "Points",
+                        "description": "Redeem your reward points",
+                        "icon": null,
+                        "navigateToUrl": "/cards/rewards/points",
+                        "enabled": true
+                    },
+                    {
+                        "order": 2,
+                        "title": "Cashback",
+                        "description": "View cashback offers",
+                        "icon": null,
+                        "navigateToUrl": "/cards/rewards/cashback",
+                        "enabled": true
+                    },
+                    {
+                        "order": 3,
+                        "title": "Offers",
+                        "description": "Explore latest deals",
+                        "icon": null,
+                        "navigateToUrl": "/cards/rewards/offers",
+                        "enabled": true
+                    }
+                ],
+                "promoBannersEnabled": true,
+                "promoBanners": [
+                    {
+                        "order": 1,
+                        "title": "2X Points Weekend",
+                        "preTitle": "Limited",
+                        "preTitleColor": "#FFFFFF",
+                        "backgroundColor": "#4CAF50",
+                        "ctaText": "Shop Now",
+                        "ctaUrl": "/cards/rewards/weekend",
+                        "image": null,
+                        "imageAlt": "2X Points",
+                        "enabled": true
+                    }
+                ]
+            },
+            {
+                "order": 4,
+                "label": "Support",
+                "menuItemsEnabled": true,
+                "menuItems": [
+                    {
+                        "order": 1,
+                        "title": "FAQ",
+                        "description": "Frequently asked questions",
+                        "icon": null,
+                        "navigateToUrl": "/cards/support/faq",
+                        "enabled": true
+                    },
+                    {
+                        "order": 2,
+                        "title": "Contact Us",
+                        "description": "Get in touch with us",
+                        "icon": null,
+                        "navigateToUrl": "/cards/support/contact",
+                        "enabled": true
+                    },
+                    {
+                        "order": 3,
+                        "title": "Card Services",
+                        "description": "Block, replacement & more",
+                        "icon": null,
+                        "navigateToUrl": "/cards/support/services",
+                        "enabled": true
+                    }
+                ],
+                "promoBannersEnabled": false,
+                "promoBanners": []
+            }
+        ],
+        "mobileFooterBanner": {
+            "text": "Download our app",
+            "appStoreIconPath": "/assets/cards/appstore.png",
+            "appStoreLabel": "Download on App Store",
+            "appStoreUrl": "https://apps.apple.com",
+            "playStoreIconPath": "/assets/cards/playstore.png",
+            "playStoreLabel": "Get it on Play Store",
+            "playStoreUrl": "https://play.google.com"
+        }
+    }
+}

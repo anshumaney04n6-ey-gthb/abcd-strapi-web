@@ -1,0 +1,319 @@
+{
+  "data": {
+    "partner": "default",
+    "header": {
+      "logo": {
+        "alt": "ABCD Logo",
+        "size": "default"
+      },
+      "mobileHeaderLogo": {
+        "alt": "ABCD Logo",
+        "size": "default"
+      }
+    },
+    "promoBannerHealth": {
+      "imageAlt": "Health insurance shield",
+      "title": "Introducing ActivOne MAX Economy!",
+      "subtitle": "Check out the latest App Exclusive plan and other health plans.",
+      "subtitleColor": "#FFFFFF",
+      "ctaLabel": "Insure now",
+      "background": "linear-gradient(90deg, #7C2279 14.822%, #FCCA67 72.785%)"
+    },
+    "newsItems": {
+      "badge": {
+        "text": "NEWS",
+        "backgroundColor": "#9F1B22",
+        "textColor": "#FFFFFF",
+        "ariaLabel": "Health insurance announcements"
+      },
+      "enabled": true,
+      "content": [
+        {
+          "text": "Check out the latest App Exclusive plan and other health plans.",
+          "order": 1
+        }
+      ],
+      "backgroundColor": "#F9FAFB",
+      "textColor": "#414042",
+      "ariaLabel": "Health insurance announcements"
+    },
+    "heroSlides": {
+      "slides": [
+        {
+          "title": "Get Affordable Health Insurance for Every Family's Needs",
+          "subtitle": "Protect your health, safeguard your savings, and enjoy complete peace of mind. Health insurance plans starting at around \u20B9450/month.",
+          "order": 1
+        }
+      ],
+      "productHighlighters": [
+        {
+          "text": "2.5 Crore+ lives insured",
+          "showIcon": true,
+          "order": 1
+        },
+        {
+          "text": "11000+ cashless hospitals",
+          "showIcon": true,
+          "order": 2
+        },
+        {
+          "text": "21 Lakh* Claim settled",
+          "showIcon": true,
+          "order": 3
+        }
+      ]
+    },
+    "widget": {
+      "headerTitle": "<strong>Health insurance</strong> made <strong>simple, fast &amp; transparent</strong>",
+      "title": "Take the first step to better health",
+      "maxResendAttempts": 3,
+      "maxResendMessage": "Maximum resend attempts reached. Please try again later.",
+      "insuranceOptions": [
+        {
+          "optionId": "buy-new-health-plan",
+          "label": "Buy a new health plan",
+          "value": "Buy a new health plan"
+        }
+      ],
+      "consentConfig": {
+        "label": "I agree with",
+        "termsText": "Terms and Conditions",
+        "termsUrl": "/terms",
+        "privacyText": "Privacy Policy",
+        "privacyUrl": "/privacy"
+      },
+      "ctaConfig": {
+        "buttonText": "Get Insured Now",
+        "otpButtonText": "Verify OTP",
+        "trustText": "Join families trusting ABCD for health coverage."
+      }
+    },
+    "smartFeaturesTitle": "Smart Features. Real Impact.",
+    "smartFeaturesHealth": {
+      "items": [
+        {
+          "number": "01",
+          "title": "Upto 100% HealthReturns",
+          "description": "Get 100% premium back as HealthReturns for healthcare spends. Use it for medicines, tests, consults & wellness.",
+          "ctaText": "Insure now",
+          "backgroundColor": "#f9fafb",
+          "order": 1
+        }
+      ]
+    },
+    "howHealthWorksTitle": "Key Benefits You Get",
+    "howHealthWorksTabs": [
+      {
+        "tabsId": "cashless-treatment-across-india",
+        "label": "Cashless Treatment Across India",
+        "steps": [
+          {
+            "number": 1,
+            "text": "Get treatment without paying upfront with access to network hospitals."
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "whyDoYouNeedProps": {
+      "headingPrefix": "Why Do You Need Health",
+      "headingHighlight": "Insurance?",
+      "introText": "Protect your health, safeguard your savings, and enjoy complete peace of mind.",
+      "detailText": "In today's world of rising medical costs and lifestyle-related conditions, even a routine procedure can strain your finances.",
+      "benefits": [
+        {
+          "text": "Protects your savings from unexpected medical expenses"
+        }
+      ],
+      "heroImageAlt": "Health insurance illustration",
+      "bulletIconAlt": "Benefit bullet"
+    },
+    "howToChooseProps": {
+      "heading": "How to Choose the Right Plan? ",
+      "subheading": "Picking the right plan is necessary to protect your lifestyle and needs.",
+      "note": null,
+      "items": [
+        {
+          "title": "Coverage needs",
+          "description": "Is it for yourself, family, or senior parents?",
+          "iconAlt": "Coverage needs icon"
+        },
+        {
+          "title": "Sum insured",
+          "description": "Ensure adequate coverage considering growing medical costs.",
+          "iconAlt": "Sum insured icon"
+        },
+        {
+          "title": "Affordable Premium",
+          "description": "Is it for yourself, family, or senior parents?",
+          "iconAlt": "Sum insured icon"
+        },
+        {
+          "title": "Wide Network Hosp range",
+          "description": "Is it for yourself, family, or senior parents?",
+          "iconAlt": "Sum insured icon"
+        },
+        {
+          "title": "Cashless Treatment",
+          "description": "Is it for yourself, family, or senior parents?",
+          "iconAlt": "Sum insured icon"
+        }
+      ]
+    },
+    "healthCriticalProps": {
+      "title": "Why Buy Online?",
+      "subtitle": "Buying health insurance online is secure, quick, and convenient.",
+      "leftSectionIconAlt": "Why buy online illustration",
+      "leftSectionTitle": "Why Buy Online? ",
+      "leftSectionDescription": "Purchasing health insurance online is not only secure, quick, and convenient, but it also offers a wide range of options tailored to your needs. You can easily compare different plans.",
+      "statistics": [
+        {
+          "value": "Real-time premium quotes ",
+          "description": "Get instant premium estimates based on your age, location, and coverage preferences, helping you make quick and informed decisions.",
+          "iconAlt": "Real-time premium quotes icon",
+          "order": 1
+        },
+        {
+          "value": "Easy comparison",
+          "description": "Get instant premium estimates based on your age, location, and coverage preferences, helping you make quick and informed decisions.",
+          "iconAlt": "Real-time premium quotes icon",
+          "order": 2
+        },
+        {
+          "value": "Instant Payment",
+          "description": "Get instant premium estimates based on your age, location, and coverage preferences, helping you make quick and informed decisions.",
+          "iconAlt": "Real-time premium quotes icon",
+          "order": 3
+        },
+        {
+          "value": "24*7 Service",
+          "description": "Get instant premium estimates based on your age, location, and coverage preferences, helping you make quick and informed decisions.",
+          "iconAlt": "Real-time premium quotes icon",
+          "order": 4
+        }
+      ]
+    },
+    "howHealthWorkAddOnsTitle": "Enhance Your Protection with Add-Ons",
+    "howHealthWorkAddOnsTabs": [
+      {
+        "tabsId": "opd-coverage",
+        "label": "OPD Coverage",
+        "steps": [
+          {
+            "number": 1,
+            "text": "Covers outpatient expenses such as consultations, diagnostics, and medicines."
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "whatAffectYourProps": {
+      "title": "What Affects Your Premium?",
+      "subtitle": "Buying health insurance online is secure, quick, and convenient.",
+      "items": [
+        {
+          "title": "Age and medical history",
+          "description": "Age and pre-existing health risks influence premium pricing.",
+          "iconAlt": "Age and medical history icon"
+        }
+      ]
+    },
+    "planCoverHeading": "What Our Plans Cover",
+    "planCoverSubheading": "Different types of Health Insurance plans have different features and benefits. Have a look at their comparative analysis.",
+    "planCoverComparisonColumns": [
+      {
+        "title": "Description",
+        "isHighlighted": true,
+        "headerBackground": "#FFD56C",
+        "borderColor": "#FFD56C"
+      }
+    ],
+    "planCoverComparisonRows": [
+      {
+        "label": "Eligibility",
+        "values": [
+          {
+            "text": "Indian residents aged 18-65 years; children aged 91 days+ can be covered with an adult.",
+            "color": "#2e2e2e",
+            "weight": "regular"
+          }
+        ]
+      }
+    ],
+    "howItsWorkStepsProps": {
+      "eyebrow": "Insurance, simplified",
+      "title": "How It Works - 3 Simple Steps",
+      "steps": [
+        {
+          "title": "Get Quote",
+          "description": "Enter ages and coverage details to receive instant premium options.",
+          "iconAlt": "Get quote icon",
+          "order": 1
+        }
+      ]
+    },
+    "claimProcessProps": {
+      "title": "Claim Process",
+      "subtitle": "Medical emergencies are hard, claims should not be.",
+      "items": [
+        {
+          "title": "Cashless Claim",
+          "description": "Visit a network hospital and complete pre-authorization.",
+          "imageAlt": "Cashless claim illustration",
+          "imageBackground": "#FFF0E9",
+          "overlayIconAlt": "Claim approved icon",
+          "order": 1
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "defaultOpenIds": ["1"],
+      "items": [
+        {
+          "itemsId": "1",
+          "question": "What is health insurance and why is it important?",
+          "answer": "Health insurance helps cover medical expenses and reduces financial burden.",
+          "order": 1
+        }
+      ]
+    },
+    "footer": {
+      "referenceDetails": {
+        "heading": "Powered by"
+      },
+      "sideLogoDetails": {
+        "alt": "Health icon"
+      },
+      "features": [
+        {
+          "featuresId": "1",
+          "text": "2.5 Crore+ lives insured"
+        }
+      ]
+    },
+    "sectionsEnabled": {
+      "newsItems": true,
+      "promoBannerHealth": true,
+      "heroSlides": true,
+      "widget": true,
+      "smartFeaturesTitle": true,
+      "smartFeaturesHealth": true,
+      "howHealthWorksTitle": true,
+      "howHealthWorksTabs": true,
+      "whyDoYouNeed": true,
+      "howToChoose": true,
+      "healthCritical": true,
+      "howHealthWorkAddOnsTitle": true,
+      "howHealthWorkAddOnsTabs": true,
+      "whatAffectYour": true,
+      "planCoverHeading": true,
+      "planCoverSubheading": true,
+      "planCoverComparison": true,
+      "howItsWorkSteps": true,
+      "claimProcess": true,
+      "faq": true,
+      "footer": true
+    }
+  }
+}
