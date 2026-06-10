@@ -1,0 +1,106 @@
+{
+  "collection": "personal-loan-dashboard-page",
+  "schema": {
+    "kind": "collectionType",
+    "collectionName": "personal-loan-dashboard-pages",
+    "info": {
+      "singularName": "personal-loan-dashboard-page",
+      "pluralName": "personal-loan-dashboard-pages",
+      "displayName": "Personal Loan Dashboard Pages",
+      "description": ""
+    },
+    "options": {
+      "draftAndPublish": true
+    },
+    "pluginOptions": {},
+    "attributes": {
+      "partner": {
+        "type": "string",
+        "default": "default",
+        "required": false
+      },
+      "subProduct": {
+        "type": "string",
+        "default": "personal",
+        "required": false
+      },
+      "header": {
+        "type": "component",
+        "component": "personal-loan-dashboard.header-logo",
+        "required": false
+      },
+      "hero": {
+        "type": "component",
+        "component": "personal-loan-dashboard.hero-section",
+        "required": false
+      },
+      "calculator": {
+        "type": "component",
+        "component": "personal-loan-dashboard.calculator-section",
+        "required": false
+      },
+      "getStarted": {
+        "type": "component",
+        "component": "personal-loan-dashboard.get-started-section",
+        "required": false
+      },
+      "benefitBlock": {
+        "type": "component",
+        "component": "personal-loan-dashboard.benefit-block",
+        "required": false
+      },
+      "lenderLogos": {
+        "type": "component",
+        "repeatable": true,
+        "component": "personal-loan-dashboard.lender-logo",
+        "required": false,
+        "max": 10
+      },
+      "ratesAndCharges": {
+        "type": "component",
+        "component": "personal-loan-dashboard.rates-and-charges",
+        "required": false
+      },
+      "trustedPartners": {
+        "type": "component",
+        "component": "personal-loan-dashboard.trusted-partners",
+        "required": false
+      },
+      "referralBanner": {
+        "type": "component",
+        "component": "personal-loan-dashboard.referral-banner",
+        "required": false
+      },
+      "exclusiveBanner": {
+        "type": "component",
+        "component": "personal-loan-dashboard.exclusive-banner",
+        "required": false
+      },
+      "exclusiveEmployeeBanner": {
+        "type": "component",
+        "component": "personal-loan-dashboard.exclusive-employee-banner",
+        "required": false
+      },
+      "inlineInfoBanner": {
+        "type": "component",
+        "component": "personal-loan-dashboard.inline-info-banner",
+        "required": false
+      },
+      "faq": {
+        "type": "component",
+        "component": "personal-loan-dashboard.faq-section",
+        "required": false
+      },
+      "footer": {
+        "type": "component",
+        "component": "personal-loan-dashboard.footer-section",
+        "required": false
+      },
+      "plCalculatorSidebar": {
+        "type": "component",
+        "component": "personal-loan-dashboard.pl-calculator-sidebar",
+        "required": false
+      }
+    }
+  }
+}

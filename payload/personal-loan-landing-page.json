@@ -1,0 +1,96 @@
+{
+  "collection": "personal-loan-landing-page",
+  "schema": {
+    "kind": "collectionType",
+    "collectionName": "personal-loan-landing-pages",
+    "info": {
+      "singularName": "personal-loan-landing-page",
+      "pluralName": "personal-loan-landing-pages",
+      "displayName": "Personal Loan Landing Pages",
+      "description": ""
+    },
+    "options": {
+      "draftAndPublish": true
+    },
+    "pluginOptions": {},
+    "attributes": {
+      "partner": {
+        "type": "string",
+        "default": "default",
+        "required": false
+      },
+      "subProduct": {
+        "type": "string",
+        "default": "personal",
+        "required": false
+      },
+      "header": {
+        "type": "component",
+        "component": "personal-loan-landing.header-logo",
+        "required": false
+      },
+      "hero": {
+        "type": "component",
+        "component": "personal-loan-landing.hero",
+        "required": false
+      },
+      "rates": {
+        "type": "component",
+        "component": "personal-loan-landing.rates",
+        "required": false
+      },
+      "steps": {
+        "type": "component",
+        "component": "personal-loan-landing.steps",
+        "required": false
+      },
+      "footer": {
+        "type": "component",
+        "component": "personal-loan-landing.footer",
+        "required": false
+      },
+      "widget": {
+        "type": "component",
+        "component": "personal-loan-landing.widget",
+        "required": false
+      },
+      "eligibility": {
+        "type": "component",
+        "component": "personal-loan-landing.eligibility",
+        "required": false
+      },
+      "simpleSection": {
+        "type": "component",
+        "component": "personal-loan-landing.simple-section",
+        "required": false
+      },
+      "smartFeatures": {
+        "type": "component",
+        "component": "personal-loan-landing.smart-features",
+        "required": false
+      },
+      "appPromo": {
+        "type": "component",
+        "component": "personal-loan-landing.app-promo",
+        "required": false
+      },
+      "faq": {
+        "type": "component",
+        "component": "personal-loan-landing.faq",
+        "required": false
+      },
+      "partners": {
+        "type": "component",
+        "component": "personal-loan-landing.partners",
+        "required": false
+      },
+      "productHighlighters": {
+        "type": "component",
+        "repeatable": true,
+        "component": "personal-loan-landing.product-highlighter",
+        "required": false,
+        "default": []
+      }
+    }
+  }
+}
