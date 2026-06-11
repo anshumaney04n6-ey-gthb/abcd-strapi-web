@@ -119,6 +119,28 @@
       "screenConfig": {
         "dashboard": true
       }
+    },
+    "latestArticles": {
+      "linkText": "View all",
+      "ctaText": "Got it",
+      "articles": [
+        {
+          "articleId": "article-1",
+          "text": "Understanding Your Credit Score",
+          "image": null,
+          "contentHtml": "",
+          "ctaText": "View Now",
+          "order": 1
+        },
+        {
+          "articleId": "article-2",
+          "text": "How to Improve Your Credit Score",
+          "image": null,
+          "contentHtml": "",
+          "ctaText": "Read More",
+          "order": 2
+        }
+      ]
     }
   }
 }
