@@ -71,16 +71,7 @@
         "component": "personal-loan-dashboard.referral-banner",
         "required": false
       },
-      "exclusiveBanner": {
-        "type": "component",
-        "component": "personal-loan-dashboard.exclusive-banner",
-        "required": false
-      },
-      "exclusiveEmployeeBanner": {
-        "type": "component",
-        "component": "personal-loan-dashboard.exclusive-employee-banner",
-        "required": false
-      },
+
       "inlineInfoBanner": {
         "type": "component",
         "component": "personal-loan-dashboard.inline-info-banner",
